@@ -100,16 +100,17 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
-set $ws5 "5"
-set $ws6 "6"
-set $ws7 "7"
-set $ws8 "8"
-set $ws9 "9"
-set $ws10 "10"
+set $ws1    "1:   Terminal "
+set $ws2    "2:   Code "
+set $ws3    "3:   Chromium " 
+set $ws4    "4:   Files "
+set $ws5    "5:   Documents "
+set $ws6    "6:   Media "
+set $ws7    "7:   Design "
+set $ws8    "8:   Chat "
+# set $ws9    "9:   General "
+set $ws9    "9:   Firefox"
+set $ws10   "10:   Settings "
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -135,38 +136,39 @@ bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec --no-startup-id i3-nagbar -t warning -f "pango:Hack 9" -m "Do you really want to exit?" -B "    Exit " "i3-msg exit" -B "    Lock " "pkill i3-nagbar && i3lock-fancy -f Source-Sans-Pro" -B "    Reboot " "pkill i3-nagbar && reboot" -B "    Shutdown " "pkill i3-nagbar && shutdown -h now"
 
 # resize window (you can also use the mouse for that)
-mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
+bindsym $mod+r mode "  "
+mode "  " {
+    # pressing left and up will shrink the window's width and height
+    # pressing right and down will grow the window's width and height
+    bindsym $left   resize shrink width 10 px or 10 ppt
+    bindsym $down   resize grow height 10 px or 10 ppt
+    bindsym $up     resize shrink height 10 px or 10 ppt
+    bindsym $right  resize grow width 10 px or 10 ppt
 
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 5 px or 5 ppt
-        bindsym k resize grow height 5 px or 5 ppt
-        bindsym l resize shrink height 5 px or 5 ppt
-        bindsym semicolon resize grow width 5 px or 5 ppt
+    # same bindings, but for the arrow keys
+    bindsym Left    resize shrink width 10 px or 10 ppt
+    bindsym Down    resize grow height 10 px or 10 ppt
+    bindsym Up      resize shrink height 10 px or 10 ppt
+    bindsym Right   resize grow width 10 px or 10 ppt
 
-        # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 5 px or 5 ppt
-        bindsym Down resize grow height 5 px or 5 ppt
-        bindsym Up resize shrink height 5 px or 5 ppt
-        bindsym Right resize grow width 5 px or 5 ppt
-
-        # back to normal: Enter or Escape
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
+    # back to normal: Enter or win+r
+    bindsym Escape mode "default"
+    bindsym $mod+r mode "default"
 }
 
-bindsym $mod+r mode "resize"
+# assign program to workspace
+assign [class="Firefox"]            → $ws3
+
+
 # Defining colors
 
 # RGB
@@ -261,7 +263,7 @@ exec_always --no-startup-id fcitx
 set $mode_system select: lock(L) exit(E) reboot(R) poweroff(O) cancel(Esc)
 bindsym $mod+Shift+i mode "$mode_system"
 mode "$mode_system" {
-    bindsym l exec --no-startup-id i3lock -c '#000000', mode "default"
+    bindsym l exec --no-startup-id i3lock-fancy -f Monaco, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
     bindsym r exec --no-startup-id systemctl reboot, mode "default"
     bindsym o exec --no-startup-id systemctl poweroff, mode "default"
@@ -275,7 +277,4 @@ exec --no-startup-id xset dpms 365 1357
 # compton transparent
 exec --no-startup-id compton -b
 
-# run polybar 
-# exec_always --no-startup-id sh $HOME/.config/polybar/launch.sh
-# exec_always feh --bg-center ~/Pic/octocat.jpg
-# exec_always xautolock -time 10 -locker "i3lock-fancy"
+exec_always xautolock -time 10 -locker "i3lock-fancy -f Monaco"

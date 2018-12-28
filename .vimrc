@@ -9,6 +9,7 @@ set tabstop=4
 set guifont=Monaco:18
 set cindent
 """"基本设置结束""""
+
 """备份设置""""
 if has("vms")
     set nobackup
@@ -65,6 +66,8 @@ func! CompileRunGcc()
         :!time bash %
     elseif &filetype == 'go'
         :!time go run %
+    elseif &filetype == 'lua'
+        :!time lua %
     endif                                                                              
 endfunc 
 """"一键运行结束"""
@@ -89,7 +92,9 @@ Plug 'ctrlpvim/ctrlp.vim' "文件搜索
 Plug 'wakatime/vim-wakatime' "记录使用情况
 Plug 'luochen1990/rainbow' "彩虹括号
 Plug 'docunext/closetag.vim' "符号补全
-Plug 'flazz/vim-colorschemes' "配色
+" Plug 'flazz/vim-colorschemes' "配色
+Plug 'morhetz/gruvbox'
+Plug 'altercation/vim-colors-solarized'
 Plug 'Raimondi/delimitMate'
 Plug 'jiangmiao/auto-pairs'
 " Plug 'godlygeek/tabular' "markdown所需插件
@@ -102,6 +107,7 @@ Plug 'neovimhaskell/haskell-vim', {'for': ['hs', 'haskell']}
 Plug 'junegunn/vim-plug' "插件管理
 Plug 'eagletmt/neco-ghc', {'for': ['hs', 'haskell']}
 Plug 'fatih/vim-go', {'for': ['go', 'golang']}
+Plug 'icymind/NeoSolarized'
 Plug 'Valloric/YouCompleteMe'
 " Plugin 'vim-airline/vim-airline'
 " Plugin 'vim-airline/vim-airline-themes'
@@ -205,8 +211,11 @@ let g:rainbow_active = 1
 """"彩虹括号配置结束""""
 
 """"colorscheme配色配置""""
+" colorscheme gruvbox
 colorscheme gruvbox
 set background=dark
+let t:is_transparent = 0
+hi Normal guibg=NONE ctermbg=NONE
 """"colorscheme配色配置结束""""
 
 """"delimitMate符号补全设置""""
@@ -381,3 +390,27 @@ imap <silent> <F8> <Plug>MarkdownPreview        " 插入模式
 nmap <silent> <F9> <Plug>StopMarkdownPreview    " 普通模式
 imap <silent> <F9> <Plug>StopMarkdownPreview    " 插入模式
 """""""""""""""
+
+"""自动添加作者注释
+autocmd BufNewFile *.sh,*.py,*.lua exec ":call SetTitle()"                                                                                       
+"定义函数SetTitle，自动插入文件头
+autocmd BufNewFile *.cpp,*.[ch],*.sh,*.java,*lua,*.py exec ":call SetTitle()" 
+""定义函数SetTitle，自动插入文件头 
+func SetTitle() 
+    if &filetype == 'lua'
+        call setline(line(".")+0, "#!/usr/bin/env lua")
+        call setline(line(".")+1, "--------")
+        call setline(line(".")+2, "-- Author: 0x1un")
+        call setline(line(".")+3, "-- CreteDate: ".strftime("%c"))
+        call setline(line(".")+4, "--------")
+    endif
+
+    if &filetype == 'py'
+        call setline(line(".")+0, "#!/usr/bin/env python3")
+        call setline(line(".")+1, "# Author: 0x1un")
+        call setline(line(".")+2, "# CreteDate: ".strftime("%c"))
+    endif
+
+    "新建文件后，自动定位到文件末尾
+    autocmd BufNewFile * normal G
+endfunc 

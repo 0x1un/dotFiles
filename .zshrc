@@ -123,9 +123,10 @@ export PATH=${JAVA_HOME}/bin:$PATH
 ######Java8 end....######
 alias LinuxBackup="tar -zcvf ArchLinuxBackup.tar.gz --exclude-from=/home/aumujun/excl /"
 alias sudo="sudo "
-alias archBackup="rsync -av --exclude-from=/home/aumujun/excl --delete / Arch-Backup"
+alias archBackup="rsync -aAXv --exclude-from=/home/aumujun/excl --delete / /run/media/aumujun/DATA/BackUp/Arch-Backup"
+alias backpkg="rsync -aAXv --delete /var/cache/pacman/pkg/* /run/media/aumujun/DATA/PacmanCache/pkg"
 alias ungz="tar zxvf"
-
+alias top="htop"
 
 
 export PROJECT_GO=$HOME/Project/Go

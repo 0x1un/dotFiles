@@ -285,15 +285,15 @@ mode "$mode_system" {
 
 # screen off | sleep | shutdown(time unit: seconds)
 #exec --no-startup-id xset dpms 300 1357 6789
-exec --no-startup-id xset dpms 365 1357
+# exec --no-startup-id xset dpms 365 1357
 
 # compton transparent
 exec --no-startup-id compton -D0 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' --shadow-red 0.5 --shadow-green 0 --shadow-blue 1 -o 0.8
 
-exec_always xautolock -time 10 -locker "i3lock-fancy -f Monaco"
+exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -f Monaco"
 
 # set wallpaper
-exec_always feh --bg-scale /usr/share/backgrounds/wallpapers/pexels-photo-847402.jpeg
+exec_always --no-startup-id feh --bg-scale /usr/share/backgrounds/wallpapers/pexels-photo-847402.jpeg
 
 # run conky 
-exec_always conky -d
+exec_always --no-startup-id conky -d

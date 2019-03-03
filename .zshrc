@@ -124,7 +124,7 @@ export PATH=${JAVA_HOME}/bin:$PATH
 alias LinuxBackup="tar -zcvf ArchLinuxBackup.tar.gz --exclude-from=/home/aumujun/excl /"
 alias sudo="sudo "
 alias archBackup="rsync -aAXv --exclude-from=/home/aumujun/excl --delete / /run/media/aumujun/DATA/BackUp/Arch-Backup"
-alias backpkg="rsync -aAXv --delete /var/cache/pacman/pkg/* /run/media/aumujun/DATA/PacmanCache/pkg"
+alias backpkg="rsync -aAXv --progress --delete /var/cache/pacman/pkg/* /run/media/aumujun/DATA/PacmanCache/pkg"
 alias ungz="tar zxvf"
 alias top="htop"
 
@@ -147,4 +147,11 @@ export PATH=$PATH:$GOROOT/bin:{$GOPATH//://bin:}/bin
     # done
 # }
 
-
+# export XIM_PROGRAM=fcitx
+# export XIM=fcitx
+# export GTK_IM_MODULE=fcitx
+# export QT_IM_MODULE=fcitx
+# export XMODIFIERS="@im=fcitx"
+#
+# z.lua路径跳转工具
+eval "$(lua ~/.dotfiles/data/z.lua/z.lua --init zsh)"

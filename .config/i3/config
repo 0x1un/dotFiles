@@ -9,11 +9,11 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-set $mod Mod4
+
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+font pango:monospace 18
 
 gaps inner 10
 gaps outer 10
@@ -22,6 +22,8 @@ smart_gaps on
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
+set $mod Mod4
+set $term --no-startup-id $TERMINAL
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
@@ -33,8 +35,8 @@ smart_gaps on
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec termite
-
+bindsym $mod+Return exec --no-startup-id $term
+bindsym $mod+Shift+Return exec --no-startup-id termite
 # bindsym $mod+Return exec termite
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -95,6 +97,11 @@ bindsym $mod+space focus mode_toggle
 # focus the parent container
 bindsym $mod+a focus parent
 
+# refresh the NetWorkManager
+set $netrefresh --no-startup-id sudo -A systemctl restart NetworkManager
+bindsym $mod+F5     exec --no-startup-id $netrefresh
+
+
 # focus the child container
 #bindsym $mod+d focus child
 
@@ -135,13 +142,16 @@ bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
+# open the file manager of ranger
+bindsym $mod+Shift+f exec $term -e $FILE
+
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec --no-startup-id i3-nagbar -t warning -f "pango:Hack 9" -m "Do you really want to exit?" -B "    Exit " "i3-msg exit" -B "    Lock " "pkill i3-nagbar && i3lock-fancy -f Source-Sans-Pro" -B "    Reboot " "pkill i3-nagbar && reboot" -B "    Shutdown " "pkill i3-nagbar && shutdown -h now"
+bindsym $mod+Shift+e exec --no-startup-id i3-nagbar -t warning -f "pango:Hack 9" -m "Do you really want to exit?" -B "    Exit " "i3-msg exit" -B "    Lock " "pkill i3-nagbar && i3lock-fancy -gpf Monaco" -B "    Reboot " "pkill i3-nagbar && reboot" -B "    Shutdown " "pkill i3-nagbar && shutdown -h now"
 
 # resize window (you can also use the mouse for that)
 bindsym $mod+r mode "  "
@@ -202,8 +212,9 @@ bar
 	position top
 	status_command i3blocks 
     i3bar_command i3bar -t
+    # i3bar_command i3bar
 	# font pango: SauceCodePro Nerd Font Black 10
-    font pango: Monaco 10
+    font pango: Monaco 10, Icons 12
 	colors
 	{
                         # Border	# Background	# Text
@@ -249,18 +260,16 @@ bindsym $mod+u border none
 bindsym $mod+n border normal
 bindsym $mod+o border 1pixel
 bindsym $mod+b border toggle
-
 # 去掉窗口边框
-new_window normal 0 
-for_window [class="^.*"] border pixel 2
+# new_window normal 0 
+new_window none
+for_window [class="^.*"] border pixel 0 
 # set specific windows to floating mode
 for_window [class="^netease-cloud-music$"] floating enable
 for_window [class="Chromium"] floating disabled
 for_window [class="Firefox"] floating enable
 for_window [class="Thunar"] floating enable
 for_window [class="mpv"] floating disabled 
-# start ranger
-# bindsym $mod+r exec --no-startup-id ranger
 
 # copy the code to conky config
 # own_window yes
@@ -278,7 +287,7 @@ exec_always --no-startup-id fcitx
 set $mode_system select: lock(L) exit(E) reboot(R) poweroff(O) cancel(Esc)
 bindsym $mod+Shift+i mode "$mode_system"
 mode "$mode_system" {
-    bindsym l exec --no-startup-id i3lock-fancy -f Monaco, mode "default"
+    bindsym l exec --no-startup-id i3lock-fancy -gpf Monaco, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
     bindsym r exec --no-startup-id systemctl reboot, mode "default"
     bindsym o exec --no-startup-id systemctl poweroff, mode "default"
@@ -291,11 +300,15 @@ bindsym $mod+Shift+a exec --no-startup-id flameshot gui
 # exec --no-startup-id xset dpms 365 1357
 
 # compton transparent
-exec --no-startup-id compton -D0 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' --shadow-red 0.5 --shadow-green 0 --shadow-blue 1 -o 0.8
+# 基佬紫
+# exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' --shadow-red 0.5 --shadow-green 0 --shadow-blue 1 -o 0.7
 
-exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -f Monaco"
+exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' -o 0.7
+
+exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco"
 
 # set wallpaper
-exec_always --no-startup-id feh --bg-scale /usr/share/backgrounds/wallpapers/earth-earth-at-night-night-lights-41949.jpeg
+exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
 # run conky 
-exec_always --no-startup-id conky -d
+bindsym $mod+c exec --no-startup-id conky -d
+

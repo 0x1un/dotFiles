@@ -1,13 +1,16 @@
 """"基本设置""""
+syntax on " 语法高亮
 set ai! " 关闭自动换行
 set nohls " 不显示空格颜色
 set smartindent
 set shiftwidth=4
 set expandtab
-syntax on
 set tabstop=4
 set guifont=Monaco:18
 set cindent
+autocmd FileType python nnoremap <LocalLeader>= :0,$!yapf --style google<CR> " 格式化python代码
+
+autocmd FileType python nnoremap <LocalLeader>i :!isort %<CR><CR> " import 整理
 """"基本设置结束""""
 
 """备份设置""""
@@ -98,7 +101,7 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'Raimondi/delimitMate'
 Plug 'jiangmiao/auto-pairs'
 " Plug 'godlygeek/tabular' "markdown所需插件
-Plug 'plasticboy/vim-markdown', {'for': ['markdown']}"markdown所需插件
+" Plug 'plasticboy/vim-markdown', {'for': ['markdown']}"markdown所需插件
 Plug 'iamcco/markdown-preview.vim', {'for': ['markdown']}   "markdown预览插件
 Plug 'scrooloose/nerdcommenter'  "注释插件
 Plug 'w0rp/ale'   "语法检查

@@ -1,0 +1,10 @@
+#!/usr/bin/env lua
+
+function get_brightness()
+    return io.popen('xbacklight'):read("*all");
+end
+
+local bn = get_brightness()
+local bn = string.format("%0.1f", bn)
+print(string.format(" %s%%", bn))
+os.exit()

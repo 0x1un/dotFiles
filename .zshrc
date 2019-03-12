@@ -7,8 +7,8 @@ export ZSH="/home/aumujun/.oh-my-zsh"
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="cloud"
-
+# ZSH_THEME="cloud"
+ZSH_THEME="lambda-mod"
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
 # cause zsh load theme from this variable instead of
@@ -63,6 +63,9 @@ ZSH_THEME="cloud"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  zsh-autosuggestions
+  # zsh-syntax-highlighting
+  fast-syntax-highlighting 
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -95,11 +98,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-[[ -s /home/aumujun/.autojump/etc/profile.d/autojump.sh ]] && source /home/aumujun/.autojump/etc/profile.d/autojump.sh
-
 autoload -U compinit && compinit -u
-source ~/SoftWare/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/SoftWare/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting-filetypes/zsh-syntax-highlighting-filetypes.zsh
+
+# source ~/SoftWare/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias pc="proxychains4"
 v2rayPath="~/SoftWare/v2ray-v2.42-linux-32"
 alias v2ray="$v2rayPath/v2ray -config $v2rayPath/vpoint_socks_vmess.json"
@@ -129,10 +132,11 @@ alias ungz="tar zxvf"
 alias top="htop"
 
 
-export PROJECT_GO=$HOME/Project/Go
-export GOROOT=/usr/lib/go
-export GOPATH=$HOME/gocode:$PROJECT_GO
-export PATH=$PATH:$GOROOT/bin:{$GOPATH//://bin:}/bin
+# export PROJECT_GO=$HOME/Project/Go
+# export GOROOT=/usr/lib/go
+export GOPATH=$HOME/GoP
+export PATH=$PATH:$GOPATH/bin
+
 
 ######Gopath目录快速设置######
 # cd () {
@@ -155,3 +159,29 @@ export PATH=$PATH:$GOROOT/bin:{$GOPATH//://bin:}/bin
 #
 # z.lua路径跳转工具
 eval "$(lua ~/.dotfiles/data/z.lua/z.lua --init zsh)"
+eval "$(lua ~/.dotfiles/data/z.lua/z.lua  --init zsh once enhanced)"    # ZSH 初始化
+alias zf="z -I"
+alias zb="z -b"
+alias godns="echo -e 'nameserver 114.114.114.114\nnameserver 114.114.115.115'"
+alias zreboot="sync && sleep 3 && reboot"
+alias zshutdown="sync && sleep 3 && shutdown -h now"
+alias kc="killall -q conky"
+alias i3config="vim ~/.config/i3/config"
+alias data="ranger /run/media/aumujun/DATA/"
+alias ref="exec $SHELL"
+
+alias res="fg %1"
+
+alias rm=trash
+alias r=trash
+alias rl='ls ~/.local/share/Trash/files/'
+alias ur=recoverfile
+recoverfile()
+{
+	mv -i ~/.local/share/Trash/files/$@ ./
+}
+
+trash()
+{
+	mv $@ ~/.local/share/Trash/files/
+}

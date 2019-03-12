@@ -1,0 +1,34 @@
+{
+    "suggest.triggerAfterInsertEnter": true,
+    "suggest.timeout": 500,
+    "suggest.noselect": false,
+    "suggest.detailField": "abbr",
+    "suggest.preferCompleteThanJumpPlaceholder": true,
+    "suggest.snippetIndicator": "\ud83c\udf1f",
+    "suggest.triggerCompletionWait": 50,
+    "diagnostic.errorSign": "\ud83d\udc09",
+    "diagnostic.warningSign": "\ud83d\udc2c",
+    "languageserver": {
+        "lua": {
+            "command": "lua-lsp",
+            "filetypes": [
+                "lua"
+            ]
+        },
+        "golang": {
+            "command": "bingo",
+            "args": [
+                "--diagnostics-style=instant"
+            ],
+            "rootPatterns": [
+                "go.mod",
+                ".vim/",
+                ".git/",
+                ".hg/"
+            ],
+            "filetypes": [
+                "go"
+            ]
+        }
+    }
+}

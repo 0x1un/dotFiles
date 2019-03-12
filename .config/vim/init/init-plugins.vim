@@ -7,9 +7,9 @@ endfunc
 
 
 
-call plug#begin(get(g:, 'bundle_home', '~/.dotfiles/data/vimdata/bundle'))
-" 目录插件
-Plug	'scrooloose/nerdtree'
+call plug#begin(get(g:, 'bundle_home', '~/.dotfiles/data/vimdata/bundle')) 
+" 目录插件 
+Plug 	'scrooloose/nerdtree'
 
 " 彩虹括号
 Plug	'luochen1990/rainbow'
@@ -47,13 +47,29 @@ Plug 	'mhinz/vim-startify'
 " 运行
 Plug 	'xuhdev/SingleCompile'
 
-" Icons
+" 文件图标
 Plug 	'ryanoasis/vim-devicons'
 
-" tagbar
+" tagbar 查看函数属性
 Plug 	'majutsushi/tagbar'
 
-" i3 config
+" 高亮i3配置文件
 Plug 	'PotatoesMaster/i3-vim-syntax'
+
+" 文件目录管理工具
+Plug 	'Shougo/defx.nvim'
+
+" defx的文件图标
+Plug 	'kristijanhusak/defx-icons'
+
+" lightline状态栏
+Plug 	'itchyny/lightline.vim'
+
+" lightline顶部buffer
+Plug 	'mengelbrecht/lightline-bufferline'
+
+Plug 	'yarisgutierrez/ayu-lightline'
+
+Plug 	'taigacute/spaceline.vim'
 call plug#end()
 

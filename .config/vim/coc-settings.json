@@ -4,10 +4,10 @@
     "suggest.noselect": false,
     "suggest.detailField": "abbr",
     "suggest.preferCompleteThanJumpPlaceholder": true,
-    "suggest.snippetIndicator": "\ud83c\udf1f",
+    "suggest.snippetIndicator": "🌘",
     "suggest.triggerCompletionWait": 50,
-    "diagnostic.errorSign": "\ud83d\udc09",
-    "diagnostic.warningSign": "\ud83d\udc2c",
+    "diagnostic.errorSign": "😭",
+    "diagnostic.warningSign": "😈",
     "languageserver": {
         "lua": {
             "command": "lua-lsp",

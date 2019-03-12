@@ -28,9 +28,11 @@ LoadScript init/init-basic.vim
 " 插件加载
 LoadScript init/init-plugins.vim
 
-LoadScript plugins/vim-plug.vim
-
 LoadScript init/init-style.vim
+
+LoadScript init/keymaps.vim
+
+LoadScript plugins/vim-plug.vim
 
 LoadScript plugins/nerdTree.vim
 
@@ -44,9 +46,10 @@ LoadScript plugins/vim-go.vim
 
 LoadScript plugins/startify.vim
 
-LoadScript init/keymaps.vim
-
 LoadScript plugins/coc-config.vim
 
 LoadScript plugins/nerdcommenter.vim
 
+LoadScript plugins/defx.vim
+
+LoadScript plugins/lightline.vim

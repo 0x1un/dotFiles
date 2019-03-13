@@ -68,8 +68,18 @@ Plug 	'itchyny/lightline.vim'
 " lightline顶部buffer
 Plug 	'mengelbrecht/lightline-bufferline'
 
+" lightline 主题
 Plug 	'yarisgutierrez/ayu-lightline'
 
+" lightline主题
 Plug 	'taigacute/spaceline.vim'
+
+" 代码片段补全
+Plug 	'Shougo/neosnippet.vim'
+Plug 	'Shougo/neosnippet-snippets'
+
+" 符号补全
+Plug 	'Raimondi/delimitMate'
+Plug 	'SirVer/ultisnips'
 call plug#end()
 

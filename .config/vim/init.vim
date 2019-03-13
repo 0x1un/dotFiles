@@ -53,3 +53,6 @@ LoadScript plugins/nerdcommenter.vim
 LoadScript plugins/defx.vim
 
 LoadScript plugins/lightline.vim
+
+LoadScript plugins/neosnippet.vim
+

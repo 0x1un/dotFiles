@@ -4,10 +4,10 @@
     "suggest.noselect": false,
     "suggest.detailField": "abbr",
     "suggest.preferCompleteThanJumpPlaceholder": true,
-    "suggest.snippetIndicator": "🌘",
+    "suggest.snippetIndicator": "\ud83c\udf18",
     "suggest.triggerCompletionWait": 50,
-    "diagnostic.errorSign": "😭",
-    "diagnostic.warningSign": "😈",
+    "diagnostic.errorSign": "\ud83d\ude2d",
+    "diagnostic.warningSign": "\ud83d\ude08",
     "languageserver": {
         "lua": {
             "command": "lua-lsp",
@@ -16,19 +16,15 @@
             ]
         },
         "golang": {
-            "command": "bingo",
-            "args": [
-                "--diagnostics-style=instant"
-            ],
-            "rootPatterns": [
-                "go.mod",
-                ".vim/",
-                ".git/",
-                ".hg/"
-            ],
+            "command": "go-langserver",
             "filetypes": [
                 "go"
-            ]
+            ],
+            "initializationOptions": {
+                "gocodeCompletionEnabled": true,
+                "diagnosticsEnabled": true,
+                "lintTool": "golint"
+            }
         }
     }
 }

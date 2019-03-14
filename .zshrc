@@ -172,16 +172,16 @@ alias ref="exec $SHELL"
 
 alias res="fg %1"
 
-alias rm=trash
-alias r=trash
-alias rl='ls ~/.local/share/Trash/files/'
-alias ur=recoverfile
-recoverfile()
-{
-	mv -i ~/.local/share/Trash/files/$@ ./
-}
-
-trash()
-{
-	mv $@ ~/.local/share/Trash/files/
-}
+# alias rm=trash
+# alias r=trash
+# alias rl='ls ~/.local/share/Trash/files/'
+# alias ur=recoverfile
+# recoverfile()
+# {
+	# mv -i ~/.local/share/Trash/files/$@ ./
+# }
+#
+# trash()
+# {
+	# mv $@ ~/.local/share/Trash/files/
+# }

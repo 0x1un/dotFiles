@@ -30,6 +30,8 @@ LoadScript init/init-plugins.vim
 
 LoadScript init/init-style.vim
 
+LoadScript init/auto-run.vim
+
 LoadScript init/keymaps.vim
 
 LoadScript plugins/vim-plug.vim
@@ -54,5 +56,5 @@ LoadScript plugins/defx.vim
 
 LoadScript plugins/lightline.vim
 
-LoadScript plugins/neosnippet.vim
+" LoadScript plugins/neosnippet.vim
 

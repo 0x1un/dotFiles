@@ -3,4 +3,4 @@ rofi.theme: ~/.config/rofi/material.rasi
 rofi.show-icons: true
 rofi.display-window: Window
 rofi.display-drun: Run
-rofi.font: monaco 12
+rofi.font: Source\ Code\ Pro 12

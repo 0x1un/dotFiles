@@ -25,6 +25,7 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec --no-startup-id $term
 bindsym $mod+Shift+Return exec --no-startup-id termite
+bindsym $mod+Shift+m exec --no-startup-id alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -285,7 +286,7 @@ exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/night-of-mountain.jpeg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/262977.jpg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
 

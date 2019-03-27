@@ -81,5 +81,9 @@ Plug 	'Shougo/neosnippet-snippets'
 " 符号补全
 Plug 	'Raimondi/delimitMate'
 Plug 	'SirVer/ultisnips'
+
+" 文件模糊搜索
+Plug 	'Yggdroot/LeaderF', { 'do': './install.sh' }
+
 call plug#end()
 

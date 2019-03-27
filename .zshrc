@@ -60,9 +60,13 @@ alias kc="killall -q conky"
 alias i3config="vim ~/.config/i3/config"
 alias data="ranger /run/media/aumujun/DATA/"
 alias ref="exec $SHELL"
-
+alias vim="nvim"
+alias v="nvim"
+alias nv="nvim"
+alias vi="nvim"
 alias res="fg %1"
-
+alias ar="aria2c "
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 # alias rm=trash
 # alias r=trash
 # alias rl='ls ~/.local/share/Trash/files/'
@@ -77,4 +81,4 @@ alias res="fg %1"
 	# mv $@ ~/.local/share/Trash/files/
 # }
 
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+

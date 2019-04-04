@@ -25,7 +25,7 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec --no-startup-id $term
 bindsym $mod+Shift+Return exec --no-startup-id termite
-bindsym $mod+Shift+m exec --no-startup-id alacritty
+bindsym $mod+Shift+m exec --no-startup-id alacritty --title="alacritty"
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -168,6 +168,7 @@ assign [class="^Chromium$"]         → $ws3
 assign [class="Telegram"]           → $ws8
 assign [class="Wireshark"]          → $ws9
 assign [class="electronic-wechat"]  → $ws8
+assign [class="netease-cloud-music"] → $ws10
 
 # Defining colors
 
@@ -197,13 +198,13 @@ bar
 	position top
 	status_command i3blocks
 	# the -t flag is transparent mode 
-    	i3bar_command i3bar -t 
+    	i3bar_command i3bar -t
     	# i3bar_command i3bar
 	# font pango: SauceCodePro Nerd Font Black 10
     	font pango: Monaco 14, Icons 14
 	colors
 	{
-                        # Border	# Background	# Text
+             	# Border	   # Background	        # Text
 		focused_workspace   $silver0  $silver0  $elegant
 		active_workspace    $elegant  $elegant  $orange
 		inactive_workspace  $elegant  $elegant 	$cyan0
@@ -243,12 +244,10 @@ bindsym $mod+b border toggle
 # new_window normal 0 
 new_window none
 for_window [class="^.*"] border pixel 0 
-for_window [class="^netease-cloud-music$"] floating enable
 for_window [class="Chromium"] floating disabled
 for_window [class="Firefox"] floating enable
 for_window [class="Thunar"] floating enable
 for_window [class="mpv"] floating disabled 
-
 # copy the code to conky config
 # own_window yes
 # own_window_class Conky
@@ -276,9 +275,7 @@ bindsym $mod+Shift+a exec --no-startup-id flameshot gui
 # screen off | sleep | shutdown(time unit: seconds)
 #exec --no-startup-id xset dpms 300 1357 6789
 # exec --no-startup-id xset dpms 365 1357
-
 # compton transparent
-# exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' --shadow-red 0.5 --shadow-green 0 --shadow-blue 1 -o 0.7
 
 exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' -o 0.7
 
@@ -286,7 +283,7 @@ exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/262977.jpg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/starry-redblue-jangle.jpeg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
-
+bindsym $mod+x exec --no-startup-id killall -9 conky

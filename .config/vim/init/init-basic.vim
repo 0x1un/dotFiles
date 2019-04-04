@@ -144,6 +144,15 @@ if has('folding')
 	set foldlevel=99
 endif
 
+"----------------------------------------------------------------------
+" 设置normal相对行号, insert绝对行号
+"----------------------------------------------------------------------
+set nu
+augroup relative_numbser
+    autocmd!
+    autocmd InsertEnter * :set norelativenumber
+    autocmd InsertLeave * :set relativenumber
+augroup END
 
 
 "----------------------------------------------------------------------

@@ -3,48 +3,38 @@
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
 # set by alacritty it self.
+# env:
 env:
   TERM: xterm-256color
+  WINIT_HIDPI_FACTOR: 1
 
 window:
   dimensions:
-    columns: 0
-    lines: 0
+    columns: 80
+    lines: 24
 
   padding:
-    x: 0
-    y: 0
+    x: 10
+    y: 10
 
-  # Window decorations
-  # Setting this to false will result in window without borders and title bar.
+  dynamic_padding: false
+
   decorations: full
 
-tabspaces: 3
+  start_maximized: false
 
-draw_bold_text_with_bright_colors: true
+scrolling:
+  history: 2500
+  multiplier: 3
+  faux_multiplier: 3
+  auto_scroll: false
 
-# Font configuration (changes require restart)
-#
-# Please see these resources for more information on how to use fontconfig
-#
-# * https://wiki.archlinux.org/index.php/font_configuration#Fontconfig_configuration
-# * file:///usr/share/doc/fontconfig/fontconfig-user.html
-# font:
-  # normal:
-    # family: SauceCodePro Nerd Font
-    # style: Bold
-#
-  # bold:
-    # family: SauceCodePro Nerd Font
-    # style: Bold
-#
-  # italic:
-    # family: SauceCodePro Nerd Font
-#     style: Italic
+tabspaces: 4 # TERM: xterm-256color
+
 font:
   normal:
     family: Monaco
-    style: Bold
+    style: Regular
 
   bold:
     family: Monaco
@@ -54,7 +44,7 @@ font:
     family: Monaco
     style: Italic
 
-  size: 10.0
+  size: 14.0
 
   # Offset is the extra space around each character. offset.y can be thought of
   # as modifying the linespacing, and offset.x as modifying the letter spacing.

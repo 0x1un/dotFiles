@@ -11,14 +11,18 @@ separator=false
 separator_block_width=20
 markup=pango
 
+# [click]
+# full_text=Click me!
+# command=echo "Got clicked with button $button"
+# color=#F79494
 # Blocks
 
 # Display current song
-[mediaplayer]
-instance=spotify
-interval=5
-signal=10
-color=#E88939
+# [mediaplayer]
+# instance=spotify
+# interval=5
+# signal=10
+# color=#E88939
 
 # Arch Linux updates
 [arch_update.py]
@@ -99,3 +103,4 @@ color=#21b089
 command=printf "\\uf073 " && date '+%F %A  ' 
 interval=60
 color=#f9555f
+

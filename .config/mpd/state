@@ -1,9 +1,9 @@
-sw_volume: 49
-audio_device_state:1:ALSA sound card
+sw_volume: 62
+audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 21
-time: 4.541000
+state: play
+current: 34
+time: 1.946000
 random: 0
 repeat: 0
 single: 0

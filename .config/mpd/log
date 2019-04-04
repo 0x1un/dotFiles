@@ -2194,3 +2194,993 @@ Apr 04 18:40 : client: [929] opened from 127.0.0.1:47192
 Apr 04 18:40 : client: [929] closed
 Apr 04 18:40 : client: [930] opened from 127.0.0.1:47196
 Apr 04 18:40 : client: [930] closed
+Apr 04 18:40 : client: [931] opened from 127.0.0.1:47200
+Apr 04 18:40 : client: [931] closed
+Apr 04 18:40 : client: [932] opened from 127.0.0.1:47204
+Apr 04 18:40 : client: [932] closed
+Apr 04 18:40 : client: [933] opened from 127.0.0.1:47208
+Apr 04 18:40 : client: [933] closed
+Apr 04 18:40 : client: [934] opened from 127.0.0.1:47212
+Apr 04 18:40 : client: [934] closed
+Apr 04 18:40 : client: [935] opened from 127.0.0.1:47218
+Apr 04 18:40 : client: [935] closed
+Apr 04 18:40 : client: [936] opened from 127.0.0.1:47222
+Apr 04 18:40 : client: [936] closed
+Apr 04 18:41 : client: [937] opened from 127.0.0.1:47226
+Apr 04 18:41 : client: [937] closed
+Apr 04 18:41 : client: [938] opened from 127.0.0.1:47230
+Apr 04 18:41 : client: [938] closed
+Apr 04 18:41 : client: [939] opened from 127.0.0.1:47234
+Apr 04 18:41 : client: [939] closed
+Apr 04 18:41 : client: [940] opened from 127.0.0.1:47238
+Apr 04 18:41 : client: [940] closed
+Apr 04 18:41 : client: [941] opened from 127.0.0.1:47242
+Apr 04 18:41 : client: [941] closed
+Apr 04 18:41 : client: [942] opened from 127.0.0.1:47252
+Apr 04 18:41 : client: [942] closed
+Apr 04 18:41 : client: [943] opened from 127.0.0.1:47256
+Apr 04 18:41 : client: [943] closed
+Apr 04 18:41 : client: [944] opened from 127.0.0.1:47260
+Apr 04 18:41 : client: [944] closed
+Apr 04 18:41 : client: [945] opened from 127.0.0.1:47264
+Apr 04 18:41 : client: [945] closed
+Apr 04 18:41 : client: [946] opened from 127.0.0.1:47268
+Apr 04 18:41 : client: [946] closed
+Apr 04 18:41 : client: [947] opened from 127.0.0.1:47272
+Apr 04 18:41 : client: [947] closed
+Apr 04 18:41 : client: [948] opened from 127.0.0.1:47276
+Apr 04 18:41 : client: [948] closed
+Apr 04 18:42 : client: [949] opened from 127.0.0.1:47280
+Apr 04 18:42 : client: [949] closed
+Apr 04 18:42 : client: [950] opened from 127.0.0.1:47284
+Apr 04 18:42 : client: [950] closed
+Apr 04 18:42 : client: [951] opened from 127.0.0.1:47288
+Apr 04 18:42 : client: [951] closed
+Apr 04 18:42 : client: [952] opened from 127.0.0.1:47292
+Apr 04 18:42 : client: [952] closed
+Apr 04 18:42 : client: [953] opened from 127.0.0.1:47296
+Apr 04 18:42 : client: [953] closed
+Apr 04 18:42 : client: [954] opened from 127.0.0.1:47300
+Apr 04 18:42 : client: [954] closed
+Apr 04 18:42 : client: [955] opened from 127.0.0.1:47308
+Apr 04 18:42 : client: [955] closed
+Apr 04 18:42 : client: [956] opened from 127.0.0.1:47312
+Apr 04 18:42 : client: [956] closed
+Apr 04 18:42 : client: [957] opened from 127.0.0.1:47316
+Apr 04 18:42 : client: [957] closed
+Apr 04 18:42 : client: [958] opened from 127.0.0.1:47320
+Apr 04 18:42 : client: [958] closed
+Apr 04 18:42 : client: [959] opened from 127.0.0.1:47324
+Apr 04 18:42 : client: [959] closed
+Apr 04 18:42 : client: [960] opened from 127.0.0.1:47330
+Apr 04 18:42 : client: [960] closed
+Apr 04 18:42 : client: [961] opened from 127.0.0.1:47334
+Apr 04 18:42 : client: [961] closed
+Apr 04 18:43 : client: [962] opened from 127.0.0.1:47338
+Apr 04 18:43 : client: [962] closed
+Apr 04 18:43 : client: [963] opened from 127.0.0.1:47346
+Apr 04 18:43 : client: [963] closed
+Apr 04 18:43 : client: [964] opened from 127.0.0.1:47350
+Apr 04 18:43 : client: [964] closed
+Apr 04 18:43 : client: [965] opened from 127.0.0.1:47354
+Apr 04 18:43 : client: [965] closed
+Apr 04 18:43 : client: [966] opened from 127.0.0.1:47358
+Apr 04 18:43 : client: [966] closed
+Apr 04 18:43 : client: [967] opened from 127.0.0.1:47366
+Apr 04 18:43 : client: [967] closed
+Apr 04 18:43 : client: [968] opened from 127.0.0.1:47370
+Apr 04 18:43 : client: [968] closed
+Apr 04 18:43 : client: [969] opened from 127.0.0.1:47374
+Apr 04 18:43 : client: [969] closed
+Apr 04 18:43 : client: [970] opened from 127.0.0.1:47378
+Apr 04 18:43 : client: [970] closed
+Apr 04 18:43 : client: [971] opened from 127.0.0.1:47382
+Apr 04 18:43 : client: [971] closed
+Apr 04 18:43 : client: [972] opened from 127.0.0.1:47386
+Apr 04 18:43 : client: [972] closed
+Apr 04 18:43 : client: [973] opened from 127.0.0.1:47390
+Apr 04 18:43 : client: [973] closed
+Apr 04 18:44 : client: [974] opened from 127.0.0.1:47398
+Apr 04 18:44 : client: [974] closed
+Apr 04 18:44 : client: [975] opened from 127.0.0.1:47400
+Apr 04 18:44 : client: [976] opened from 127.0.0.1:47404
+Apr 04 18:44 : client: [976] closed
+Apr 04 18:44 : client: [977] opened from 127.0.0.1:47408
+Apr 04 18:44 : client: [977] closed
+Apr 04 18:44 : client: [978] opened from 127.0.0.1:47412
+Apr 04 18:44 : client: [978] closed
+Apr 04 18:44 : client: [979] opened from 127.0.0.1:47416
+Apr 04 18:44 : client: [979] closed
+Apr 04 18:44 : client: [975] closed
+Apr 04 18:44 : client: [980] opened from 127.0.0.1:47420
+Apr 04 18:44 : client: [980] closed
+Apr 04 18:44 : client: [981] opened from 127.0.0.1:47424
+Apr 04 18:44 : client: [981] closed
+Apr 04 18:44 : client: [982] opened from 127.0.0.1:47428
+Apr 04 18:44 : client: [982] closed
+Apr 04 18:44 : client: [983] opened from 127.0.0.1:47432
+Apr 04 18:44 : client: [983] closed
+Apr 04 18:44 : client: [984] opened from 127.0.0.1:47436
+Apr 04 18:44 : client: [984] closed
+Apr 04 18:44 : client: [985] opened from 127.0.0.1:47440
+Apr 04 18:44 : client: [985] closed
+Apr 04 18:44 : client: [986] opened from 127.0.0.1:47444
+Apr 04 18:44 : client: [986] closed
+Apr 04 18:45 : client: [987] opened from 127.0.0.1:47452
+Apr 04 18:45 : client: [987] closed
+Apr 04 18:45 : player: played "DJ Okawari/Flower Dance.mp3"
+Apr 04 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 18:51 : client: [0] opened from 127.0.0.1:39124
+Apr 04 18:51 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Apr 04 18:51 : client: [0] closed
+Apr 04 18:51 : client: [1] opened from 127.0.0.1:39128
+Apr 04 18:51 : client: [1] closed
+Apr 04 18:51 : client: [2] opened from 127.0.0.1:39130
+Apr 04 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 18:51 : client: [3] opened from 127.0.0.1:39134
+Apr 04 18:51 : client: [3] closed
+Apr 04 18:51 : client: [4] opened from 127.0.0.1:39138
+Apr 04 18:51 : client: [4] closed
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:51 : client: [5] opened from 127.0.0.1:39142
+Apr 04 18:51 : client: [5] closed
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : client: [6] opened from 127.0.0.1:39148
+Apr 04 18:52 : client: [6] closed
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : client: [7] opened from 127.0.0.1:39152
+Apr 04 18:52 : client: [7] closed
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : client: [8] opened from 127.0.0.1:39156
+Apr 04 18:52 : client: [8] closed
+Apr 04 18:52 : client: [9] opened from 127.0.0.1:39160
+Apr 04 18:52 : client: [9] closed
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : client: [10] opened from 127.0.0.1:39164
+Apr 04 18:52 : client: [10] closed
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:52 : client: [11] opened from 127.0.0.1:39168
+Apr 04 18:52 : client: [11] closed
+Apr 04 18:52 : client: [2] closed
+Apr 04 18:52 : client: [12] opened from 127.0.0.1:39172
+Apr 04 18:52 : client: [12] closed
+Apr 04 18:52 : client: [13] opened from 127.0.0.1:39176
+Apr 04 18:52 : client: [13] closed
+Apr 04 18:52 : client: [14] opened from 127.0.0.1:39180
+Apr 04 18:52 : client: [14] closed
+Apr 04 18:52 : client: [15] opened from 127.0.0.1:39184
+Apr 04 18:52 : client: [15] closed
+Apr 04 18:52 : client: [16] opened from 127.0.0.1:39188
+Apr 04 18:52 : client: [16] closed
+Apr 04 18:52 : client: [17] opened from 127.0.0.1:39192
+Apr 04 18:52 : client: [17] closed
+Apr 04 18:53 : client: [18] opened from 127.0.0.1:39196
+Apr 04 18:53 : client: [18] closed
+Apr 04 18:53 : client: [19] opened from 127.0.0.1:39202
+Apr 04 18:53 : client: [19] closed
+Apr 04 18:53 : client: [20] opened from 127.0.0.1:39206
+Apr 04 18:53 : client: [20] closed
+Apr 04 18:53 : client: [21] opened from 127.0.0.1:39210
+Apr 04 18:53 : client: [21] closed
+Apr 04 18:53 : client: [22] opened from 127.0.0.1:39214
+Apr 04 18:53 : client: [22] closed
+Apr 04 18:53 : client: [23] opened from 127.0.0.1:39218
+Apr 04 18:53 : client: [23] closed
+Apr 04 18:53 : client: [24] opened from 127.0.0.1:39222
+Apr 04 18:53 : client: [24] closed
+Apr 04 18:53 : client: [25] opened from 127.0.0.1:39226
+Apr 04 18:53 : client: [25] closed
+Apr 04 18:53 : client: [26] opened from 127.0.0.1:39230
+Apr 04 18:53 : client: [26] closed
+Apr 04 18:53 : client: [27] opened from 127.0.0.1:39234
+Apr 04 18:53 : client: [27] closed
+Apr 04 18:53 : client: [28] opened from 127.0.0.1:39238
+Apr 04 18:53 : client: [28] closed
+Apr 04 18:53 : client: [29] opened from 127.0.0.1:39242
+Apr 04 18:53 : client: [29] closed
+Apr 04 18:54 : client: [30] opened from 127.0.0.1:39246
+Apr 04 18:54 : client: [30] closed
+Apr 04 18:54 : client: [31] opened from 127.0.0.1:39250
+Apr 04 18:54 : client: [31] closed
+Apr 04 18:54 : client: [32] opened from 127.0.0.1:39254
+Apr 04 18:54 : client: [32] closed
+Apr 04 18:54 : client: [33] opened from 127.0.0.1:39258
+Apr 04 18:54 : client: [33] closed
+Apr 04 18:54 : client: [34] opened from 127.0.0.1:39262
+Apr 04 18:54 : client: [34] closed
+Apr 04 18:54 : client: [35] opened from 127.0.0.1:39264
+Apr 04 18:54 : client: [36] opened from 127.0.0.1:39268
+Apr 04 18:54 : client: [36] closed
+Apr 04 18:54 : client: [37] opened from 127.0.0.1:39272
+Apr 04 18:54 : client: [37] closed
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : client: [38] opened from 127.0.0.1:39276
+Apr 04 18:54 : client: [38] closed
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : exception: Failed to set mixer for 'ALSA sound card': failed to set ALSA volume: Operation not permitted
+Apr 04 18:54 : client: [39] opened from 127.0.0.1:39280
+Apr 04 18:54 : client: [39] closed
+Apr 04 18:54 : client: [40] opened from 127.0.0.1:39284
+Apr 04 18:54 : client: [40] closed
+Apr 04 18:54 : client: [41] opened from 127.0.0.1:39288
+Apr 04 18:54 : client: [41] closed
+Apr 04 18:54 : client: [42] opened from 127.0.0.1:39292
+Apr 04 18:54 : client: [42] closed
+Apr 04 18:55 : client: [43] opened from 127.0.0.1:39296
+Apr 04 18:55 : client: [43] closed
+Apr 04 18:55 : client: [44] opened from 127.0.0.1:39300
+Apr 04 18:55 : client: [44] closed
+Apr 04 18:55 : client: [45] opened from 127.0.0.1:39304
+Apr 04 18:55 : client: [45] closed
+Apr 04 18:55 : client: [46] opened from 127.0.0.1:39310
+Apr 04 18:55 : client: [46] closed
+Apr 04 18:55 : client: [47] opened from 127.0.0.1:39314
+Apr 04 18:55 : client: [47] closed
+Apr 04 18:55 : client: [48] opened from 127.0.0.1:39318
+Apr 04 18:55 : client: [48] closed
+Apr 04 18:55 : client: [49] opened from 127.0.0.1:39322
+Apr 04 18:55 : client: [49] closed
+Apr 04 18:55 : client: [50] opened from 127.0.0.1:39326
+Apr 04 18:55 : client: [50] closed
+Apr 04 18:55 : client: [51] opened from 127.0.0.1:39330
+Apr 04 18:55 : client: [51] closed
+Apr 04 18:55 : client: [52] opened from 127.0.0.1:39334
+Apr 04 18:55 : client: [52] closed
+Apr 04 18:55 : client: [53] opened from 127.0.0.1:39338
+Apr 04 18:55 : client: [53] closed
+Apr 04 18:55 : client: [54] opened from 127.0.0.1:39342
+Apr 04 18:55 : client: [55] opened from 127.0.0.1:39346
+Apr 04 18:55 : client: [55] closed
+Apr 04 18:56 : client: [56] opened from 127.0.0.1:39352
+Apr 04 18:56 : client: [56] closed
+Apr 04 18:56 : client: [54] closed
+Apr 04 18:56 : client: [57] opened from 127.0.0.1:39356
+Apr 04 18:56 : client: [57] closed
+Apr 04 18:56 : player: played "DJ Okawari/Flower Dance.mp3"
+Apr 04 18:56 : client: [58] opened from 127.0.0.1:39360
+Apr 04 18:56 : client: [58] closed
+Apr 04 18:56 : client: [59] opened from 127.0.0.1:39364
+Apr 04 18:56 : client: [59] closed
+Apr 04 18:56 : client: [60] opened from 127.0.0.1:39368
+Apr 04 18:56 : client: [60] closed
+Apr 04 18:56 : client: [61] opened from 127.0.0.1:39372
+Apr 04 18:56 : client: [61] closed
+Apr 04 18:56 : client: [62] opened from 127.0.0.1:39376
+Apr 04 18:56 : client: [62] closed
+Apr 04 18:56 : client: [35] closed
+Apr 04 18:56 : client: [63] opened from 127.0.0.1:39380
+Apr 04 18:56 : client: [63] closed
+Apr 04 18:56 : client: [64] opened from 127.0.0.1:39470
+Apr 04 18:56 : client: [64] closed
+Apr 04 18:56 : client: [65] opened from 127.0.0.1:39526
+Apr 04 18:56 : client: [65] closed
+Apr 04 18:56 : client: [66] opened from 127.0.0.1:39534
+Apr 04 18:56 : client: [66] closed
+Apr 04 18:56 : client: [67] opened from 127.0.0.1:39538
+Apr 04 18:56 : client: [67] closed
+Apr 04 18:57 : client: [68] opened from 127.0.0.1:39548
+Apr 04 18:57 : client: [68] closed
+Apr 04 18:57 : client: [69] opened from 127.0.0.1:39562
+Apr 04 18:57 : client: [69] closed
+Apr 04 18:57 : client: [70] opened from 127.0.0.1:39566
+Apr 04 18:57 : client: [70] closed
+Apr 04 18:57 : client: [71] opened from 127.0.0.1:39576
+Apr 04 18:57 : client: [71] closed
+Apr 04 18:57 : client: [72] opened from 127.0.0.1:39586
+Apr 04 18:57 : client: [72] closed
+Apr 04 18:57 : client: [73] opened from 127.0.0.1:39598
+Apr 04 18:57 : client: [73] closed
+Apr 04 18:57 : client: [74] opened from 127.0.0.1:39610
+Apr 04 18:57 : client: [74] closed
+Apr 04 18:57 : client: [75] opened from 127.0.0.1:39630
+Apr 04 18:57 : client: [75] closed
+Apr 04 18:57 : player: played "Dj Titon/死机之歌.mp3"
+Apr 04 18:57 : client: [76] opened from 127.0.0.1:39634
+Apr 04 18:57 : client: [76] closed
+Apr 04 18:57 : client: [77] opened from 127.0.0.1:39638
+Apr 04 18:57 : client: [77] closed
+Apr 04 18:57 : client: [78] opened from 127.0.0.1:39642
+Apr 04 18:57 : client: [78] closed
+Apr 04 18:57 : client: [79] opened from 127.0.0.1:39646
+Apr 04 18:57 : client: [79] closed
+Apr 04 18:57 : client: [80] opened from 127.0.0.1:39650
+Apr 04 18:57 : client: [80] closed
+Apr 04 18:57 : client: [81] opened from 127.0.0.1:39654
+Apr 04 18:57 : client: [81] closed
+Apr 04 18:57 : client: [82] opened from 127.0.0.1:39658
+Apr 04 18:57 : client: [82] closed
+Apr 04 18:57 : client: [83] opened from 127.0.0.1:39662
+Apr 04 18:57 : client: [83] closed
+Apr 04 18:57 : client: [84] opened from 127.0.0.1:39666
+Apr 04 18:57 : client: [84] closed
+Apr 04 18:57 : client: [85] opened from 127.0.0.1:39670
+Apr 04 18:57 : client: [85] closed
+Apr 04 18:57 : client: [86] opened from 127.0.0.1:39674
+Apr 04 18:57 : client: [86] closed
+Apr 04 18:57 : client: [87] opened from 127.0.0.1:39678
+Apr 04 18:57 : client: [87] closed
+Apr 04 18:57 : client: [88] opened from 127.0.0.1:39682
+Apr 04 18:57 : client: [88] closed
+Apr 04 18:57 : client: [89] opened from 127.0.0.1:39686
+Apr 04 18:57 : client: [89] closed
+Apr 04 18:57 : client: [90] opened from 127.0.0.1:39690
+Apr 04 18:57 : client: [90] closed
+Apr 04 18:57 : client: [91] opened from 127.0.0.1:39694
+Apr 04 18:57 : client: [91] closed
+Apr 04 18:57 : client: [92] opened from 127.0.0.1:39698
+Apr 04 18:57 : client: [92] closed
+Apr 04 18:57 : client: [93] opened from 127.0.0.1:39702
+Apr 04 18:57 : client: [93] closed
+Apr 04 18:57 : client: [94] opened from 127.0.0.1:39706
+Apr 04 18:57 : client: [94] closed
+Apr 04 18:57 : client: [95] opened from 127.0.0.1:39710
+Apr 04 18:57 : client: [95] closed
+Apr 04 18:57 : client: [96] opened from 127.0.0.1:39714
+Apr 04 18:57 : client: [96] closed
+Apr 04 18:57 : client: [97] opened from 127.0.0.1:39718
+Apr 04 18:57 : client: [97] closed
+Apr 04 18:57 : client: [98] opened from 127.0.0.1:39722
+Apr 04 18:57 : client: [98] closed
+Apr 04 18:57 : client: [99] opened from 127.0.0.1:39726
+Apr 04 18:57 : client: [99] closed
+Apr 04 18:57 : client: [100] opened from 127.0.0.1:39730
+Apr 04 18:57 : client: [100] closed
+Apr 04 18:57 : client: [101] opened from 127.0.0.1:39734
+Apr 04 18:57 : client: [101] closed
+Apr 04 18:57 : client: [102] opened from 127.0.0.1:39738
+Apr 04 18:57 : client: [102] closed
+Apr 04 18:57 : client: [103] opened from 127.0.0.1:39744
+Apr 04 18:57 : client: [103] closed
+Apr 04 18:57 : client: [104] opened from 127.0.0.1:39748
+Apr 04 18:57 : client: [104] closed
+Apr 04 18:57 : client: [105] opened from 127.0.0.1:39758
+Apr 04 18:57 : client: [105] closed
+Apr 04 18:57 : client: [106] opened from 127.0.0.1:39762
+Apr 04 18:57 : client: [106] closed
+Apr 04 18:57 : client: [107] opened from 127.0.0.1:39766
+Apr 04 18:57 : client: [107] closed
+Apr 04 18:57 : client: [108] opened from 127.0.0.1:39770
+Apr 04 18:57 : client: [108] closed
+Apr 04 18:57 : client: [109] opened from 127.0.0.1:39774
+Apr 04 18:57 : client: [109] closed
+Apr 04 18:57 : client: [110] opened from 127.0.0.1:39778
+Apr 04 18:57 : client: [110] closed
+Apr 04 18:57 : client: [111] opened from 127.0.0.1:39782
+Apr 04 18:57 : client: [111] closed
+Apr 04 18:58 : client: [112] opened from 127.0.0.1:39788
+Apr 04 18:58 : client: [112] closed
+Apr 04 18:58 : client: [113] opened from 127.0.0.1:39802
+Apr 04 18:58 : client: [113] closed
+Apr 04 18:58 : client: [114] opened from 127.0.0.1:39826
+Apr 04 18:58 : client: [114] closed
+Apr 04 18:58 : client: [115] opened from 127.0.0.1:39830
+Apr 04 18:58 : client: [115] closed
+Apr 04 18:58 : client: [116] opened from 127.0.0.1:39834
+Apr 04 18:58 : client: [116] closed
+Apr 04 18:58 : client: [117] opened from 127.0.0.1:39838
+Apr 04 18:58 : client: [117] closed
+Apr 04 18:58 : client: [118] opened from 127.0.0.1:39842
+Apr 04 18:58 : client: [118] closed
+Apr 04 18:58 : client: [119] opened from 127.0.0.1:39850
+Apr 04 18:58 : client: [119] closed
+Apr 04 18:58 : client: [120] opened from 127.0.0.1:39854
+Apr 04 18:58 : client: [120] closed
+Apr 04 18:58 : client: [121] opened from 127.0.0.1:39858
+Apr 04 18:58 : client: [121] closed
+Apr 04 18:58 : client: [122] opened from 127.0.0.1:39862
+Apr 04 18:58 : client: [122] closed
+Apr 04 18:58 : client: [123] opened from 127.0.0.1:39866
+Apr 04 18:58 : client: [123] closed
+Apr 04 18:59 : client: [124] opened from 127.0.0.1:39870
+Apr 04 18:59 : client: [124] closed
+Apr 04 18:59 : client: [125] opened from 127.0.0.1:39874
+Apr 04 18:59 : client: [125] closed
+Apr 04 18:59 : client: [126] opened from 127.0.0.1:39882
+Apr 04 18:59 : client: [126] closed
+Apr 04 18:59 : client: [127] opened from 127.0.0.1:39886
+Apr 04 18:59 : client: [127] closed
+Apr 04 18:59 : client: [128] opened from 127.0.0.1:39890
+Apr 04 18:59 : client: [128] closed
+Apr 04 18:59 : client: [129] opened from 127.0.0.1:39896
+Apr 04 18:59 : client: [129] closed
+Apr 04 18:59 : client: [130] opened from 127.0.0.1:39900
+Apr 04 18:59 : client: [130] closed
+Apr 04 18:59 : client: [131] opened from 127.0.0.1:39904
+Apr 04 18:59 : client: [131] closed
+Apr 04 18:59 : client: [132] opened from 127.0.0.1:39910
+Apr 04 18:59 : client: [132] closed
+Apr 04 18:59 : client: [133] opened from 127.0.0.1:39914
+Apr 04 18:59 : client: [133] closed
+Apr 04 18:59 : client: [134] opened from 127.0.0.1:39922
+Apr 04 18:59 : client: [134] closed
+Apr 04 18:59 : client: [135] opened from 127.0.0.1:39926
+Apr 04 18:59 : client: [135] closed
+Apr 04 19:00 : client: [136] opened from 127.0.0.1:39932
+Apr 04 19:00 : client: [136] closed
+Apr 04 19:00 : client: [137] opened from 127.0.0.1:39936
+Apr 04 19:00 : client: [137] closed
+Apr 04 19:00 : client: [138] opened from 127.0.0.1:39940
+Apr 04 19:00 : client: [138] closed
+Apr 04 19:00 : client: [139] opened from 127.0.0.1:39944
+Apr 04 19:00 : client: [139] closed
+Apr 04 19:00 : client: [140] opened from 127.0.0.1:39948
+Apr 04 19:00 : client: [140] closed
+Apr 04 19:00 : client: [141] opened from 127.0.0.1:39952
+Apr 04 19:00 : client: [141] closed
+Apr 04 19:00 : client: [142] opened from 127.0.0.1:39956
+Apr 04 19:00 : client: [142] closed
+Apr 04 19:00 : client: [143] opened from 127.0.0.1:39960
+Apr 04 19:00 : client: [143] closed
+Apr 04 19:00 : client: [144] opened from 127.0.0.1:39964
+Apr 04 19:00 : client: [144] closed
+Apr 04 19:00 : client: [145] opened from 127.0.0.1:39968
+Apr 04 19:00 : client: [145] closed
+Apr 04 19:00 : client: [146] opened from 127.0.0.1:39976
+Apr 04 19:00 : client: [146] closed
+Apr 04 19:00 : client: [147] opened from 127.0.0.1:39980
+Apr 04 19:00 : client: [147] closed
+Apr 04 19:01 : client: [148] opened from 127.0.0.1:39986
+Apr 04 19:01 : client: [148] closed
+Apr 04 19:01 : client: [149] opened from 127.0.0.1:39990
+Apr 04 19:01 : client: [149] closed
+Apr 04 19:01 : client: [150] opened from 127.0.0.1:39998
+Apr 04 19:01 : client: [150] closed
+Apr 04 19:01 : client: [151] opened from 127.0.0.1:40002
+Apr 04 19:01 : client: [151] closed
+Apr 04 19:01 : client: [152] opened from 127.0.0.1:40006
+Apr 04 19:01 : client: [152] closed
+Apr 04 19:01 : client: [153] opened from 127.0.0.1:40010
+Apr 04 19:01 : client: [153] closed
+Apr 04 19:01 : client: [154] opened from 127.0.0.1:40014
+Apr 04 19:01 : client: [154] closed
+Apr 04 19:01 : client: [155] opened from 127.0.0.1:40018
+Apr 04 19:01 : client: [155] closed
+Apr 04 19:01 : client: [156] opened from 127.0.0.1:40022
+Apr 04 19:01 : client: [156] closed
+Apr 04 19:01 : client: [157] opened from 127.0.0.1:40026
+Apr 04 19:01 : client: [157] closed
+Apr 04 19:01 : client: [158] opened from 127.0.0.1:40030
+Apr 04 19:01 : client: [158] closed
+Apr 04 19:01 : player: played "Fun.,Janelle Monáe/We Are Young.flac"
+Apr 04 19:01 : client: [159] opened from 127.0.0.1:40034
+Apr 04 19:01 : client: [159] closed
+Apr 04 19:02 : client: [160] opened from 127.0.0.1:40038
+Apr 04 19:02 : client: [160] closed
+Apr 04 19:02 : client: [161] opened from 127.0.0.1:40042
+Apr 04 19:02 : client: [161] closed
+Apr 04 19:02 : client: [162] opened from 127.0.0.1:40046
+Apr 04 19:02 : client: [162] closed
+Apr 04 19:02 : client: [163] opened from 127.0.0.1:40054
+Apr 04 19:02 : client: [163] closed
+Apr 04 19:02 : client: [164] opened from 127.0.0.1:40058
+Apr 04 19:02 : client: [164] closed
+Apr 04 19:02 : client: [165] opened from 127.0.0.1:40062
+Apr 04 19:02 : client: [165] closed
+Apr 04 19:02 : client: [166] opened from 127.0.0.1:40066
+Apr 04 19:02 : client: [166] closed
+Apr 04 19:02 : client: [167] opened from 127.0.0.1:40074
+Apr 04 19:02 : client: [167] closed
+Apr 04 19:02 : client: [168] opened from 127.0.0.1:40078
+Apr 04 19:02 : client: [168] closed
+Apr 04 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:06 : client: [0] opened from 127.0.0.1:40300
+Apr 04 19:06 : client: [0] closed
+Apr 04 19:06 : client: [1] opened from 127.0.0.1:40304
+Apr 04 19:06 : client: [1] closed
+Apr 04 19:06 : client: [2] opened from 127.0.0.1:40306
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM headphones
+Apr 04 19:07 : exception: Failed to open "Headphones" (alsa)
+Apr 04 19:07 : exception: nested: Failed to open ALSA device "plug:headphones": No such file or directory
+Apr 04 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:07 : client: [3] opened from 127.0.0.1:40310
+Apr 04 19:07 : client: [3] closed
+Apr 04 19:07 : client: [4] opened from 127.0.0.1:40314
+Apr 04 19:07 : client: [4] closed
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM headphones
+Apr 04 19:07 : exception: Failed to open "Headphones" (alsa)
+Apr 04 19:07 : exception: nested: Failed to open ALSA device "plug:headphones": No such file or directory
+Apr 04 19:07 : client: [5] opened from 127.0.0.1:40318
+Apr 04 19:07 : client: [5] closed
+Apr 04 19:07 : client: [6] opened from 127.0.0.1:40322
+Apr 04 19:07 : client: [6] closed
+Apr 04 19:07 : client: [7] opened from 127.0.0.1:40326
+Apr 04 19:07 : client: [7] closed
+Apr 04 19:07 : client: [8] opened from 127.0.0.1:40330
+Apr 04 19:07 : client: [8] closed
+Apr 04 19:07 : client: [9] opened from 127.0.0.1:40334
+Apr 04 19:07 : client: [9] closed
+Apr 04 19:07 : client: [10] opened from 127.0.0.1:40338
+Apr 04 19:07 : client: [10] closed
+Apr 04 19:07 : client: [11] opened from 127.0.0.1:40342
+Apr 04 19:07 : client: [11] closed
+Apr 04 19:07 : client: [12] opened from 127.0.0.1:40346
+Apr 04 19:07 : client: [12] closed
+Apr 04 19:07 : client: [13] opened from 127.0.0.1:40350
+Apr 04 19:07 : client: [13] closed
+Apr 04 19:07 : client: [14] opened from 127.0.0.1:40354
+Apr 04 19:07 : client: [14] closed
+Apr 04 19:07 : client: [15] opened from 127.0.0.1:40358
+Apr 04 19:07 : client: [15] closed
+Apr 04 19:07 : client: [16] opened from 127.0.0.1:40362
+Apr 04 19:07 : client: [16] closed
+Apr 04 19:07 : client: [17] opened from 127.0.0.1:40366
+Apr 04 19:07 : client: [17] closed
+Apr 04 19:07 : client: [18] opened from 127.0.0.1:40370
+Apr 04 19:07 : client: [18] closed
+Apr 04 19:07 : client: [19] opened from 127.0.0.1:40374
+Apr 04 19:07 : client: [19] closed
+Apr 04 19:07 : client: [20] opened from 127.0.0.1:40378
+Apr 04 19:07 : client: [20] closed
+Apr 04 19:07 : client: [21] opened from 127.0.0.1:40382
+Apr 04 19:07 : client: [21] closed
+Apr 04 19:07 : client: [22] opened from 127.0.0.1:40386
+Apr 04 19:07 : client: [22] closed
+Apr 04 19:07 : client: [23] opened from 127.0.0.1:40390
+Apr 04 19:07 : client: [23] closed
+Apr 04 19:07 : client: [24] opened from 127.0.0.1:40394
+Apr 04 19:07 : client: [24] closed
+Apr 04 19:07 : client: [25] opened from 127.0.0.1:40398
+Apr 04 19:07 : client: [25] closed
+Apr 04 19:07 : client: [26] opened from 127.0.0.1:40402
+Apr 04 19:07 : client: [26] closed
+Apr 04 19:07 : client: [2] closed
+Apr 04 19:07 : client: [27] opened from 127.0.0.1:40406
+Apr 04 19:07 : client: [27] closed
+Apr 04 19:07 : client: [28] opened from 127.0.0.1:40410
+Apr 04 19:07 : client: [28] closed
+Apr 04 19:07 : client: [29] opened from 127.0.0.1:40414
+Apr 04 19:07 : client: [29] closed
+Apr 04 19:07 : client: [30] opened from 127.0.0.1:40418
+Apr 04 19:07 : client: [30] closed
+Apr 04 19:08 : client: [31] opened from 127.0.0.1:40422
+Apr 04 19:08 : client: [31] closed
+Apr 04 19:08 : client: [32] opened from 127.0.0.1:40430
+Apr 04 19:08 : client: [32] closed
+Apr 04 19:08 : client: [33] opened from 127.0.0.1:40434
+Apr 04 19:08 : client: [33] closed
+Apr 04 19:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:08 : client: [0] opened from 127.0.0.1:40442
+Apr 04 19:08 : client: [0] closed
+Apr 04 19:08 : client: [1] opened from 127.0.0.1:40446
+Apr 04 19:08 : client: [1] closed
+Apr 04 19:08 : client: [2] opened from 127.0.0.1:40448
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM headphones
+Apr 04 19:08 : exception: Failed to open "Headphones" (alsa)
+Apr 04 19:08 : exception: nested: Failed to open ALSA device "plug:headphones": No such file or directory
+Apr 04 19:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:08 : client: [3] opened from 127.0.0.1:40452
+Apr 04 19:08 : client: [3] closed
+Apr 04 19:08 : client: [4] opened from 127.0.0.1:40456
+Apr 04 19:08 : client: [4] closed
+Apr 04 19:08 : client: [5] opened from 127.0.0.1:40460
+Apr 04 19:08 : client: [5] closed
+Apr 04 19:08 : client: [6] opened from 127.0.0.1:40464
+Apr 04 19:08 : client: [6] closed
+Apr 04 19:08 : client: [7] opened from 127.0.0.1:40468
+Apr 04 19:08 : client: [7] closed
+Apr 04 19:08 : client: [8] opened from 127.0.0.1:40472
+Apr 04 19:08 : client: [8] closed
+Apr 04 19:08 : client: [9] opened from 127.0.0.1:40476
+Apr 04 19:08 : client: [9] closed
+Apr 04 19:08 : client: [10] opened from 127.0.0.1:40480
+Apr 04 19:08 : client: [10] closed
+Apr 04 19:08 : client: [11] opened from 127.0.0.1:40484
+Apr 04 19:08 : client: [11] closed
+Apr 04 19:08 : client: [12] opened from 127.0.0.1:40488
+Apr 04 19:08 : client: [12] closed
+Apr 04 19:08 : client: [13] opened from 127.0.0.1:40492
+Apr 04 19:08 : client: [13] closed
+Apr 04 19:08 : client: [14] opened from 127.0.0.1:40496
+Apr 04 19:08 : client: [14] closed
+Apr 04 19:08 : client: [15] opened from 127.0.0.1:40500
+Apr 04 19:08 : client: [15] closed
+Apr 04 19:09 : client: [16] opened from 127.0.0.1:40504
+Apr 04 19:09 : client: [16] closed
+Apr 04 19:09 : client: [17] opened from 127.0.0.1:40508
+Apr 04 19:09 : client: [17] closed
+Apr 04 19:09 : client: [18] opened from 127.0.0.1:40512
+Apr 04 19:09 : client: [18] closed
+Apr 04 19:09 : client: [19] opened from 127.0.0.1:40516
+Apr 04 19:09 : client: [19] closed
+Apr 04 19:09 : client: [20] opened from 127.0.0.1:40520
+Apr 04 19:09 : client: [20] closed
+Apr 04 19:09 : client: [21] opened from 127.0.0.1:40524
+Apr 04 19:09 : client: [21] closed
+Apr 04 19:09 : client: [22] opened from 127.0.0.1:40528
+Apr 04 19:09 : client: [22] closed
+Apr 04 19:09 : client: [23] opened from 127.0.0.1:40532
+Apr 04 19:09 : client: [23] closed
+Apr 04 19:09 : client: [24] opened from 127.0.0.1:40536
+Apr 04 19:09 : client: [24] closed
+Apr 04 19:09 : client: [25] opened from 127.0.0.1:40540
+Apr 04 19:09 : client: [25] closed
+Apr 04 19:09 : client: [2] closed
+Apr 04 19:09 : client: [26] opened from 127.0.0.1:40544
+Apr 04 19:09 : client: [26] closed
+Apr 04 19:09 : client: [27] opened from 127.0.0.1:40548
+Apr 04 19:09 : client: [27] closed
+Apr 04 19:09 : client: [28] opened from 127.0.0.1:40552
+Apr 04 19:09 : client: [28] closed
+Apr 04 19:09 : client: [29] opened from 127.0.0.1:40560
+Apr 04 19:09 : client: [29] closed
+Apr 04 19:09 : player: played "Dj Titon/死机之歌.mp3"
+Apr 04 19:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:10 : client: [0] opened from 127.0.0.1:38876
+Apr 04 19:10 : exception: Failed to read mixer for 'Headphones': no such mixer control: PCM
+Apr 04 19:10 : client: [1] opened from 127.0.0.1:38880
+Apr 04 19:10 : client: [1] closed
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM headphones
+Apr 04 19:10 : exception: Failed to open "Headphones" (alsa)
+Apr 04 19:10 : exception: nested: Failed to open ALSA device "plug:headphones": No such file or directory
+Apr 04 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:10 : client: [2] opened from 127.0.0.1:38884
+Apr 04 19:10 : client: [2] closed
+Apr 04 19:10 : client: [3] opened from 127.0.0.1:38888
+Apr 04 19:10 : client: [3] closed
+Apr 04 19:10 : client: [4] opened from 127.0.0.1:38892
+Apr 04 19:10 : client: [4] closed
+Apr 04 19:10 : client: [5] opened from 127.0.0.1:38896
+Apr 04 19:10 : client: [5] closed
+Apr 04 19:10 : client: [6] opened from 127.0.0.1:38902
+Apr 04 19:10 : client: [6] closed
+Apr 04 19:10 : client: [7] opened from 127.0.0.1:38906
+Apr 04 19:10 : client: [7] closed
+Apr 04 19:11 : client: [8] opened from 127.0.0.1:38910
+Apr 04 19:11 : client: [8] closed
+Apr 04 19:11 : client: [9] opened from 127.0.0.1:38914
+Apr 04 19:11 : client: [9] closed
+Apr 04 19:11 : client: [10] opened from 127.0.0.1:38962
+Apr 04 19:11 : client: [10] closed
+Apr 04 19:11 : client: [0] closed
+Apr 04 19:11 : client: [11] opened from 127.0.0.1:39100
+Apr 04 19:11 : client: [11] closed
+Apr 04 19:11 : client: [12] opened from 127.0.0.1:39142
+Apr 04 19:11 : client: [12] closed
+Apr 04 19:11 : client: [13] opened from 127.0.0.1:39164
+Apr 04 19:11 : client: [13] closed
+Apr 04 19:11 : client: [14] opened from 127.0.0.1:39168
+Apr 04 19:11 : client: [14] closed
+Apr 04 19:11 : client: [15] opened from 127.0.0.1:39176
+Apr 04 19:11 : client: [15] closed
+Apr 04 19:11 : client: [16] opened from 127.0.0.1:39180
+Apr 04 19:11 : client: [16] closed
+Apr 04 19:11 : client: [17] opened from 127.0.0.1:39188
+Apr 04 19:11 : client: [17] closed
+Apr 04 19:11 : client: [18] opened from 127.0.0.1:39192
+Apr 04 19:11 : client: [18] closed
+Apr 04 19:11 : client: [19] opened from 127.0.0.1:39198
+Apr 04 19:11 : client: [19] closed
+Apr 04 19:12 : player: played "Dj Titon/死机之歌.mp3"
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM headphones
+Apr 04 19:12 : exception: Failed to open "Headphones" (alsa)
+Apr 04 19:12 : exception: nested: Failed to open ALSA device "plug:headphones": No such file or directory
+Apr 04 19:12 : client: [20] opened from 127.0.0.1:39202
+Apr 04 19:12 : client: [20] closed
+Apr 04 19:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:12 : client: [0] opened from 127.0.0.1:39210
+Apr 04 19:12 : client: [0] closed
+Apr 04 19:12 : client: [1] opened from 127.0.0.1:39212
+Apr 04 19:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:12 : client: [2] opened from 127.0.0.1:39216
+Apr 04 19:12 : client: [2] closed
+Apr 04 19:12 : client: [3] opened from 127.0.0.1:39220
+Apr 04 19:12 : client: [3] closed
+Apr 04 19:12 : client: [4] opened from 127.0.0.1:39224
+Apr 04 19:12 : client: [4] closed
+Apr 04 19:12 : client: [5] opened from 127.0.0.1:39228
+Apr 04 19:12 : client: [5] closed
+Apr 04 19:12 : client: [6] opened from 127.0.0.1:39232
+Apr 04 19:12 : client: [6] closed
+Apr 04 19:12 : client: [7] opened from 127.0.0.1:39236
+Apr 04 19:12 : client: [7] closed
+Apr 04 19:12 : client: [8] opened from 127.0.0.1:39240
+Apr 04 19:12 : client: [8] closed
+Apr 04 19:12 : client: [9] opened from 127.0.0.1:39244
+Apr 04 19:12 : client: [9] closed
+Apr 04 19:12 : client: [10] opened from 127.0.0.1:39248
+Apr 04 19:12 : client: [10] closed
+Apr 04 19:13 : client: [11] opened from 127.0.0.1:39264
+Apr 04 19:13 : client: [11] closed
+Apr 04 19:13 : client: [12] opened from 127.0.0.1:39268
+Apr 04 19:13 : client: [12] closed
+Apr 04 19:13 : client: [13] opened from 127.0.0.1:39280
+Apr 04 19:13 : client: [13] closed
+Apr 04 19:13 : client: [14] opened from 127.0.0.1:39284
+Apr 04 19:13 : client: [14] closed
+Apr 04 19:13 : client: [15] opened from 127.0.0.1:39292
+Apr 04 19:13 : client: [15] closed
+Apr 04 19:13 : client: [16] opened from 127.0.0.1:39296
+Apr 04 19:13 : client: [16] closed
+Apr 04 19:13 : client: [17] opened from 127.0.0.1:39300
+Apr 04 19:13 : client: [17] closed
+Apr 04 19:13 : client: [18] opened from 127.0.0.1:39304
+Apr 04 19:13 : client: [18] closed
+Apr 04 19:13 : client: [19] opened from 127.0.0.1:39308
+Apr 04 19:13 : client: [19] closed
+Apr 04 19:13 : client: [20] opened from 127.0.0.1:39312
+Apr 04 19:13 : client: [20] closed
+Apr 04 19:13 : client: [21] opened from 127.0.0.1:39316
+Apr 04 19:13 : client: [21] closed
+Apr 04 19:13 : client: [22] opened from 127.0.0.1:39320
+Apr 04 19:13 : client: [22] closed
+Apr 04 19:14 : client: [23] opened from 127.0.0.1:39324
+Apr 04 19:14 : client: [23] closed
+Apr 04 19:14 : client: [24] opened from 127.0.0.1:39330
+Apr 04 19:14 : client: [24] closed
+Apr 04 19:14 : client: [25] opened from 127.0.0.1:39334
+Apr 04 19:14 : client: [25] closed
+Apr 04 19:14 : client: [26] opened from 127.0.0.1:39340
+Apr 04 19:14 : client: [26] closed
+Apr 04 19:14 : client: [27] opened from 127.0.0.1:39344
+Apr 04 19:14 : client: [27] closed
+Apr 04 19:14 : client: [28] opened from 127.0.0.1:39348
+Apr 04 19:14 : client: [28] closed
+Apr 04 19:14 : client: [29] opened from 127.0.0.1:39352
+Apr 04 19:14 : client: [29] closed
+Apr 04 19:14 : client: [30] opened from 127.0.0.1:39356
+Apr 04 19:14 : client: [30] closed
+Apr 04 19:14 : client: [31] opened from 127.0.0.1:39360
+Apr 04 19:14 : client: [31] closed
+Apr 04 19:14 : client: [32] opened from 127.0.0.1:39364
+Apr 04 19:14 : client: [32] closed
+Apr 04 19:14 : client: [33] opened from 127.0.0.1:39370
+Apr 04 19:14 : client: [33] closed
+Apr 04 19:14 : client: [34] opened from 127.0.0.1:39374
+Apr 04 19:14 : client: [34] closed
+Apr 04 19:15 : client: [35] opened from 127.0.0.1:39378
+Apr 04 19:15 : client: [35] closed
+Apr 04 19:15 : client: [36] opened from 127.0.0.1:39382
+Apr 04 19:15 : client: [36] closed
+Apr 04 19:15 : client: [37] opened from 127.0.0.1:39386
+Apr 04 19:15 : client: [37] closed
+Apr 04 19:15 : client: [38] opened from 127.0.0.1:39394
+Apr 04 19:15 : client: [38] closed
+Apr 04 19:15 : client: [39] opened from 127.0.0.1:39402
+Apr 04 19:15 : client: [39] closed
+Apr 04 19:15 : client: [40] opened from 127.0.0.1:39406
+Apr 04 19:15 : client: [40] closed
+Apr 04 19:15 : client: [41] opened from 127.0.0.1:39410
+Apr 04 19:15 : client: [41] closed
+Apr 04 19:15 : client: [42] opened from 127.0.0.1:39414
+Apr 04 19:15 : client: [42] closed
+Apr 04 19:15 : client: [43] opened from 127.0.0.1:39418
+Apr 04 19:15 : client: [43] closed
+Apr 04 19:15 : client: [44] opened from 127.0.0.1:39422
+Apr 04 19:15 : client: [44] closed
+Apr 04 19:15 : client: [45] opened from 127.0.0.1:39426
+Apr 04 19:15 : client: [45] closed
+Apr 04 19:15 : client: [46] opened from 127.0.0.1:39432
+Apr 04 19:15 : client: [46] closed
+Apr 04 19:16 : client: [47] opened from 127.0.0.1:39436
+Apr 04 19:16 : client: [47] closed
+Apr 04 19:16 : client: [48] opened from 127.0.0.1:39440
+Apr 04 19:16 : client: [48] closed
+Apr 04 19:16 : client: [49] opened from 127.0.0.1:39444
+Apr 04 19:16 : client: [49] closed
+Apr 04 19:16 : client: [50] opened from 127.0.0.1:39448
+Apr 04 19:16 : client: [50] closed
+Apr 04 19:16 : client: [51] opened from 127.0.0.1:39464
+Apr 04 19:16 : client: [51] closed
+Apr 04 19:16 : client: [52] opened from 127.0.0.1:39468
+Apr 04 19:16 : client: [52] closed
+Apr 04 19:16 : client: [53] opened from 127.0.0.1:39472
+Apr 04 19:16 : client: [53] closed
+Apr 04 19:16 : client: [54] opened from 127.0.0.1:39476
+Apr 04 19:16 : client: [54] closed
+Apr 04 19:16 : client: [55] opened from 127.0.0.1:39480
+Apr 04 19:16 : client: [55] closed
+Apr 04 19:16 : client: [56] opened from 127.0.0.1:39484
+Apr 04 19:16 : client: [56] closed
+Apr 04 19:16 : player: played "dodie/Fade国风古典(Dodie Remix).mp3"
+Apr 04 19:16 : client: [57] opened from 127.0.0.1:39488
+Apr 04 19:16 : client: [57] closed
+Apr 04 19:16 : client: [58] opened from 127.0.0.1:39492
+Apr 04 19:16 : client: [58] closed
+Apr 04 19:17 : client: [59] opened from 127.0.0.1:39496
+Apr 04 19:17 : client: [59] closed
+Apr 04 19:17 : client: [60] opened from 127.0.0.1:39500
+Apr 04 19:17 : client: [60] closed
+Apr 04 19:17 : client: [61] opened from 127.0.0.1:39506
+Apr 04 19:17 : client: [61] closed
+Apr 04 19:17 : client: [62] opened from 127.0.0.1:39510
+Apr 04 19:17 : client: [62] closed
+Apr 04 19:17 : client: [63] opened from 127.0.0.1:39518
+Apr 04 19:17 : client: [63] closed
+Apr 04 19:17 : client: [64] opened from 127.0.0.1:39522
+Apr 04 19:17 : client: [64] closed
+Apr 04 19:17 : client: [65] opened from 127.0.0.1:39526
+Apr 04 19:17 : client: [65] closed
+Apr 04 19:17 : client: [66] opened from 127.0.0.1:39530
+Apr 04 19:17 : client: [66] closed
+Apr 04 19:17 : client: [67] opened from 127.0.0.1:39534
+Apr 04 19:17 : client: [67] closed
+Apr 04 19:17 : client: [68] opened from 127.0.0.1:39538
+Apr 04 19:17 : client: [68] closed
+Apr 04 19:17 : client: [69] opened from 127.0.0.1:39542
+Apr 04 19:17 : client: [69] closed
+Apr 04 19:17 : client: [70] opened from 127.0.0.1:39546
+Apr 04 19:17 : client: [70] closed
+Apr 04 19:18 : client: [71] opened from 127.0.0.1:39550
+Apr 04 19:18 : client: [71] closed
+Apr 04 19:18 : client: [72] opened from 127.0.0.1:39554
+Apr 04 19:18 : client: [72] closed
+Apr 04 19:18 : client: [73] opened from 127.0.0.1:39558
+Apr 04 19:18 : client: [73] closed
+Apr 04 19:18 : client: [74] opened from 127.0.0.1:39562
+Apr 04 19:18 : client: [74] closed
+Apr 04 19:18 : client: [75] opened from 127.0.0.1:39568
+Apr 04 19:18 : client: [75] closed
+Apr 04 19:18 : client: [76] opened from 127.0.0.1:39572
+Apr 04 19:18 : client: [76] closed
+Apr 04 19:18 : client: [77] opened from 127.0.0.1:39576
+Apr 04 19:18 : client: [77] closed
+Apr 04 19:18 : client: [78] opened from 127.0.0.1:39580
+Apr 04 19:18 : client: [78] closed
+Apr 04 19:18 : client: [79] opened from 127.0.0.1:39602
+Apr 04 19:18 : client: [79] closed
+Apr 04 19:18 : client: [80] opened from 127.0.0.1:39606
+Apr 04 19:18 : client: [80] closed
+Apr 04 19:18 : client: [81] opened from 127.0.0.1:39618
+Apr 04 19:18 : client: [81] closed
+Apr 04 19:18 : client: [82] opened from 127.0.0.1:39622
+Apr 04 19:18 : client: [82] closed
+Apr 04 19:19 : client: [83] opened from 127.0.0.1:39630
+Apr 04 19:19 : client: [83] closed
+Apr 04 19:19 : client: [84] opened from 127.0.0.1:39656
+Apr 04 19:19 : client: [84] closed
+Apr 04 19:19 : client: [85] opened from 127.0.0.1:39688
+Apr 04 19:19 : client: [85] closed
+Apr 04 19:19 : client: [86] opened from 127.0.0.1:39692
+Apr 04 19:19 : client: [86] closed
+Apr 04 19:19 : client: [87] opened from 127.0.0.1:39696
+Apr 04 19:19 : client: [87] closed
+Apr 04 19:19 : client: [88] opened from 127.0.0.1:39700
+Apr 04 19:19 : client: [88] closed
+Apr 04 19:19 : client: [89] opened from 127.0.0.1:39704
+Apr 04 19:19 : client: [89] closed
+Apr 04 19:19 : client: [90] opened from 127.0.0.1:39708
+Apr 04 19:19 : client: [90] closed
+Apr 04 19:19 : client: [91] opened from 127.0.0.1:39712
+Apr 04 19:19 : client: [91] closed
+Apr 04 19:19 : client: [92] opened from 127.0.0.1:39716
+Apr 04 19:19 : client: [92] closed
+Apr 04 19:19 : client: [93] opened from 127.0.0.1:39722
+Apr 04 19:19 : client: [93] closed
+Apr 04 19:19 : client: [94] opened from 127.0.0.1:39726
+Apr 04 19:19 : client: [94] closed
+Apr 04 19:20 : client: [95] opened from 127.0.0.1:39730
+Apr 04 19:20 : client: [95] closed
+Apr 04 19:20 : client: [96] opened from 127.0.0.1:39734
+Apr 04 19:20 : client: [96] closed
+Apr 04 19:20 : client: [97] opened from 127.0.0.1:39738
+Apr 04 19:20 : client: [97] closed
+Apr 04 19:20 : client: [98] opened from 127.0.0.1:39742
+Apr 04 19:20 : client: [98] closed
+Apr 04 19:20 : client: [99] opened from 127.0.0.1:39746
+Apr 04 19:20 : client: [99] closed
+Apr 04 19:20 : player: played "DotCom,SAYMYNAME/PYTHON (Original Mix).mp3"
+Apr 04 19:20 : client: [100] opened from 127.0.0.1:39758
+Apr 04 19:20 : client: [100] closed
+Apr 04 19:20 : client: [101] opened from 127.0.0.1:39762
+Apr 04 19:20 : client: [101] closed
+Apr 04 19:20 : client: [102] opened from 127.0.0.1:39766
+Apr 04 19:20 : client: [102] closed
+Apr 04 19:20 : client: [103] opened from 127.0.0.1:39770
+Apr 04 19:20 : client: [103] closed
+Apr 04 19:20 : client: [104] opened from 127.0.0.1:39774
+Apr 04 19:20 : client: [104] closed
+Apr 04 19:20 : client: [105] opened from 127.0.0.1:39778
+Apr 04 19:20 : client: [105] closed
+Apr 04 19:20 : client: [106] opened from 127.0.0.1:39782
+Apr 04 19:20 : client: [106] closed
+Apr 04 19:20 : client: [107] opened from 127.0.0.1:39786
+Apr 04 19:20 : client: [107] closed
+Apr 04 19:20 : client: [108] opened from 127.0.0.1:39804
+Apr 04 19:20 : client: [108] closed
+Apr 04 19:20 : client: [1] closed
+Apr 04 19:21 : client: [109] opened from 127.0.0.1:39808
+Apr 04 19:21 : client: [109] closed
+Apr 04 19:21 : player: played "Dr. Dre,50 Cent,Jay-Z/Numb Encore.mp3"
+Apr 04 19:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:22 : client: [0] opened from 127.0.0.1:38828
+Apr 04 19:22 : client: [1] opened from 127.0.0.1:38832
+Apr 04 19:22 : client: [1] closed
+Apr 04 19:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 19:22 : client: [2] opened from 127.0.0.1:38836
+Apr 04 19:22 : client: [2] closed
+Apr 04 19:22 : client: [3] opened from 127.0.0.1:38840
+Apr 04 19:22 : client: [3] closed
+Apr 04 19:23 : client: [4] opened from 127.0.0.1:38844
+Apr 04 19:23 : client: [4] closed
+Apr 04 19:23 : client: [5] opened from 127.0.0.1:38848
+Apr 04 19:23 : client: [5] closed
+Apr 04 19:23 : client: [6] opened from 127.0.0.1:38852
+Apr 04 19:23 : client: [6] closed
+Apr 04 19:23 : client: [7] opened from 127.0.0.1:38856
+Apr 04 19:23 : client: [7] closed
+Apr 04 19:23 : client: [0] closed
+Apr 04 19:23 : client: [8] opened from 127.0.0.1:38860
+Apr 04 19:23 : client: [8] closed
+Apr 04 19:23 : client: [9] opened from 127.0.0.1:38880
+Apr 04 19:23 : client: [9] closed
+Apr 04 19:23 : client: [10] opened from 127.0.0.1:38954
+Apr 04 19:23 : client: [10] closed

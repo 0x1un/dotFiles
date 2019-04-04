@@ -290,3 +290,4 @@ exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/starry-redblue-jangl
 bindsym $mod+c exec --no-startup-id conky -d
 bindsym $mod+x exec --no-startup-id killall -9 conky
 
+bindsym $mod+m exec --no-startup-id $term -e ncmpcpp

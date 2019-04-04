@@ -1,3 +1,3 @@
 export FILE="ranger"
-export TERMINAL="st"
+export TERMINAL="alacritty"
 export EDITOR="nvim"

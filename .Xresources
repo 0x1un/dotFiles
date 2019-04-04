@@ -18,7 +18,7 @@
 !! Transparency (0-255):
 *.alpha: 210
 !! Set a default font and font size as below:
-*.font: Monaco-14;
+! *.font: Monaco-14;
 
 ! Xcursor.theme: ArchCursorTheme
 ! ! also set with lxappearance and double check the following:

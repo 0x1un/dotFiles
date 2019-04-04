@@ -1,0 +1,48 @@
+# 基本配置
+ncmpcpp_directory =                     "~/.ncmpcpp"
+mpd_music_dir =                         "这里改为Music目录的路径" 
+mpd_host =                                 "localhost"
+mpd_port =                                "6600"
+mpd_connection_timeout =                 5
+
+# 界面:
+user_interface =                         "alternative"
+alternative_header_first_line_format =     "$(white)─┤ $b$(magenta)%a$(end)$/b ├─$(end)"
+alternative_header_second_line_format =    "$(16)%t (%y)$(end)"
+alternative_ui_separator_color =         "cyan"
+
+# 显示格式:
+song_columns_list_format =                 "$L (10)[white]{n} $1│$7 (20)[magenta]{a} $1│$7 (20)[white]{b} $1│$7 (20)[magenta]{t} $1│$7 (20)[white]{l}"
+now_playing_prefix =                     "$b"
+centered_cursor =                         "no"
+cyclic_scrolling =                         "yes"
+mouse_list_scroll_whole_page =             "no"
+
+# 杂项配置:
+autocenter_mode =                         "yes"
+display_bitrate =                         "yes"
+header_visibility =                     "yes"
+statusbar_visibility =                     "yes"
+progressbar_look =                         "▃▃▃"
+
+
+# 音乐可视化配置:
+visualizer_output_name =                 "FIFO"
+visualizer_in_stereo =                     "no"
+visualizer_fifo_path =                     "/tmp/mpd.fifo"
+visualizer_sync_interval =                 "10"
+visualizer_type =                         "spectrum"
+visualizer_look =                         "▋▋"
+
+
+# 颜色:
+color1 =                                 "white"
+color2 =                                 "red"
+discard_colors_if_item_is_selected =     "yes"
+main_window_color =                     "white"
+header_window_color =                     "4"
+progressbar_color =                     "cyan"
+statusbar_color =                         "red"
+volume_color =                             "4"
+window_border_color =                     "white"
+active_window_border =                     "4"

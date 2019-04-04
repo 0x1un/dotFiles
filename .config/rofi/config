@@ -1,6 +1,6 @@
 # binding key with start rofi luncher
-rofi.theme: ~/.config/rofi/material.rasi 
-rofi.show-icons: true
+rofi.theme: ~/.config/rofi/dark-small.rasi
+rofi.show-icons: false
 rofi.display-window: Window
 rofi.display-drun: Run
 rofi.font: Source\ Code\ Pro 12

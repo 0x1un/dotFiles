@@ -18,17 +18,19 @@ markup=pango
 # Blocks
 
 # Display current song
-# [mediaplayer]
+[mediaplayer]
+command=~/.config/i3/i3scripts/mediaplayer
 # instance=spotify
-# interval=5
-# signal=10
+interval=5
+signal=10
 # color=#E88939
 
 # Arch Linux updates
-[arch_update.py]
-command=printf "\\uf303 " && ~/.config/i3/i3scripts/arch_update.py -b "#FFFFFF" -u "#FFFFFF"
-interval=3600
-color=#1793D1
+# [arch_update.py]
+# command=printf "\\uf303 " && ~/.config/i3/i3scripts/arch_update.py -b "#FFFFFF" -u "#FFFFFF"
+# interval=3600
+# color=#1793D1
+
 
 #OpenVPN
 [openvpn]

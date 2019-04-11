@@ -79,6 +79,18 @@ nnoremap ]e :<c-u>execute 'move +'. v:count1<cr>
 nnoremap [<space> :<c-u>put! =repeat(nr2char(10), v:count1)<cr>'[
 nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
 
+"---------------------------------------------------------------------
+" 选择窗口
+"---------------------------------------------------------------------
+nnoremap <C-h> <C-w>h
+nnoremap <C-l> <C-w>l
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
 
+"---------------------------------------------------------------------
+" 修改窗口大小
+"---------------------------------------------------------------------
+nmap <C-w>[ :vertical resize -3<CR>
+nmap <C-w>] :vertical resize +3<CR>
 
 

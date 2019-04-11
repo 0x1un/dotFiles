@@ -44,13 +44,13 @@ $cpu_usage eq -1 and die 'Can\'t find CPU information';
 printf "\x{e266} %.2f%%\n", $cpu_usage;
 
 # Print color, if needed
-if ($cpu_usage >= $t_crit) {
-    print "#f2021a\n";
-    exit 33;
-} elsif ($cpu_usage >= $t_warn) {
-    print "#fd971f\n";
-} else {
-    print "#8CE000\n";
-}
+# if ($cpu_usage >= $t_crit) {
+    # print "#f2021a\n";
+    # exit 33;
+# } elsif ($cpu_usage >= $t_warn) {
+    # print "#fd971f\n";
+# } else {
+    # print "#8CE000\n";
+# }
 
 exit 0;

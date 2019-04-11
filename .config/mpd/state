@@ -1,193 +1,2002 @@
-sw_volume: 62
+sw_volume: 20
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 34
-time: 1.946000
-random: 0
+state: pause
+current: 1698
+time: 266.059000
+random: 1
 repeat: 0
 single: 0
 consume: 0
 crossfade: 0
-mixrampdb: 0.000000
+mixrampdb: -50.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Aki阿杰/一世妆.mp3
-1:Aki阿杰/化蝶梦令.mp3
-2:Aki阿杰,HITA/千梦.mp3
-3:Aki阿杰,清弄/敘世.mp3
-4:Asher Book/Here With You.mp3
-5:Avicii,Felix Jaehn/The Nights (Felix Jaehn remix).mp3
-6:Axero/Trip.mp3
-7:Baha Men/Who Let The Dogs Out.mp3
-8:Blue/All Rise.mp3
-9:Boots Randolph/The Benny Hill Show (＂Yakety Sax＂).mp3
-10:Candy Shop,Cole McFee/Hippie.flac
-11:Charlie Puth/Look At Me Now.mp3
-12:Cheat Codes,Maggie Lindemann,CADE/Pretty Girl (Cheat Codes X CADE Remix).mp3
-13:Christopher/Where Do We Go from Here.mp3
-14:Coldplay,Gwyneth Paltrow/Everglow.mp3
-15:CRITTY/轮回之境.mp3
-16:Cymophane/Tassel.mp3
-17:D1ofaquavibe/The Happy Troll (Griefing Theme Song).mp3
-18:Darren Hayes/Creepin' Up On You.mp3
-19:Delacey/Dream It Possible.mp3
-20:Diana Boncheva/Beethoven Virus.flac
-21:DJ Okawari/Flower Dance.mp3
-22:Dj Titon/死机之歌.mp3
-23:dodie/Fade国风古典(Dodie Remix).mp3
-24:DotCom,SAYMYNAME/PYTHON (Original Mix).mp3
-25:Dr. Dre,50 Cent,Jay-Z/Numb Encore.mp3
-26:EnV/PneumaticTokyo.mp3
-27:Fun.,Janelle Monáe/We Are Young.flac
-28:G.E.M.邓紫棋/桃花诺.flac
-29:Ginger Snap5/Feel My Rhythm.mp3
-30:Groove Coverage/She.flac
-31:Hampton the Hampster/The Hampster Dance Song.mp3
-32:Hawk Nelson/Sold Out.mp3
-33:HITA/佳人如梦令.mp3
-34:HITA/采薇.mp3
-35:HITA/昔言.flac
-36:Illy,Anne-Marie/Catch 22.mp3
-37:Inez/Stronger.mp3
-38:IRiS七叶/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生.flac
-39:Joel Hanson/Traveling Light.mp3
-40:Jose Lucas/If It Weren't For Love.mp3
-41:July/My Soul.mp3
-42:KBShinya、A路人/白石溪.mp3
-43:Klave/EuroDancer.mp3
-44:Lady Antebellum/Need You Now.mp3
-45:Larry Mullen Jr.,Adam Clayton/Theme from Mission： Impossible.mp3
-46:Linkin Park/Breaking The Habit.mp3
-47:Linkin Park/Burning In The Skies.mp3
-48:Linkin Park/Crawling.mp3
-49:Linkin Park/Faint.mp3
-50:Linkin Park/Given Up.flac
-51:Linkin Park/In The End.mp3
-52:Linkin Park/Iridescent.mp3
-53:Linkin Park/Rolling In The Deep (Live) - live.mp3
-54:Linkin Park/Don't Stay.flac
-55:Linkin Park/Lying From You.flac
-56:Linkin Park/Figure.09.flac
-57:Linkin Park/From The Inside.flac
-58:Linkin Park/Numb.mp3
-59:Linkin Park/Papercut.mp3
-60:Linkin Park/Somewhere I Belong.mp3
-61:Linkin Park/What I've Done.mp3
-62:Linkin Park/My December.mp3
-63:Linkin Park/Waiting For The End.mp3
-64:Linkin Park,Jay-Z/Numb ／ Encore.mp3
-65:Linkin Park,Steve Aoki/A LIGHT THAT NEVER COMES.mp3
-66:Linkin Park,Steve Aoki/Darker Than the Light That Never Bleeds (Chester Forever Steve Aoki Remix).mp3
-67:Lovestoned/Bye Bye Bye.flac
-68:LuckyMaxx/华山铭.flac
-69:LVNDSCAPE,Kaptan/Walk Away.flac
-70:Macklemore,Lil Yachty/Marmalade.flac
-71:Maksim Mrvica/Croatian Rhapsody.mp3
-72:Mario/历书·乌衣.mp3
-73:Mark Petrie/Go Time.flac
-74:Mark Ronson,Bruno Mars/Uptown Funk.mp3
-75:Matilda Lucas/Sky Blush.flac
-76:Matteo/Panama.mp3
-77:Megan & Liz/Closer To Me.mp3
-78:Michael Learns To Rock/Take Me To Your Heart.mp3
-79:Modern Talking/Brother Louie.mp3
-80:Nightwish/I Want My Tears Back.flac
-81:OMFG/Hello.mp3
-82:Panda Eyes/Highscore.mp3
-83:Phil Good/Sleeping In (Acoustic).mp3
-84:R.I.O/R.I.O. Megamix (Continuous DJ Mix).mp3
-85:Rag'N'Bone Man/Skin.mp3
-86:Rocky_滕少/那就这样吧.mp3
-87:Serebro/Mi Mi Mi.mp3
-88:Soler/风的季节.flac
-89:Steezy Prime.,khaki/Discover.mp3
-90:Sunstroke Project/Epic Sax Guy.mp3
-91:Tacke竹桑/古旧人间.mp3
-92:Tez Cadey/Seve - Radio Edit.mp3
-93:The Score/Better Than One.mp3
-94:The Script,will.i.am/Hall of Fame.flac
-95:TheFatRat/Unity.mp3
-96:TheFatRat/Windfall.mp3
-97:TheFatRat,Laura Brehm/Monody.mp3
-98:Tobu/Life.mp3
-99:Tobu,Itro/Sunburst.mp3
-100:Tungevaag & Raaban/Samsara.mp3
-101:Two Steps From Hell/Star Sky - Instrumental.flac
-102:V.A/Sad Run.mp3
-103:void/Harbinger.mp3
-104:W.K/天地难容.mp3
-105:Zayde Wølf/Hustler.mp3
-106:シド/嘘.mp3
-107:シド/レイン.flac
-108:不才/一身诗意千寻瀑.mp3
-109:东篱,Assen捷/雪诉离歌.mp3
-110:东篱,Assen捷/梦望断.mp3
-111:云の泣/青玉案（唱：云の泣 词：小鱼萝莉）.mp3
-112:五音Jw/唐人.mp3
-113:五音Jw/步戏.flac
-114:五音Jw,橙光音乐/十年一梦-橙光《十年清风》主题曲.flac
-115:伦桑,橙光音乐/山有木兮-橙光《人鱼传说之长生烛》主题曲.flac
-116:刘惜君/我很快乐.mp3
-117:刘珂矣/半壶纱.flac
-118:千坂/At The Edge.flac
-119:南征北战NZBZ/骄傲的少年.flac
-120:南风ZJN/岁与君同.mp3
-121:卡修Rui/眉间雪（Cover 晴愔）.mp3
-122:司夏,汐音社/千秋此意.mp3
-123:吴雨霏/生生世世爱.flac
-124:嫌弃,解忧草/荒州梦.mp3
-125:小曲儿,贰婶/湖心亭.mp3
-126:少司命/承欢殿.mp3
-127:少司命,CRITTY/人间朝暮.mp3
-128:张晓棠/苏幕遮.mp3
-129:张芸京/偏爱.flac
-130:徐梦圆/color-X 3D.mp3
-131:徐梦圆/China-X.flac
-132:徐梦圆/China-PiPa.flac
-133:徐梦圆/China-P.flac
-134:慕寒/月华沉梦.mp3
-135:慕寒,Mario/盛世回首.mp3
-136:慕寒,无名/樱散零乱.mp3
-137:排骨教主/清明上河图.mp3
-138:排骨教主/霜雪千年.mp3
-139:接个吻，开一枪/烟袋斜街.flac
-140:接个吻，开一枪,Clare/南锣鼓巷.flac
-141:时光胶囊/青丝.mp3
-142:昼夜/穿越时空的思念（Cover：和田薫）.mp3
-143:李常超 (Lao乾妈),满汉全席/油纸伞.flac
-144:李玉刚/刚好遇见你.flac
-145:李袁杰/醉千年.flac
-146:林俊杰/醉赤壁.flac
-147:橙翼/春庭雪.mp3
-148:汐音社/红梅白雪知.mp3
-149:河图/海棠酒满.mp3
-150:河图/倾尽天下.mp3
-151:河图/云归处.mp3
-152:河图/第三十八年夏至.mp3
-153:洛风Eclick/古风小调.mp3
-154:洛风Eclick/日落秋思.mp3
-155:玄觞/陌上花开（Cover 小爱的妈）.mp3
-156:玄觞/海棠.flac
-157:玄觞/戏语花（Cover 《寒江雪》郑源）.mp3
-158:玄觞/黯然销魂.flac
-159:老狼/睡在我上铺的兄弟.mp3
-160:胡彦斌Tiger Hu/月光.mp3
-161:胡歌/忘记时间.flac
-162:胡歌,白冰/美丽的神话.mp3
-163:萧忆情Alex,伦桑,满汉全席/缘尽世间.mp3
-164:葛林/林中鸟.flac
-165:西瓜JUN/白石溪（Cover 洛天依、乐正绫）.mp3
-166:西瓜JUN/长生诀.flac
-167:许嵩,黄龄/惊鸿一面.flac
-168:谢天笑/向阳花.mp3
-169:赵雷/玛丽.flac
-170:金莎/星月神话.mp3
-171:银临,Aki阿杰/牵丝戏.mp3
-172:银临,云の泣/锦鲤抄.flac
-173:银临,慕寒/东风志.mp3
-174:陈鸿宇/理想三旬.flac
-175:音阙诗听,Sia-Fire/listen.flac
-176:音频怪物/浮生未歇.mp3
-177:齐栾/旅途·故乡（Cover VOCALOID）.mp3
+0:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+2:Axero/Trip/Trip - Axero.mp3
+3:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+4:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+5:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+6:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+7:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+8:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+9:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+10:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+11:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+12:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+13:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+14:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+15:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+16:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+17:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+18:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+19:Inez/Bed & Breakfast/Stronger - Inez.mp3
+20:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+21:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+22:Klave/EuroDancer/EuroDancer - Klave.mp3
+23:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+24:Linkin Park/In The End/In The End - Linkin Park.mp3
+25:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+26:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+27:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+28:Mario/Tarro/历书·乌衣 - Mario.mp3
+29:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+30:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+31:Matteo/Panama/Panama - Matteo.mp3
+32:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+33:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+34:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+35:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+36:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+37:The Score/The Score EP 2/Better Than One - The Score.mp3
+38:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+39:Tobu/Life/Life - Tobu.mp3
+40:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+41:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+42:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+43:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+44:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+45:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+46:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+47:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+48:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+49:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+50:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+51:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+52:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+53:void/Artifiction/Harbinger - void.mp3
+54:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+55:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+56:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+57:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+58:千坂/At The Edge/At The Edge - 千坂.mp3
+59:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+60:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+61:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+62:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+63:张磊/一念天堂/一念天堂 - 张磊.mp3
+64:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+65:徐梦圆/Change/China-X - 徐梦圆.mp3
+66:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+67:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+68:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+69:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+70:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+71:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+72:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+73:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+74:河图/倾尽天下/海棠酒满 - 河图.mp3
+75:河图/倾尽天下/倾尽天下 - 河图.mp3
+76:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+77:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+78:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+79:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+80:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+81:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+82:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+83:群星/历久尝新/风的季节 - Soler.mp3
+84:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+85:群星/热门华语232/天地难容 - W.K.mp3
+86:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+87:群星/热门华语255/云归处 - 河图.mp3
+88:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+89:群星/热门华语261/月华沉梦 - 慕寒.mp3
+90:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+91:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+92:群星/醉古风/昔言 - HITA.mp3
+93:葛林/林中鸟/林中鸟 - 葛林.mp3
+94:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+95:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+96:金莎/星月神话/星月神话 - 金莎.mp3
+97:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+98:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+99:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+100:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+101:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+102:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+103:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+104:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+105:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+106:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+107:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+108:Asher Book/Here With You/Here With You - Asher Book.mp3
+109:Axero/Trip/Trip - Axero.mp3
+110:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+111:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+112:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+113:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+114:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+115:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+116:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+117:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+118:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+119:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+120:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+121:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+122:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+123:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+124:Dripice/Escape/Escape - Dripice.mp3
+125:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+126:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+127:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+128:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+129:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+130:HITA/百变/采薇 - HITA.mp3
+131:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+132:Inez/Bed & Breakfast/Stronger - Inez.mp3
+133:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+134:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+135:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+136:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+137:Klave/EuroDancer/EuroDancer - Klave.mp3
+138:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+139:Linkin Park/In The End/In The End - Linkin Park.mp3
+140:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+141:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+142:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+143:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+144:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+145:Mario/Tarro/历书·乌衣 - Mario.mp3
+146:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+147:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+148:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+149:Matteo/Panama/Panama - Matteo.mp3
+150:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+151:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+152:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+153:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+154:OMFG/Hello/Hello - OMFG.mp3
+155:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+156:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+157:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+158:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+159:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+160:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+161:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+162:The Score/The Score EP 2/Better Than One - The Score.mp3
+163:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+164:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+165:Tobu/Life/Life - Tobu.mp3
+166:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+167:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+168:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+169:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+170:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+171:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+172:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+173:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+174:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+175:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+176:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+177:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+178:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+179:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+180:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+181:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+182:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+183:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+184:void/Artifiction/Harbinger - void.mp3
+185:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+186:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+187:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+188:五音Jw/聆音/步戏 - 五音Jw.mp3
+189:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+190:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+191:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+192:千坂/At The Edge/At The Edge - 千坂.mp3
+193:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+194:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+195:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+196:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+197:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+198:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+199:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+200:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+201:张磊/一念天堂/一念天堂 - 张磊.mp3
+202:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+203:徐梦圆/Change/China-X - 徐梦圆.mp3
+204:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+205:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+206:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+207:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+208:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+209:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+210:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+211:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+212:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+213:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+214:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+215:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+216:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+217:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+218:河图/倾尽天下/海棠酒满 - 河图.mp3
+219:河图/倾尽天下/倾尽天下 - 河图.mp3
+220:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+221:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+222:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+223:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+224:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+225:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+226:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+227:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+228:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+229:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+230:群星/历久尝新/风的季节 - Soler.mp3
+231:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+232:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+233:群星/热门华语232/天地难容 - W.K.mp3
+234:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+235:群星/热门华语244/荒州梦 - 嫌弃.mp3
+236:群星/热门华语255/云归处 - 河图.mp3
+237:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+238:群星/热门华语261/月华沉梦 - 慕寒.mp3
+239:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+240:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+241:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+242:群星/醉古风/昔言 - HITA.mp3
+243:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+244:葛林/林中鸟/林中鸟 - 葛林.mp3
+245:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+246:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+247:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+248:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+249:赵雷/无法长大/玛丽 - 赵雷.mp3
+250:金莎/星月神话/星月神话 - 金莎.mp3
+251:银临/东风志/东风志 - 银临,慕寒.mp3
+252:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+253:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+254:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+255:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+256:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+257:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+258:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+259:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+260:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+261:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+262:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+263:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+264:Asher Book/Here With You/Here With You - Asher Book.mp3
+265:Axero/Trip/Trip - Axero.mp3
+266:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+267:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+268:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+269:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+270:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+271:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+272:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+273:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+274:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+275:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+276:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+277:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+278:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+279:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+280:Dripice/Escape/Escape - Dripice.mp3
+281:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+282:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+283:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+284:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+285:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+286:HITA/百变/采薇 - HITA.mp3
+287:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+288:Inez/Bed & Breakfast/Stronger - Inez.mp3
+289:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+290:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+291:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+292:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+293:Klave/EuroDancer/EuroDancer - Klave.mp3
+294:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+295:Linkin Park/In The End/In The End - Linkin Park.mp3
+296:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+297:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+298:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+299:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+300:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+301:Mario/Tarro/历书·乌衣 - Mario.mp3
+302:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+303:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+304:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+305:Matteo/Panama/Panama - Matteo.mp3
+306:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+307:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+308:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+309:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+310:OMFG/Hello/Hello - OMFG.mp3
+311:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+312:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+313:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+314:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+315:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+316:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+317:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+318:The Score/The Score EP 2/Better Than One - The Score.mp3
+319:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+320:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+321:Tobu/Life/Life - Tobu.mp3
+322:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+323:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+324:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+325:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+326:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+327:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+328:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+329:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+330:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+331:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+332:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+333:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+334:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+335:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+336:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+337:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+338:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+339:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+340:void/Artifiction/Harbinger - void.mp3
+341:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+342:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+343:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+344:五音Jw/聆音/步戏 - 五音Jw.mp3
+345:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+346:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+347:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+348:千坂/At The Edge/At The Edge - 千坂.mp3
+349:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+350:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+351:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+352:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+353:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+354:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+355:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+356:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+357:张磊/一念天堂/一念天堂 - 张磊.mp3
+358:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+359:徐梦圆/Change/China-X - 徐梦圆.mp3
+360:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+361:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+362:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+363:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+364:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+365:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+366:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+367:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+368:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+369:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+370:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+371:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+372:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+373:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+374:河图/倾尽天下/海棠酒满 - 河图.mp3
+375:河图/倾尽天下/倾尽天下 - 河图.mp3
+376:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+377:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+378:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+379:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+380:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+381:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+382:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+383:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+384:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+385:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+386:群星/历久尝新/风的季节 - Soler.mp3
+387:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+388:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+389:群星/热门华语232/天地难容 - W.K.mp3
+390:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+391:群星/热门华语244/荒州梦 - 嫌弃.mp3
+392:群星/热门华语255/云归处 - 河图.mp3
+393:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+394:群星/热门华语261/月华沉梦 - 慕寒.mp3
+395:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+396:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+397:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+398:群星/醉古风/昔言 - HITA.mp3
+399:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+400:葛林/林中鸟/林中鸟 - 葛林.mp3
+401:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+402:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+403:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+404:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+405:赵雷/无法长大/玛丽 - 赵雷.mp3
+406:金莎/星月神话/星月神话 - 金莎.mp3
+407:银临/东风志/东风志 - 银临,慕寒.mp3
+408:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+409:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+410:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+411:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+412:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+413:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+414:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+415:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+416:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+417:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+418:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+419:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+420:Asher Book/Here With You/Here With You - Asher Book.mp3
+421:Axero/Trip/Trip - Axero.mp3
+422:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+423:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+424:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+425:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+426:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+427:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+428:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+429:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+430:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+431:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+432:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+433:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+434:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+435:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+436:Dripice/Escape/Escape - Dripice.mp3
+437:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+438:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+439:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+440:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+441:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+442:HITA/百变/采薇 - HITA.mp3
+443:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+444:Inez/Bed & Breakfast/Stronger - Inez.mp3
+445:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+446:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+447:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+448:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+449:Klave/EuroDancer/EuroDancer - Klave.mp3
+450:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+451:Linkin Park/In The End/In The End - Linkin Park.mp3
+452:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+453:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+454:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+455:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+456:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+457:Mario/Tarro/历书·乌衣 - Mario.mp3
+458:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+459:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+460:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+461:Matteo/Panama/Panama - Matteo.mp3
+462:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+463:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+464:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+465:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+466:OMFG/Hello/Hello - OMFG.mp3
+467:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+468:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+469:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+470:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+471:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+472:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+473:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+474:The Score/The Score EP 2/Better Than One - The Score.mp3
+475:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+476:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+477:Tobu/Life/Life - Tobu.mp3
+478:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+479:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+480:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+481:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+482:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+483:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+484:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+485:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+486:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+487:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+488:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+489:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+490:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+491:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+492:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+493:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+494:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+495:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+496:void/Artifiction/Harbinger - void.mp3
+497:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+498:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+499:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+500:五音Jw/聆音/步戏 - 五音Jw.mp3
+501:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+502:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+503:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+504:千坂/At The Edge/At The Edge - 千坂.mp3
+505:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+506:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+507:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+508:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+509:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+510:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+511:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+512:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+513:张磊/一念天堂/一念天堂 - 张磊.mp3
+514:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+515:徐梦圆/Change/China-X - 徐梦圆.mp3
+516:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+517:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+518:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+519:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+520:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+521:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+522:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+523:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+524:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+525:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+526:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+527:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+528:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+529:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+530:河图/倾尽天下/海棠酒满 - 河图.mp3
+531:河图/倾尽天下/倾尽天下 - 河图.mp3
+532:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+533:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+534:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+535:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+536:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+537:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+538:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+539:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+540:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+541:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+542:群星/历久尝新/风的季节 - Soler.mp3
+543:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+544:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+545:群星/热门华语232/天地难容 - W.K.mp3
+546:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+547:群星/热门华语244/荒州梦 - 嫌弃.mp3
+548:群星/热门华语255/云归处 - 河图.mp3
+549:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+550:群星/热门华语261/月华沉梦 - 慕寒.mp3
+551:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+552:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+553:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+554:群星/醉古风/昔言 - HITA.mp3
+555:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+556:葛林/林中鸟/林中鸟 - 葛林.mp3
+557:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+558:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+559:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+560:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+561:赵雷/无法长大/玛丽 - 赵雷.mp3
+562:金莎/星月神话/星月神话 - 金莎.mp3
+563:银临/东风志/东风志 - 银临,慕寒.mp3
+564:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+565:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+566:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+567:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+568:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+569:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+570:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+571:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+572:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+573:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+574:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+575:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+576:Asher Book/Here With You/Here With You - Asher Book.mp3
+577:Axero/Trip/Trip - Axero.mp3
+578:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+579:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+580:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+581:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+582:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+583:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+584:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+585:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+586:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+587:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+588:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+589:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+590:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+591:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+592:Dripice/Escape/Escape - Dripice.mp3
+593:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+594:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+595:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+596:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+597:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+598:HITA/百变/采薇 - HITA.mp3
+599:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+600:Inez/Bed & Breakfast/Stronger - Inez.mp3
+601:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+602:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+603:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+604:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+605:Klave/EuroDancer/EuroDancer - Klave.mp3
+606:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+607:Linkin Park/In The End/In The End - Linkin Park.mp3
+608:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+609:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+610:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+611:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+612:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+613:Mario/Tarro/历书·乌衣 - Mario.mp3
+614:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+615:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+616:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+617:Matteo/Panama/Panama - Matteo.mp3
+618:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+619:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+620:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+621:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+622:OMFG/Hello/Hello - OMFG.mp3
+623:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+624:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+625:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+626:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+627:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+628:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+629:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+630:The Score/The Score EP 2/Better Than One - The Score.mp3
+631:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+632:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+633:Tobu/Life/Life - Tobu.mp3
+634:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+635:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+636:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+637:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+638:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+639:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+640:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+641:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+642:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+643:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+644:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+645:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+646:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+647:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+648:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+649:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+650:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+651:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+652:void/Artifiction/Harbinger - void.mp3
+653:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+654:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+655:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+656:五音Jw/聆音/步戏 - 五音Jw.mp3
+657:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+658:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+659:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+660:千坂/At The Edge/At The Edge - 千坂.mp3
+661:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+662:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+663:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+664:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+665:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+666:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+667:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+668:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+669:张磊/一念天堂/一念天堂 - 张磊.mp3
+670:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+671:徐梦圆/Change/China-X - 徐梦圆.mp3
+672:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+673:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+674:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+675:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+676:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+677:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+678:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+679:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+680:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+681:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+682:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+683:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+684:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+685:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+686:河图/倾尽天下/海棠酒满 - 河图.mp3
+687:河图/倾尽天下/倾尽天下 - 河图.mp3
+688:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+689:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+690:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+691:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+692:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+693:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+694:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+695:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+696:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+697:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+698:群星/历久尝新/风的季节 - Soler.mp3
+699:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+700:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+701:群星/热门华语232/天地难容 - W.K.mp3
+702:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+703:群星/热门华语244/荒州梦 - 嫌弃.mp3
+704:群星/热门华语255/云归处 - 河图.mp3
+705:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+706:群星/热门华语261/月华沉梦 - 慕寒.mp3
+707:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+708:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+709:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+710:群星/醉古风/昔言 - HITA.mp3
+711:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+712:葛林/林中鸟/林中鸟 - 葛林.mp3
+713:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+714:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+715:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+716:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+717:赵雷/无法长大/玛丽 - 赵雷.mp3
+718:金莎/星月神话/星月神话 - 金莎.mp3
+719:银临/东风志/东风志 - 银临,慕寒.mp3
+720:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+721:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+722:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+723:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+724:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+725:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+726:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+727:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+728:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+729:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+730:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+731:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+732:Asher Book/Here With You/Here With You - Asher Book.mp3
+733:Axero/Trip/Trip - Axero.mp3
+734:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+735:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+736:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+737:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+738:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+739:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+740:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+741:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+742:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+743:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+744:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+745:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+746:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+747:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+748:Dripice/Escape/Escape - Dripice.mp3
+749:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+750:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+751:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+752:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+753:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+754:HITA/百变/采薇 - HITA.mp3
+755:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+756:Inez/Bed & Breakfast/Stronger - Inez.mp3
+757:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+758:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+759:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+760:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+761:Klave/EuroDancer/EuroDancer - Klave.mp3
+762:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+763:Linkin Park/In The End/In The End - Linkin Park.mp3
+764:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+765:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+766:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+767:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+768:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+769:Mario/Tarro/历书·乌衣 - Mario.mp3
+770:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+771:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+772:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+773:Matteo/Panama/Panama - Matteo.mp3
+774:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+775:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+776:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+777:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+778:OMFG/Hello/Hello - OMFG.mp3
+779:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+780:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+781:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+782:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+783:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+784:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+785:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+786:The Score/The Score EP 2/Better Than One - The Score.mp3
+787:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+788:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+789:Tobu/Life/Life - Tobu.mp3
+790:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+791:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+792:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+793:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+794:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+795:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+796:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+797:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+798:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+799:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+800:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+801:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+802:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+803:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+804:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+805:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+806:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+807:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+808:void/Artifiction/Harbinger - void.mp3
+809:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+810:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+811:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+812:五音Jw/聆音/步戏 - 五音Jw.mp3
+813:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+814:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+815:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+816:千坂/At The Edge/At The Edge - 千坂.mp3
+817:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+818:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+819:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+820:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+821:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+822:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+823:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+824:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+825:张磊/一念天堂/一念天堂 - 张磊.mp3
+826:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+827:徐梦圆/Change/China-X - 徐梦圆.mp3
+828:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+829:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+830:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+831:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+832:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+833:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+834:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+835:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+836:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+837:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+838:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+839:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+840:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+841:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+842:河图/倾尽天下/海棠酒满 - 河图.mp3
+843:河图/倾尽天下/倾尽天下 - 河图.mp3
+844:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+845:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+846:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+847:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+848:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+849:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+850:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+851:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+852:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+853:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+854:群星/历久尝新/风的季节 - Soler.mp3
+855:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+856:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+857:群星/热门华语232/天地难容 - W.K.mp3
+858:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+859:群星/热门华语244/荒州梦 - 嫌弃.mp3
+860:群星/热门华语255/云归处 - 河图.mp3
+861:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+862:群星/热门华语261/月华沉梦 - 慕寒.mp3
+863:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+864:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+865:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+866:群星/醉古风/昔言 - HITA.mp3
+867:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+868:葛林/林中鸟/林中鸟 - 葛林.mp3
+869:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+870:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+871:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+872:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+873:赵雷/无法长大/玛丽 - 赵雷.mp3
+874:金莎/星月神话/星月神话 - 金莎.mp3
+875:银临/东风志/东风志 - 银临,慕寒.mp3
+876:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+877:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+878:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+879:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+880:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+881:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+882:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+883:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+884:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+885:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+886:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+887:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+888:Asher Book/Here With You/Here With You - Asher Book.mp3
+889:Axero/Trip/Trip - Axero.mp3
+890:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+891:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+892:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+893:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+894:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+895:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+896:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+897:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+898:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+899:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+900:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+901:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+902:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+903:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+904:Dripice/Escape/Escape - Dripice.mp3
+905:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+906:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+907:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+908:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+909:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+910:HITA/百变/采薇 - HITA.mp3
+911:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+912:Inez/Bed & Breakfast/Stronger - Inez.mp3
+913:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+914:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+915:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+916:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+917:Klave/EuroDancer/EuroDancer - Klave.mp3
+918:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+919:Linkin Park/In The End/In The End - Linkin Park.mp3
+920:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+921:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+922:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+923:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+924:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+925:Mario/Tarro/历书·乌衣 - Mario.mp3
+926:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+927:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+928:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+929:Matteo/Panama/Panama - Matteo.mp3
+930:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+931:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+932:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+933:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+934:OMFG/Hello/Hello - OMFG.mp3
+935:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+936:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+937:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+938:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+939:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+940:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+941:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+942:The Score/The Score EP 2/Better Than One - The Score.mp3
+943:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+944:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+945:Tobu/Life/Life - Tobu.mp3
+946:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+947:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+948:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+949:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+950:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+951:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+952:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+953:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+954:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+955:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+956:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+957:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+958:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+959:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+960:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+961:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+962:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+963:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+964:void/Artifiction/Harbinger - void.mp3
+965:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+966:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+967:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+968:五音Jw/聆音/步戏 - 五音Jw.mp3
+969:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+970:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+971:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+972:千坂/At The Edge/At The Edge - 千坂.mp3
+973:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+974:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+975:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+976:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+977:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+978:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+979:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+980:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+981:张磊/一念天堂/一念天堂 - 张磊.mp3
+982:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+983:徐梦圆/Change/China-X - 徐梦圆.mp3
+984:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+985:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+986:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+987:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+988:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+989:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+990:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+991:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+992:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+993:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+994:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+995:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+996:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+997:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+998:河图/倾尽天下/海棠酒满 - 河图.mp3
+999:河图/倾尽天下/倾尽天下 - 河图.mp3
+1000:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1001:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1002:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1003:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1004:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1005:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1006:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1007:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1008:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1009:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1010:群星/历久尝新/风的季节 - Soler.mp3
+1011:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1012:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1013:群星/热门华语232/天地难容 - W.K.mp3
+1014:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1015:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1016:群星/热门华语255/云归处 - 河图.mp3
+1017:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1018:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1019:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1020:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1021:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1022:群星/醉古风/昔言 - HITA.mp3
+1023:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1024:葛林/林中鸟/林中鸟 - 葛林.mp3
+1025:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1026:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1027:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1028:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1029:赵雷/无法长大/玛丽 - 赵雷.mp3
+1030:金莎/星月神话/星月神话 - 金莎.mp3
+1031:银临/东风志/东风志 - 银临,慕寒.mp3
+1032:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1033:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1034:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1035:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1036:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1037:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1038:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1039:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1040:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1041:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1042:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1043:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1044:Asher Book/Here With You/Here With You - Asher Book.mp3
+1045:Axero/Trip/Trip - Axero.mp3
+1046:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1047:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1048:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1049:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1050:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1051:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1052:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1053:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1054:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1055:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1056:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1057:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1058:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1059:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1060:Dripice/Escape/Escape - Dripice.mp3
+1061:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1062:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1063:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1064:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1065:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1066:HITA/百变/采薇 - HITA.mp3
+1067:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1068:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1069:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1070:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1071:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1072:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1073:Klave/EuroDancer/EuroDancer - Klave.mp3
+1074:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1075:Linkin Park/In The End/In The End - Linkin Park.mp3
+1076:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1077:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1078:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1079:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1080:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1081:Mario/Tarro/历书·乌衣 - Mario.mp3
+1082:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1083:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1084:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1085:Matteo/Panama/Panama - Matteo.mp3
+1086:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1087:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1088:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1089:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1090:OMFG/Hello/Hello - OMFG.mp3
+1091:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1092:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1093:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1094:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1095:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1096:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1097:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1098:The Score/The Score EP 2/Better Than One - The Score.mp3
+1099:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1100:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1101:Tobu/Life/Life - Tobu.mp3
+1102:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1103:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1104:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1105:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1106:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1107:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1108:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1109:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1110:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1111:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1112:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1113:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1114:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1115:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1116:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1117:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1118:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1119:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1120:void/Artifiction/Harbinger - void.mp3
+1121:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1122:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1123:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1124:五音Jw/聆音/步戏 - 五音Jw.mp3
+1125:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1126:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1127:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1128:千坂/At The Edge/At The Edge - 千坂.mp3
+1129:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1130:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1131:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1132:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1133:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1134:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1135:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1136:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1137:张磊/一念天堂/一念天堂 - 张磊.mp3
+1138:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1139:徐梦圆/Change/China-X - 徐梦圆.mp3
+1140:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1141:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1142:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1143:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1144:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1145:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1146:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1147:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1148:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1149:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1150:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1151:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1152:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1153:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1154:河图/倾尽天下/倾尽天下 - 河图.mp3
+1155:河图/倾尽天下/海棠酒满 - 河图.mp3
+1156:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1157:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1158:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1159:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1160:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1161:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1162:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1163:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1164:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1165:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1166:群星/历久尝新/风的季节 - Soler.mp3
+1167:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1168:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1169:群星/热门华语232/天地难容 - W.K.mp3
+1170:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1171:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1172:群星/热门华语255/云归处 - 河图.mp3
+1173:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1174:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1175:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1176:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1177:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1178:群星/醉古风/昔言 - HITA.mp3
+1179:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1180:葛林/林中鸟/林中鸟 - 葛林.mp3
+1181:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1182:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1183:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1184:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1185:赵雷/无法长大/玛丽 - 赵雷.mp3
+1186:金莎/星月神话/星月神话 - 金莎.mp3
+1187:银临/东风志/东风志 - 银临,慕寒.mp3
+1188:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1189:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1190:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1191:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1192:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1193:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1194:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1195:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1196:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1197:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1198:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1199:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1200:Asher Book/Here With You/Here With You - Asher Book.mp3
+1201:Axero/Trip/Trip - Axero.mp3
+1202:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1203:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1204:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1205:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1206:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1207:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1208:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1209:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1210:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1211:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1212:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1213:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1214:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1215:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1216:Dripice/Escape/Escape - Dripice.mp3
+1217:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1218:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1219:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1220:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1221:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1222:HITA/百变/采薇 - HITA.mp3
+1223:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1224:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1225:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1226:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1227:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1228:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1229:Klave/EuroDancer/EuroDancer - Klave.mp3
+1230:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1231:Linkin Park/In The End/In The End - Linkin Park.mp3
+1232:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1233:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1234:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1235:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1236:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1237:Mario/Tarro/历书·乌衣 - Mario.mp3
+1238:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1239:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1240:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1241:Matteo/Panama/Panama - Matteo.mp3
+1242:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1243:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1244:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1245:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1246:OMFG/Hello/Hello - OMFG.mp3
+1247:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1248:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1249:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1250:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1251:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1252:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1253:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1254:The Score/The Score EP 2/Better Than One - The Score.mp3
+1255:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1256:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1257:Tobu/Life/Life - Tobu.mp3
+1258:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1259:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1260:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1261:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1262:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1263:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1264:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1265:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1266:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1267:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1268:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1269:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1270:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1271:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1272:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1273:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1274:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1275:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1276:void/Artifiction/Harbinger - void.mp3
+1277:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1278:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1279:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1280:五音Jw/聆音/步戏 - 五音Jw.mp3
+1281:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1282:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1283:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1284:千坂/At The Edge/At The Edge - 千坂.mp3
+1285:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1286:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1287:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1288:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1289:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1290:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1291:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1292:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1293:张磊/一念天堂/一念天堂 - 张磊.mp3
+1294:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1295:徐梦圆/Change/China-X - 徐梦圆.mp3
+1296:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1297:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1298:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1299:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1300:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1301:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1302:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1303:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1304:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1305:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1306:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1307:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1308:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1309:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1310:河图/倾尽天下/倾尽天下 - 河图.mp3
+1311:河图/倾尽天下/海棠酒满 - 河图.mp3
+1312:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1313:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1314:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1315:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1316:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1317:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1318:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1319:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1320:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1321:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1322:群星/历久尝新/风的季节 - Soler.mp3
+1323:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1324:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1325:群星/热门华语232/天地难容 - W.K.mp3
+1326:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1327:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1328:群星/热门华语255/云归处 - 河图.mp3
+1329:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1330:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1331:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1332:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1333:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1334:群星/醉古风/昔言 - HITA.mp3
+1335:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1336:葛林/林中鸟/林中鸟 - 葛林.mp3
+1337:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1338:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1339:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1340:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1341:赵雷/无法长大/玛丽 - 赵雷.mp3
+1342:金莎/星月神话/星月神话 - 金莎.mp3
+1343:银临/东风志/东风志 - 银临,慕寒.mp3
+1344:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1345:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1346:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1347:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1348:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1349:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1350:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1351:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1352:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1353:左手指月.m4a
+1354:lock me up.mp3
+1355:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1356:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1357:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1358:Asher Book/Here With You/Here With You - Asher Book.mp3
+1359:Axero/Trip/Trip - Axero.mp3
+1360:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1361:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1362:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1363:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1364:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1365:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1366:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1367:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1368:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1369:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1370:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1371:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1372:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1373:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1374:Dripice/Escape/Escape - Dripice.mp3
+1375:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1376:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1377:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1378:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1379:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1380:HITA/百变/采薇 - HITA.mp3
+1381:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1382:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1383:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1384:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1385:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1386:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1387:Klave/EuroDancer/EuroDancer - Klave.mp3
+1388:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1389:Linkin Park/In The End/In The End - Linkin Park.mp3
+1390:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1391:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1392:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1393:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1394:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1395:Mario/Tarro/历书·乌衣 - Mario.mp3
+1396:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1397:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1398:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1399:Matteo/Panama/Panama - Matteo.mp3
+1400:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1401:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1402:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1403:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1404:OMFG/Hello/Hello - OMFG.mp3
+1405:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1406:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1407:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1408:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1409:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1410:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1411:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1412:The Score/The Score EP 2/Better Than One - The Score.mp3
+1413:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1414:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1415:Tobu/Life/Life - Tobu.mp3
+1416:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1417:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1418:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1419:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1420:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1421:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1422:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1423:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1424:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1425:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1426:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1427:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1428:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1429:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1430:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1431:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1432:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1433:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1434:void/Artifiction/Harbinger - void.mp3
+1435:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1436:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1437:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1438:五音Jw/聆音/步戏 - 五音Jw.mp3
+1439:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1440:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1441:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1442:千坂/At The Edge/At The Edge - 千坂.mp3
+1443:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1444:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1445:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1446:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1447:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1448:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1449:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1450:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1451:张磊/一念天堂/一念天堂 - 张磊.mp3
+1452:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1453:徐梦圆/Change/China-X - 徐梦圆.mp3
+1454:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1455:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1456:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1457:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1458:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1459:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1460:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1461:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1462:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1463:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1464:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1465:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1466:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1467:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1468:河图/倾尽天下/倾尽天下 - 河图.mp3
+1469:河图/倾尽天下/海棠酒满 - 河图.mp3
+1470:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1471:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1472:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1473:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1474:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1475:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1476:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1477:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1478:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1479:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1480:群星/历久尝新/风的季节 - Soler.mp3
+1481:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1482:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1483:群星/热门华语232/天地难容 - W.K.mp3
+1484:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1485:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1486:群星/热门华语255/云归处 - 河图.mp3
+1487:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1488:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1489:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1490:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1491:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1492:群星/醉古风/昔言 - HITA.mp3
+1493:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1494:葛林/林中鸟/林中鸟 - 葛林.mp3
+1495:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1496:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1497:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1498:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1499:赵雷/无法长大/玛丽 - 赵雷.mp3
+1500:金莎/星月神话/星月神话 - 金莎.mp3
+1501:银临/东风志/东风志 - 银临,慕寒.mp3
+1502:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1503:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1504:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1505:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1506:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1507:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1508:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1509:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1510:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1511:左手指月.m4a
+1512:lock me up.mp3
+1513:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1514:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1515:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1516:Asher Book/Here With You/Here With You - Asher Book.mp3
+1517:Axero/Trip/Trip - Axero.mp3
+1518:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1519:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1520:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1521:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1522:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1523:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1524:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1525:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1526:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1527:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1528:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1529:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1530:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1531:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1532:Dripice/Escape/Escape - Dripice.mp3
+1533:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1534:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1535:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1536:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1537:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1538:HITA/百变/采薇 - HITA.mp3
+1539:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1540:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1541:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1542:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1543:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1544:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1545:Klave/EuroDancer/EuroDancer - Klave.mp3
+1546:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1547:Linkin Park/In The End/In The End - Linkin Park.mp3
+1548:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1549:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1550:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1551:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1552:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1553:Mario/Tarro/历书·乌衣 - Mario.mp3
+1554:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1555:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1556:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1557:Matteo/Panama/Panama - Matteo.mp3
+1558:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1559:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1560:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1561:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1562:OMFG/Hello/Hello - OMFG.mp3
+1563:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1564:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1565:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1566:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1567:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1568:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1569:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1570:The Score/The Score EP 2/Better Than One - The Score.mp3
+1571:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1572:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1573:Tobu/Life/Life - Tobu.mp3
+1574:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1575:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1576:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1577:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1578:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1579:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1580:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1581:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1582:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1583:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1584:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1585:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1586:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1587:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1588:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1589:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1590:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1591:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1592:void/Artifiction/Harbinger - void.mp3
+1593:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1594:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1595:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1596:五音Jw/聆音/步戏 - 五音Jw.mp3
+1597:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1598:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1599:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1600:千坂/At The Edge/At The Edge - 千坂.mp3
+1601:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1602:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1603:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1604:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1605:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1606:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1607:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1608:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1609:张磊/一念天堂/一念天堂 - 张磊.mp3
+1610:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1611:徐梦圆/Change/China-X - 徐梦圆.mp3
+1612:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1613:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1614:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1615:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1616:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1617:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1618:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1619:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1620:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1621:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1622:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1623:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1624:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1625:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1626:河图/倾尽天下/倾尽天下 - 河图.mp3
+1627:河图/倾尽天下/海棠酒满 - 河图.mp3
+1628:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1629:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1630:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1631:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1632:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1633:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1634:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1635:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1636:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1637:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1638:群星/历久尝新/风的季节 - Soler.mp3
+1639:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1640:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1641:群星/热门华语232/天地难容 - W.K.mp3
+1642:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1643:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1644:群星/热门华语255/云归处 - 河图.mp3
+1645:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1646:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1647:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1648:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1649:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1650:群星/醉古风/昔言 - HITA.mp3
+1651:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1652:葛林/林中鸟/林中鸟 - 葛林.mp3
+1653:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1654:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1655:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1656:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1657:赵雷/无法长大/玛丽 - 赵雷.mp3
+1658:金莎/星月神话/星月神话 - 金莎.mp3
+1659:银临/东风志/东风志 - 银临,慕寒.mp3
+1660:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1661:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1662:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1663:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1664:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1665:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1666:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1667:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1668:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1669:左手指月.m4a
+1670:lock me up.mp3
+1671:左手指月.m4a
+1672:lock me up.mp3
+1673:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1674:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1675:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1676:Asher Book/Here With You/Here With You - Asher Book.mp3
+1677:Axero/Trip/Trip - Axero.mp3
+1678:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1679:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1680:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1681:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1682:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1683:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1684:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1685:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1686:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1687:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1688:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1689:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1690:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1691:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1692:Dripice/Escape/Escape - Dripice.mp3
+1693:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1694:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1695:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1696:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1697:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1698:HITA/百变/采薇 - HITA.mp3
+1699:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1700:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1701:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1702:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1703:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1704:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1705:Klave/EuroDancer/EuroDancer - Klave.mp3
+1706:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1707:Linkin Park/In The End/In The End - Linkin Park.mp3
+1708:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1709:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1710:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1711:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1712:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1713:Mario/Tarro/历书·乌衣 - Mario.mp3
+1714:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1715:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1716:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1717:Matteo/Panama/Panama - Matteo.mp3
+1718:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1719:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1720:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1721:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1722:OMFG/Hello/Hello - OMFG.mp3
+1723:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1724:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1725:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1726:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1727:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1728:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1729:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1730:The Score/The Score EP 2/Better Than One - The Score.mp3
+1731:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1732:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1733:Tobu/Life/Life - Tobu.mp3
+1734:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1735:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1736:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1737:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1738:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1739:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1740:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1741:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1742:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1743:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1744:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1745:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1746:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1747:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1748:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1749:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1750:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1751:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1752:void/Artifiction/Harbinger - void.mp3
+1753:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1754:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1755:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1756:五音Jw/聆音/步戏 - 五音Jw.mp3
+1757:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1758:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1759:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1760:千坂/At The Edge/At The Edge - 千坂.mp3
+1761:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1762:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1763:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1764:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1765:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1766:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1767:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1768:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1769:张磊/一念天堂/一念天堂 - 张磊.mp3
+1770:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1771:徐梦圆/Change/China-X - 徐梦圆.mp3
+1772:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1773:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1774:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1775:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1776:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1777:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1778:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1779:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1780:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1781:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1782:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1783:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1784:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1785:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1786:河图/倾尽天下/倾尽天下 - 河图.mp3
+1787:河图/倾尽天下/海棠酒满 - 河图.mp3
+1788:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1789:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1790:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1791:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1792:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1793:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1794:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1795:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1796:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1797:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1798:群星/历久尝新/风的季节 - Soler.mp3
+1799:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1800:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1801:群星/热门华语232/天地难容 - W.K.mp3
+1802:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1803:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1804:群星/热门华语255/云归处 - 河图.mp3
+1805:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1806:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1807:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1808:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1809:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1810:群星/醉古风/昔言 - HITA.mp3
+1811:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1812:葛林/林中鸟/林中鸟 - 葛林.mp3
+1813:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1814:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1815:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1816:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1817:赵雷/无法长大/玛丽 - 赵雷.mp3
+1818:金莎/星月神话/星月神话 - 金莎.mp3
+1819:银临/东风志/东风志 - 银临,慕寒.mp3
+1820:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1821:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1822:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1823:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1824:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1825:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1826:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1827:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1828:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
+1829:左手指月.m4a
+1830:lock me up.mp3
+1831:Aki阿杰/一世妆/一世妆 - Aki阿杰.mp3
+1832:Aki阿杰/化蝶梦令/化蝶梦令 - Aki阿杰.mp3
+1833:Aki阿杰/千梦 With.HITA/千梦 - Aki阿杰,HITA.mp3
+1834:Asher Book/Here With You/Here With You - Asher Book.mp3
+1835:Axero/Trip/Trip - Axero.mp3
+1836:Baha Men/Who Let The Dogs Out/Who Let The Dogs Out - Baha Men.mp3
+1837:Candy Shop/Hippie/Hippie - Candy Shop.mp3
+1838:Charlie Landsborough/The Greatest Gift/Auld Lang Syne - Charlie Landsborough.mp3
+1839:Charlie Puth/Ego/Look At Me Now - Charlie Puth.mp3
+1840:Cheat Codes/Pretty Girl (Cheat Codes X CADE Remix)/Pretty Girl (Cheat Codes X CADE Remix) - Cheat Codes,Maggie Lindemann,CADE.mp3
+1841:Coldplay/Everglow/Everglow - Coldplay,Gwyneth Paltrow.mp3
+1842:CRITTY/弦上春雪/轮回之境 - CRITTY.mp3
+1843:D1ofaquavibe/The Happy Troll (Griefing Theme Song)/The Happy Troll (Griefing Theme Song) - D1ofaquavibe.mp3
+1844:Darren Hayes/Spin/Creepin' Up On You - Darren Hayes.mp3
+1845:Delacey/Dream It Possible/Dream It Possible - Delacey.mp3
+1846:Diana Boncheva/Beethoven Virus/Beethoven Virus - Diana Boncheva.mp3
+1847:DJ Okawari/A Cup Of Coffee/Flower Dance - DJ Okawari.mp3
+1848:dodie/Fade国风古典(Dodie Remix)/Fade国风古典(Dodie Remix) - dodie.mp3
+1849:DotCom/PYTHON/PYTHON (Original Mix) - DotCom,SAYMYNAME.mp3
+1850:Dripice/Escape/Escape - Dripice.mp3
+1851:Ginger Snap5/Snapped By You/Feel My Rhythm - Ginger Snap5.mp3
+1852:good machine oil/Dulcet Series spring special collection/Tassel - Cymophane.mp3
+1853:Groove Coverage/Best Of Groove Coverage/She - Groove Coverage.mp3
+1854:Hawk Nelson/Diamonds/Sold Out - Hawk Nelson.mp3
+1855:HITA/佳人如梦令/佳人如梦令 - HITA.mp3
+1856:HITA/百变/采薇 - HITA.mp3
+1857:Illy/Two Degrees/Catch 22 - Illy,Anne-Marie.mp3
+1858:Inez/Bed & Breakfast/Stronger - Inez.mp3
+1859:IRiS七叶/叶羽千华/01风月令【叶羽千华】专辑收录歌曲-纪念张国荣先生 - IRiS七叶.mp3
+1860:Joel Hanson/Traveling Light/Traveling Light - Joel Hanson.mp3
+1861:Jose Lucas/If It Weren't For Love/If It Weren't For Love - Jose Lucas.mp3
+1862:KBShinya/白石溪/白石溪 - KBShinya、A路人.mp3
+1863:Klave/EuroDancer/EuroDancer - Klave.mp3
+1864:Lady Antebellum/iTunes Session/Need You Now - Lady Antebellum.mp3
+1865:Linkin Park/In The End/In The End - Linkin Park.mp3
+1866:Lovestoned/Rising Love/Bye Bye Bye - Lovestoned.mp3
+1867:LuckyMaxx/华山铭/华山铭 - LuckyMaxx.mp3
+1868:LVNDSCAPE/Walk Away/Walk Away - LVNDSCAPE,Kaptan.mp3
+1869:Macklemore,Lil Yachty/Marmalade/Marmalade - Macklemore,Lil Yachty.mp3
+1870:Maksim Mrvica/The Piano Player/Croatian Rhapsody - Maksim Mrvica.mp3
+1871:Mario/Tarro/历书·乌衣 - Mario.mp3
+1872:Mark Petrie/Go Time/Go Time - Mark Petrie.mp3
+1873:Mark Ronson,Bruno Mars/Uptown Funk/Uptown Funk - Mark Ronson,Bruno Mars.mp3
+1874:Matilda Lucas/Sky Blush/Sky Blush - Matilda Lucas.mp3
+1875:Matteo/Panama/Panama - Matteo.mp3
+1876:Megan & Liz/Bad for Me - EP/Closer To Me - Megan & Liz.mp3
+1877:Michael Learns To Rock/Take Me to Your Heart/Take Me To Your Heart - Michael Learns To Rock.mp3
+1878:Modern Talking/Das Nummer 1 Album/Brother Louie - Modern Talking.mp3
+1879:Nightwish/Imaginaerum/I Want My Tears Back - Nightwish.mp3
+1880:OMFG/Hello/Hello - OMFG.mp3
+1881:Panda Eyes/Highscore/Highscore - Panda Eyes,Teminite.mp3
+1882:Phil Good/Sleeping In (Acoustic)/Sleeping In (Acoustic) - Phil Good.mp3
+1883:Rag'N'Bone Man/Skin/Skin - Rag'N'Bone Man.mp3
+1884:S.E.N.S/Palace Memories/Palace Memories - S.E.N.S.mp3
+1885:Simply Three/Counting Stars - Single/Counting Stars - Simply Three.mp3
+1886:Steezy Prime/Discover/Discover - Steezy Prime.,khaki.mp3
+1887:Tacke竹桑/人间词话/古旧人间 - Tacke竹桑.mp3
+1888:The Score/The Score EP 2/Better Than One - The Score.mp3
+1889:The Shanghai Restoration Project/Zodiac/dark HORSE - The Shanghai Restoration Project.mp3
+1890:TheFatRat/Monody/Monody - TheFatRat,Laura Brehm.mp3
+1891:Tobu/Life/Life - Tobu.mp3
+1892:Tobu/Sunburst/Sunburst - Tobu,Itro.mp3
+1893:Two Steps From Hell/Battlecry/Star Sky - Instrumental - Two Steps From Hell.mp3
+1894:V.A/시티헌터 O.S.T Part.3/Sad Run - V.A.mp3
+1895:V.A/鋼の錬金術師 THE BEST/レイン - シド.mp3
+1896:V.A/鋼の錬金術師 THE BEST/嘘 - シド.mp3
+1897:Various Artists/100X Zomer 2014/Mi Mi Mi - Serebro.mp3
+1898:Various Artists/Dancing Bear Best Of 2012 International/We Are Young - Fun.,Janelle Monáe.mp3
+1899:Various Artists/Hed Kandi Tropical House/The Nights (Felix Jaehn remix) - Avicii,Felix Jaehn.mp3
+1900:Various Artists/Kokowääh 2 (Original Motion Picture Soundtrack)/Hall of Fame - The Script,will.i.am.mp3
+1901:Various Artists/Kontor Top Of The Clubs - The Biggest Hits Of The Year Mmxiii/L-Holidays (Radio Edit) - Remady.mp3
+1902:Various Artists/Mission： Impossible (Music From And Inspired By The Motion Picture)/Theme from Mission： Impossible - Larry Mullen Jr.mp3
+1903:Various Artists/Mujeres y Hombres y Viceversa： Los Hits del Verano 2015/Samsara - Tungevaag & Raaban.mp3
+1904:Various Artists/Television's Greatest Hits, Vol.6： Remote Control/The Benny Hill Show (＂Yakety Sax＂) - Boots Randolph.mp3
+1905:Various Artists/Top of the Pops 2001/All Rise - Blue.mp3
+1906:Various Artists/Tropical House Top 100/Seve - Radio Edit - Tez Cadey.mp3
+1907:Various Artists/不朽的声音(人生最难忘的歌)/Sailing - Rod Stewart.mp3
+1908:Various Artists/最新热歌慢摇84/死机之歌 - Dj Titon.mp3
+1909:Various Artists/最新热歌慢摇90/Epic Sax Guy - Sunstroke Project.mp3
+1910:void/Artifiction/Harbinger - void.mp3
+1911:Zayde Wølf/Golden Age/Hustler - Zayde Wølf.mp3
+1912:东篱/东栏篱歌/雪诉离歌 - 东篱,Assen捷.mp3
+1913:五音Jw/2016年翻唱合辑/唐人 - 五音Jw.mp3
+1914:五音Jw/聆音/步戏 - 五音Jw.mp3
+1915:刘惜君/爱情花园/我很快乐 - 刘惜君.mp3
+1916:刘晓Lucio/春庭雪/春庭雪 - 橙翼.mp3
+1917:刘珂矣/半壶纱/半壶纱 - 刘珂矣.mp3
+1918:千坂/At The Edge/At The Edge - 千坂.mp3
+1919:南征北战NZBZ/6415/骄傲的少年 - 南征北战NZBZ.mp3
+1920:南风ZJN/行行重行行3完结篇ED（填词翻唱）/岁与君同 - 南风ZJN.mp3
+1921:卡修Rui/卡修Rui【古风作品】集/眉间雪（Cover 晴愔） - 卡修Rui.mp3
+1922:双笙/故梦（翻唱）/故梦（Cover 橙翼） - 双笙.mp3
+1923:和楽器バンド/起风了/起风了 - 和楽器バンド.mp3
+1924:小曲儿/小曲儿-歌曲合集/湖心亭 - 小曲儿,贰婶.mp3
+1925:小鱼萝莉/小鱼萝莉作词/青玉案（唱：云の泣 词：小鱼萝莉） - 云の泣.mp3
+1926:张晓棠/盛世好风光 EP/苏幕遮 - 张晓棠.mp3
+1927:张磊/一念天堂/一念天堂 - 张磊.mp3
+1928:徐梦圆/3D-E/color-X 3D - 徐梦圆.mp3
+1929:徐梦圆/Change/China-X - 徐梦圆.mp3
+1930:徐梦圆/China-Pipa/China-PiPa - 徐梦圆.mp3
+1931:徐梦圆/CHINA（徐梦圆Original Mix）/China-P - 徐梦圆.mp3
+1932:排骨教主/排骨翻唱合集/清明上河图 - 排骨教主.mp3
+1933:排骨教主/排骨翻唱合集/霜雪千年 - 排骨教主.mp3
+1934:接个吻，开一枪/南锣鼓巷/南锣鼓巷 - 接个吻，开一枪,Clare.mp3
+1935:接个吻，开一枪/烟袋斜街/烟袋斜街 - 接个吻，开一枪.mp3
+1936:时光胶囊/记忆给他的礼物/青丝 - 时光胶囊.mp3
+1937:昼夜/囿于昼夜/穿越时空的思念（Cover：和田薫） - 昼夜.mp3
+1938:李袁杰/醉千年/醉千年 - 李袁杰.mp3
+1939:林俊杰/JJ陆/醉赤壁 - 林俊杰.mp3
+1940:橙光音乐/人鱼传说之长生烛·橙光OST/山有木兮-橙光《人鱼传说之长生烛》主题曲 - 伦桑,橙光音乐.mp3
+1941:橙光音乐/十年清风·橙光OST/十年一梦-橙光《十年清风》主题曲 - 五音Jw,橙光音乐.mp3
+1942:汐音社/人间词话/千秋此意 - 司夏,汐音社.mp3
+1943:汐音社/人间词话/红梅白雪知 - 汐音社.mp3
+1944:河图/倾尽天下/倾尽天下 - 河图.mp3
+1945:河图/倾尽天下/海棠酒满 - 河图.mp3
+1946:河图/第三十八年夏至/第三十八年夏至 - 河图.mp3
+1947:洛风Eclick/纯音乐/古风小调 - 洛风Eclick.mp3
+1948:洛风Eclick/纯音乐/日落秋思 - 洛风Eclick.mp3
+1949:满汉全席/【满汉】油纸伞/油纸伞 - 李常超 (Lao乾妈),满汉全席.mp3
+1950:满汉全席/【纯男声】满汉全席音乐团队/缘尽世间 - 萧忆情Alex,伦桑,满汉全席.mp3
+1951:玄觞/天涯明月刀相关歌曲/陌上花开（Cover 小爱的妈） - 玄觞.mp3
+1952:玄觞/玄觞《海棠》/海棠 - 玄觞.mp3
+1953:玄觞/黯然销魂/黯然销魂 - 玄觞.mp3
+1954:群星/《神话》电视原声带/美丽的神话 - 胡歌,白冰.mp3
+1955:群星/上古情歌 电视剧原声带/G.E.M. 邓紫棋 - 桃花诺 [mqms2].mp3
+1956:群星/历久尝新/风的季节 - Soler.mp3
+1957:群星/热门华语212/一身诗意千寻瀑 - 不才.mp3
+1958:群星/热门华语214/樱散零乱 - 慕寒,无名.mp3
+1959:群星/热门华语232/天地难容 - W.K.mp3
+1960:群星/热门华语233/那就这样吧 - Rocky_滕少.mp3
+1961:群星/热门华语244/荒州梦 - 嫌弃.mp3
+1962:群星/热门华语255/云归处 - 河图.mp3
+1963:群星/热门华语255/梦望断 - 东篱,Assen捷.mp3
+1964:群星/热门华语261/月华沉梦 - 慕寒.mp3
+1965:群星/热门华语268/盛世回首 - 慕寒,Mario.mp3
+1966:群星/热门华语274/敘世 - Aki阿杰,清弄.mp3
+1967:群星/秦时明月 原声大碟/月光 - 胡彦斌.mp3
+1968:群星/醉古风/昔言 - HITA.mp3
+1969:花粥/粥请客（二）/盗将行 - 花粥,马雨阳.mp3
+1970:葛林/林中鸟/林中鸟 - 葛林.mp3
+1971:西瓜JUN/白石溪/白石溪（Cover 洛天依、乐正绫） - 西瓜JUN.mp3
+1972:西瓜JUN/长生诀/长生诀 - 西瓜JUN.mp3
+1973:许嵩/不如吃茶去/惊鸿一面 - 许嵩,黄龄.mp3
+1974:谢天笑/X.T.X/向阳花 - 谢天笑.mp3
+1975:赵雷/无法长大/玛丽 - 赵雷.mp3
+1976:金莎/星月神话/星月神话 - 金莎.mp3
+1977:银临/东风志/东风志 - 银临,慕寒.mp3
+1978:银临/牵丝戏/牵丝戏 - 银临,Aki阿杰.mp3
+1979:银临/锦鲤抄/锦鲤抄 - 银临,云の泣.mp3
+1980:陈鸿宇/浓烟下的诗歌电台/陈鸿宇 - 理想三旬 [mqms2].mp3
+1981:音阙诗听,Sia-Fire/listen/listen - 音阙诗听,Sia-Fire.mp3
+1982:音频怪物/音频怪物精选/浮生未歇 - 音频怪物.mp3
+1983:麦振鸿/仙剑奇侠传三 电视原声带/偏爱 - 张芸京.mp3
+1984:麦振鸿/仙剑奇侠传三 电视原声带/忘记时间 - 胡歌.mp3
+1985:麦振鸿/仙剑奇侠传三 电视原声带/生生世世爱 - 吴雨霏.mp3
+1986:齐栾/旅途·故乡/旅途·故乡（Cover VOCALOID） - 齐栾.mp3
 playlist_end

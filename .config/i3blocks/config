@@ -23,7 +23,7 @@ command=~/.config/i3/i3scripts/mediaplayer
 # instance=spotify
 interval=5
 signal=10
-# color=#E88939
+color=#E88939
 
 # Arch Linux updates
 # [arch_update.py]
@@ -59,7 +59,7 @@ color=#E88939
 
 # CPU usage
 [cpu_usage]
-# command=printf "\\ufd2e " && ~/.config/i3/i3scripts/cpu_usage
+command=printf "\\ufd2e " && ~/.config/i3/i3scripts/cpu_usage
 interval=2
 color=#589df6
 
@@ -82,10 +82,18 @@ color=#21b089
 
 
 # Battery indicator
-[battery]
-command=printf "\\uf578" && ~/.config/i3/i3scripts/battery
-interval=30
+# [battery]
+# command=printf "\\uf578" && ~/.config/i3/i3scripts/battery
+# interval=10
+# color=#E88939
+
+[battery2]
+command=~/.config/i3/i3scripts/battery2
+interval=10
 color=#E88939
+# label=⚡
+#BAT_NUMBER=0
+
 
 # Wifi signal strenght
 [wifi]

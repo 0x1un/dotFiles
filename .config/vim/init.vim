@@ -42,7 +42,7 @@ LoadScript plugins/md-prews.vim
 
 LoadScript plugins/set-title.vim
 
-LoadScript plugins/vim-ale.vim
+" LoadScript plugins/vim-ale.vim
 
 LoadScript plugins/vim-go.vim
 
@@ -58,3 +58,4 @@ LoadScript plugins/lightline.vim
 
 " LoadScript plugins/neosnippet.vim
 
+LoadScript plugins/indentline.vim

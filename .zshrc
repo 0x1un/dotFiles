@@ -1,6 +1,7 @@
 export ZSH="/home/aumujun/.oh-my-zsh"
 
 ZSH_THEME="lambda-mod"
+# ZSH_THEME="example"
 plugins=(
   git
   zsh-autosuggestions

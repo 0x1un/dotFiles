@@ -75,8 +75,8 @@ Plug 	'yarisgutierrez/ayu-lightline'
 Plug 	'taigacute/spaceline.vim'
 
 " 代码片段补全
-Plug 	'Shougo/neosnippet.vim'
-Plug 	'Shougo/neosnippet-snippets'
+" Plug 	'Shougo/neosnippet.vim'
+" Plug 	'Shougo/neosnippet-snippets'
 
 " 符号补全
 Plug 	'Raimondi/delimitMate'
@@ -85,5 +85,7 @@ Plug 	'SirVer/ultisnips'
 " 文件模糊搜索
 Plug 	'Yggdroot/LeaderF', { 'do': './install.sh' }
 
+" 缩进线
+Plug 	'Yggdroot/indentLine'
 call plug#end()
 

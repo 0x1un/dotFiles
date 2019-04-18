@@ -73,45 +73,75 @@ font:
 render_timer: false
 
 # Colors (Turing)
+# colors:
+  # primary:
+    # background: '0x263647'
+    # foreground: '0xeaeaea'
+    # bright_foreground: '0xffffff'
+#
+  # cursor:
+    # text: '0x000000'
+    # cursor: '0xffffff'
+#
+  # normal:
+    # black:   '0x000000'
+    # red:     '0xf9555f'
+    # green:   '0x21b089'
+    # yellow:  '0xfef02a'
+    # blue:    '0x589df6'
+    # magenta: '0x944d95'
+    # cyan:    '0x1f9ee7'
+    # white:   '0xdddddd'
+#
+  # bright:
+    # black:   '0x555555'
+    # red:     '0xfa8c8f'
+    # green:   '0x35bb9a'
+    # yellow:  '0xffff55'
+    # blue:    '0x589df6'
+    # magenta: '0xe75699'
+    # cyan:    '0x3979bc'
+    # white:   '0xffffff'
+#
+  # dim:
+    # black:   '0x333333'
+    # red:     '0xf2777a'
+    # green:   '0x99cc99'
+    # yellow:  '0xffcc66'
+    # blue:    '0x6699cc'
+    # magenta: '0xcc99cc'
+    # cyan:    '0x66cccc'
+    # white:   '0xdddddd'
+
+
+# Colors (Nord)
 colors:
-  primary:
-    background: '0x263647'
-    foreground: '0xeaeaea'
-    bright_foreground: '0xffffff'
+   # Default colors
+   primary:
+     background: '0x2E3440'
+     foreground: '0xD8DEE9'
 
-  cursor:
-    text: '0x000000'
-    cursor: '0xffffff'
+   # Normal colors
+   normal:
+     black:   '0x3B4252'
+     red:     '0xBF616A'
+     green:   '0xA3BE8C'
+     yellow:  '0xEBCB8B'
+     blue:    '0x81A1C1'
+     magenta: '0xB48EAD'
+     cyan:    '0x88C0D0'
+     white:   '0xE5E9F0'
 
-  normal:
-    black:   '0x000000'
-    red:     '0xf9555f'
-    green:   '0x21b089'
-    yellow:  '0xfef02a'
-    blue:    '0x589df6'
-    magenta: '0x944d95'
-    cyan:    '0x1f9ee7'
-    white:   '0xdddddd'
-
-  bright:
-    black:   '0x555555'
-    red:     '0xfa8c8f'
-    green:   '0x35bb9a'
-    yellow:  '0xffff55'
-    blue:    '0x589df6'
-    magenta: '0xe75699'
-    cyan:    '0x3979bc'
-    white:   '0xffffff'
-
-  dim:
-    black:   '0x333333'
-    red:     '0xf2777a'
-    green:   '0x99cc99'
-    yellow:  '0xffcc66'
-    blue:    '0x6699cc'
-    magenta: '0xcc99cc'
-    cyan:    '0x66cccc'
-    white:   '0xdddddd'
+   # Bright colors
+   bright:
+     black:   '0x4C566A'
+     red:     '0xBF616A'
+     green:   '0xA3BE8C'
+     yellow:  '0xEBCB8B'
+     blue:    '0x81A1C1'
+     magenta: '0xB48EAD'
+     cyan:    '0x8FBCBB'
+     white:   '0xECEFF4'
 
 visual_bell:
   animation: EaseOutExpo

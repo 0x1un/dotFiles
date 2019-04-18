@@ -99,5 +99,5 @@ function fish_prompt
       else
         echo ") "
       end
-    end)(flash_off)
+    end)
 end

@@ -28,3 +28,5 @@ function tree5; tree --dirsfirst -ChFLQ 5 $argv; end
 function tree6; tree --dirsfirst -ChFLQ 6 $argv; end
 
 alias i3config "nvim ~/.config/i3/config"
+alias vfon "vf activate"
+alias deactivate "vf deactivate"

@@ -59,7 +59,7 @@ color=#E88939
 
 # CPU usage
 [cpu_usage]
-command=printf "\\ufd2e " && ~/.config/i3/i3scripts/cpu_usage
+command=printf "" && ~/.config/i3/i3scripts/cpu_usage
 interval=2
 color=#589df6
 

@@ -80,9 +80,8 @@ function fish_prompt
 
   set -l prompt (prompt_pwd)
   set -l base (basename "$prompt")
-  set -l env (lolfish "[🐍" (basename $VIRTUAL_ENV)"]")
   if set -q VIRTUAL_ENV
-      # echo "🐍" (basename "$VIRTUAL_ENV")
+      set -l env (lolfish "[🐍" (basename $VIRTUAL_ENV)"]")
       echo $env
   end
 

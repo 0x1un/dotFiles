@@ -21,3 +21,5 @@ set -x -g PATH ~/.composer/vendor/bin $PATH
 
 
 source ~/.config/fish/aliases.fish
+# source ~/.config/fish/envs.fish
+eval (python -m virtualfish)

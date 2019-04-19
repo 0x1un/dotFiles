@@ -74,13 +74,22 @@ end
 
 function bc; command bc -l $argv; end
 
+
 function fish_prompt
   set -l code $status
 
   set -l prompt (prompt_pwd)
   set -l base (basename "$prompt")
+  set -l env (lolfish "[🐍" (basename $VIRTUAL_ENV)"]")
+  if set -q VIRTUAL_ENV
+      # echo "🐍" (basename "$VIRTUAL_ENV")
+      echo $env
+  end
 
-  lolfish "( "(begin
+
+
+ lolfish (begin
+
     if test "$PWD" = "/"
       test $code -eq 0; and echo "/"; or echo "/"
     else
@@ -92,12 +101,14 @@ function fish_prompt
     end)"⌁""|g" \
   | sed "s|/|"" ) ""|g" \
   | sed "s|"$base"|"$base" |g")(begin
-    test "$PWD" = "$HOME"; and echo " "; echo ""
-    end)(begin
       if test "$PWD" = "/"
         echo ""
       else
-        echo ") "
+        echo "> "
       end
     end)
 end
+
+# (begin
+    # test "$PWD" = "$HOME"; and echo " "; echo ""
+    # end)

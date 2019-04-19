@@ -87,5 +87,8 @@ Plug 	'Yggdroot/LeaderF', { 'do': './install.sh' }
 
 " 缩进线
 Plug 	'Yggdroot/indentLine'
+
+" fish脚本高亮
+Plug	'dag/vim-fish', {'for': 'fish'}
 call plug#end()
 

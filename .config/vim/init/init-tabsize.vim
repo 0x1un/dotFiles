@@ -21,3 +21,5 @@ augroup PythonTab
 	" 时自动设置成空格缩进。
 	"au FileType python setlocal shiftwidth=4 tabstop=4 noexpandtab
 augroup END
+
+au FileType *.c,*.h setlocal ts=4 expandtab autoindent 

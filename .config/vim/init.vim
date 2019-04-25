@@ -34,6 +34,8 @@ LoadScript init/auto-run.vim
 
 LoadScript init/keymaps.vim
 
+LoadScript init/init-tabsize.vim
+
 LoadScript plugins/vim-plug.vim
 
 LoadScript plugins/nerdTree.vim
@@ -42,7 +44,7 @@ LoadScript plugins/md-prews.vim
 
 LoadScript plugins/set-title.vim
 
-" LoadScript plugins/vim-ale.vim
+LoadScript plugins/vim-ale.vim
 
 LoadScript plugins/vim-go.vim
 

@@ -98,7 +98,7 @@ function fish_prompt
   | sed "s|~|"(begin
       test $code -eq 0; and echo ; or echo 
     end)"⌁""|g" \
-  | sed "s|/|"" ) ""|g" \
+  | sed "s|/|"" > ""|g" \
   | sed "s|"$base"|"$base" |g")(begin
       if test "$PWD" = "/"
         echo ""

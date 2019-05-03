@@ -60,4 +60,8 @@ LoadScript plugins/lightline.vim
 
 " LoadScript plugins/neosnippet.vim
 
+LoadScript plugins/translate.vim
+
 LoadScript plugins/indentline.vim
+
+LoadScript plugins/completeParameter.vim

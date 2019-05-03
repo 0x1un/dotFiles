@@ -30,3 +30,4 @@ function tree6; tree --dirsfirst -ChFLQ 6 $argv; end
 alias i3config "nvim ~/.config/i3/config"
 alias vfon "vf activate"
 alias deactivate "vf deactivate"
+alias update "sudo pacman -Syu"

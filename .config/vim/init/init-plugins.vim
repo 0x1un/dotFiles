@@ -90,5 +90,11 @@ Plug 	'Yggdroot/indentLine'
 
 " fish脚本高亮
 Plug	'dag/vim-fish', {'for': 'fish'}
+
+" 翻译插件
+Plug	'voldikss/vim-translate-me'
+
+" 参数补全
+Plug	'tenfyzhong/CompleteParameter.vim'
 call plug#end()
 

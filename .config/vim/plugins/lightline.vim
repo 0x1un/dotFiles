@@ -32,6 +32,7 @@ let g:lightline = {
       \    'tagbar' : 'LightLineTagbar',
       \   'filetype': 'LightLineFiletype',
       \   'fileformat': 'LightLineFileformat',
+	  \	  'method': 'NearestMethodOrFunction',
       \ },
       \ 'component_type': {'buffers': 'tabsel'},
       \ 'separator': { 'left': "\ue0b0", 'right': "\ue0b2"},

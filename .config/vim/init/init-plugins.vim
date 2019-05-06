@@ -14,9 +14,6 @@ Plug 	'scrooloose/nerdtree'
 " 彩虹括号
 Plug	'luochen1990/rainbow'
 
-" 成对标签补全
-Plug	'alvan/vim-closetag'
-
 " vim主题
 Plug	'morhetz/gruvbox'
 
@@ -96,5 +93,11 @@ Plug	'voldikss/vim-translate-me'
 
 " 参数补全
 Plug	'tenfyzhong/CompleteParameter.vim'
+
+" 批量选择
+Plug	'terryma/vim-multiple-cursors'
+
+" 类似tagbar的插件
+Plug	'liuchengxu/vista.vim'
 call plug#end()
 

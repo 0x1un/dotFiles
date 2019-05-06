@@ -19,7 +19,7 @@ set rtp+=~/.vim
 
 
 "----------------------------------------------------------------------
-" 模块加载
+" 模块加载, 虽然写法有点蠢, 但是便于启用/禁用操作
 "----------------------------------------------------------------------
 
 " 加载基础配置
@@ -65,3 +65,5 @@ LoadScript plugins/translate.vim
 LoadScript plugins/indentline.vim
 
 LoadScript plugins/completeParameter.vim
+
+LoadScript plugins/rainbow.vim

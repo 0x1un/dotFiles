@@ -33,7 +33,7 @@ Plug 	'scrooloose/nerdcommenter'
 Plug 	'w0rp/ale', {'for': ['go', 'python', 'c', 'rust', 'golang']}
 
 " go语言支持
-Plug 	'fatih/vim-go', {'for': ['go', 'golang']}
+Plug 	'fatih/vim-go',{ 'do': ':GoUpdateBinaries' }
 
 " 补全框架
 Plug 	'neoclide/coc.nvim', {'tag': '*', 'do': { -> coc#util#install()}}
@@ -99,5 +99,7 @@ Plug	'terryma/vim-multiple-cursors'
 
 " 类似tagbar的插件
 Plug	'liuchengxu/vista.vim'
+
+Plug	'joshdick/onedark.vim'
 call plug#end()
 

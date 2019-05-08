@@ -285,7 +285,7 @@ exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/big-tree.jpeg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/astrology-astronomy-constellation-2098427.jpg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
 bindsym $mod+x exec --no-startup-id killall -9 conky

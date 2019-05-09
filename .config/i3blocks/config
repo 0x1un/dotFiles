@@ -21,7 +21,7 @@ markup=pango
 [mediaplayer]
 command=~/.config/i3/i3scripts/mediaplayer
 # instance=spotify
-interval=5
+interval=2
 signal=10
 color=#E88939
 

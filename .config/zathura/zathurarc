@@ -1,3 +1,5 @@
+# vim: filetype=i3
+# set recolor-darkcolor \#839496
 set font                        "Cantarell 8"
 set default-bg                  "#000000" #00
 set default-fg                  "#1f1b3f" #01

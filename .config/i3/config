@@ -300,3 +300,4 @@ bindsym $mod+Shift+u exec --no-startup-id $term -e ranger /run/media/aumujun/DAT
 
 # dunst notify send a message
 exec_always --no-startup-id echo ~/Rc/.config/i3/config | entr -p notify-send "🍕 Vim Configuration Has Been Updated."
+

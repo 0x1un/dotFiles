@@ -17,10 +17,10 @@ markup=pango
 # color=#F79494
 # Blocks
 
-[fun]
-command=~/.config/i3/i3scripts/fun.py
-interval=120
-color=#589df6
+# [fun]
+# command=~/.config/i3/i3scripts/fun.py
+# interval=120
+# color=#589df6
 
 
 # Display current song

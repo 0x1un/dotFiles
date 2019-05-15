@@ -19,8 +19,8 @@ nmap <F12> :execute '%!pandoc -f markdown --pdf-engine=xelatex --template=/home/
 " 快捷键映射快速运行
 "---------------------------------------------------------------------
 
-nmap <F4> :QuickRunExecute<cr>
-
+" nmap <F4> :QuickRunExecute<cr>
+nmap <F4> :SCCompileRun<cr>
 
 "---------------------------------------------------------------------
 " 快捷键映射SingleCompile

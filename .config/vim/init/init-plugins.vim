@@ -101,5 +101,8 @@ Plug	'terryma/vim-multiple-cursors'
 Plug	'liuchengxu/vista.vim'
 
 Plug	'joshdick/onedark.vim'
+
+"类似!的异步运行插件
+Plug	'skywind3000/asyncrun.vim'
 call plug#end()
 

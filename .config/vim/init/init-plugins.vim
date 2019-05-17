@@ -18,7 +18,7 @@ Plug	'luochen1990/rainbow'
 Plug	'morhetz/gruvbox'
 
 " vim主题
-Plug 	'altercation/vim-colors-solarized'
+Plug 	'altercation/vim-colors-solarized' 
 
 " 自动括号匹配
 Plug 	'jiangmiao/auto-pairs'
@@ -27,7 +27,7 @@ Plug 	'jiangmiao/auto-pairs'
 Plug 	'iamcco/markdown-preview.vim', {'for': ['markdown']}
 
 " 语句注释插件
-Plug 	'scrooloose/nerdcommenter'
+Plug 	'scrooloose/nerdcommenter', {'for': ['go', 'golang', 'c', 'cpp', 'py', 'python', 'rs', 'rust', 'md', 'markdown', 'yaml', 'toml', 'vim']}
 
 " 异步动态语法检查
 Plug 	'w0rp/ale', {'for': ['go', 'python', 'c', 'rust', 'golang']}
@@ -92,13 +92,14 @@ Plug	'dag/vim-fish', {'for': 'fish'}
 Plug	'voldikss/vim-translate-me'
 
 " 参数补全
-Plug	'tenfyzhong/CompleteParameter.vim'
+Plug	'tenfyzhong/CompleteParameter.vim', {'for': ['go', 'golang', 'c', 'cpp', 'py', 'python', 'rs', 'rust']}
 
 " 批量选择
 Plug	'terryma/vim-multiple-cursors'
 
+
 " 类似tagbar的插件
-Plug	'liuchengxu/vista.vim'
+Plug	'liuchengxu/vista.vim', {'for': ['go', 'golang', 'c', 'cpp', 'py', 'python', 'rs', 'rust']}
 
 Plug	'joshdick/onedark.vim'
 

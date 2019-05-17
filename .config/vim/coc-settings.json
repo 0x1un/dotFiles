@@ -1,13 +1,33 @@
 {
-    "suggest.triggerAfterInsertEnter": true,
+    "suggest.triggerAfterInsertEnter": false,
     "suggest.timeout": 500,
     "suggest.noselect": false,
     "suggest.detailField": "abbr",
-    "suggest.preferCompleteThanJumpPlaceholder": true,
-    "suggest.snippetIndicator": "",
-    "suggest.triggerCompletionWait": 50,
+    "suggest.snippetIndicator": "\ud83c\udf1f",
+    "suggest.triggerCompletionWait": 100,
+    "suggest.echodocSupport": true,
+    "coc.preferences.formatOnType": true,
+    "diagnostic.signOffset": 9999999,
     "diagnostic.errorSign": "",
     "diagnostic.warningSign": "",
+    "diagnostic.displayByAle": true,
+    "diagnostic.refreshOnInsertMode": true,
+    "tslint.autoFixOnSave": true,
+    "prettier.eslintIntegration": true,
+    "prettier.tslintIntegration": true,
+    "prettier.stylelintIntegration": true,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "python.autoComplete.addBrackets": true,
+    "eslint.filetypes": [
+        "javascript",
+        "javascript.jsx",
+        "javascriptreact"
+    ],
+    "eslint.autoFix": true,
+    "eslint.autoFixOnSave": true,
     "languageserver": {
         "lua": {
             "command": "lua-lsp",
@@ -16,16 +36,36 @@
             ]
         },
         "golang": {
-            "command": "gopls",
+            "command": "go-langserver",
+            "filetypes": [
+                "go"
+            ],
+            "initializationOptions": {
+                "gocodeCompletionEnabled": true,
+                "diagnosticsEnabled": true,
+                "lintTool": "golint"
+            }
+        },
+        "ccls": {
+            "command": "ccls",
+            "filetypes": [
+                "c",
+                "cpp",
+                "objc",
+                "objcpp"
+            ],
             "rootPatterns": [
-                "go.mod",
+                ".ccls",
+                "compile_commands.json",
                 ".vim/",
                 ".git/",
                 ".hg/"
             ],
-            "filetypes": [
-                "go"
-            ]
+            "initializationOptions": {
+                "cache": {
+                    "directory": "/tmp/ccls"
+                }
+            }
         }
     }
 }

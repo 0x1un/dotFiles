@@ -1,0 +1,115 @@
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+on_map = { n ='<Plug>'}
+depends = ['vim-devicons','vim-nerdtree-syntax-highlight']
+hook_source = 'source ~/.config/nvim/plugins/nerdtree.vim'
+
+[[plugins]]
+repo = 'tiagofumo/vim-nerdtree-syntax-highlight'
+hook_add = '''
+    let g:NERDTreeSyntaxDisableDefaultExtensions = 1
+    let g:NERDTreeDisableExactMatchHighlight = 1
+    let g:NERDTreeDisablePatternMatchHighlight = 1
+    let g:NERDTreeSyntaxEnabledExtensions = ['go', 'py', 'html', 'css', 'jsx', 'js', 'vim','json','md']
+'''
+
+[[plugins]]
+repo = 'iamcco/markdown-preview.vim'
+on_ft = ['markdown']
+hook_add = 'source ~/.config/nvim/plugins/md-prews.vim'
+
+[[plugins]]
+repo = 'tpope/vim-markdown'
+on_ft = 'markdown'
+hook_add = '''
+let g:markdown_fenced_languages = [
+      \ 'html',
+      \ 'bash=sh',
+      \ 'css',
+      \ 'javascript',
+      \ 'js=javascript',
+      \ 'go',
+      \]
+'''
+
+[[plugins]]
+repo = 'luochen1990/rainbow'
+on_ft = ['python','js','jsx','html','css','go','vim','toml']
+hook_source = 'let g:rainbow_active = 1'
+
+[[plugins]]
+repo = 'jiangmiao/auto-pairs'
+hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
+
+[[plugins]]
+repo = 'iamcco/markdown-preview.vim'
+
+[[plugins]]
+repo = 'scrooloose/nerdcommenter'
+hook_add = 'source ~/.config/nvim/plugins/nerdcommenter.vim'
+on_ft =['vim','json','go','html','js','jsx','py','css','less','tmpl','toml','xml','sql']
+
+[[plugins]]
+repo = 'w0rp/ale'
+hook_add = 'source ~/.config/nvim/plugins/vim-ale.vim'
+
+[[plugins]]
+repo = 'fatih/vim-go'
+on_ft = ['go']
+hook_source = 'source ~/.config/nvim/plugins/vim-go.vim'
+
+[[plugins]]
+repo = 'elzr/vim-json'
+on_ft = ['json']
+hook_add = 'let g:vim_json_syntax_conceal = 0'
+
+[[plugins]]
+repo = 'cespare/vim-toml'
+on_ft= ['toml']
+
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'
+
+[[plugins]]
+repo = 'mhinz/vim-startify'
+on_cmd = 'Startify'
+depends = 'vim-devicons'
+hook_add ='source ~/.config/nvim/plugins/startify.vim'
+hook_post_source = '''
+function! StartifyEntryFormat()
+    return 'WebDevIconsGetFileTypeSymbol(absolute_path) ." ". entry_path'
+endfunction
+'''
+[[plugins]]
+repo = 'majutsushi/tagbar'
+on_cmd = ['TagbarToggle']
+
+[[plugins]]
+repo = 'xuhdev/SingleCompile'
+on_ft = ['rust', 'java', 'c', 'cpp', 'python', 'lua', 'elixir', 'erlang', 'go']
+
+[[plugins]]
+repo = 'PotatoesMaster/i3-vim-syntax'
+on_ft = 'i3'
+
+[[plugins]]
+repo = 'Yggdroot/LeaderF'
+on_cmd = ['./install.sh']
+
+[[plugins]]
+repo = 'voldikss/vim-translate-me'
+hook_add = 'source ~/.config/nvim/plugins/translate.vim'
+
+
+[[plugins]]
+repo = 'tenfyzhong/CompleteParameter.vim'
+on_ft = ['go', 'c', 'cpp', 'py', 'rs']
+hook_add = 'source ~/.config/nvim/plugins/completeParameter.vim'
+
+[[plugins]]
+repo = 'liuchengxu/vista.vim'
+
+[[plugins]]
+repo = 'Yggdroot/indentLine'
+on_ft = ['python','html','css','vim','javascript','javascript.jsx','vue', 'c', 'go', 'rust']
+hook_add = 'source ~/.config/nvim/plugins/indentline.vim'

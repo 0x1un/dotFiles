@@ -1,0 +1,24 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'taigacute/spaceline.vim'
+
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+depends = 'vim-devicons'
+hook_add='source ~/.config/nvim/plugins/lightline.vim'
+
+[[plugins]]
+repo = 'neoclide/coc.nvim'
+merge = 0
+build = 'yarn install --frozen-lockfile'
+hook_add = 'source ~/.config/nvim/plugins/coc-config.vim'
+hook_source = '''
+'''
+
+[[plugins]]
+repo = 'mengelbrecht/lightline-bufferline'
+
+[[plugins]]
+repo = 'joshdick/onedark.vim'

@@ -22,3 +22,9 @@ repo = 'mengelbrecht/lightline-bufferline'
 
 [[plugins]]
 repo = 'joshdick/onedark.vim'
+
+[[plugins]]
+repo = 'wsdjeg/dein-ui.vim'
+
+[[plugins]]
+repo = 'yuttie/comfortable-motion.vim'

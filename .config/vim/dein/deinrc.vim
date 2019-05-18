@@ -5,6 +5,7 @@ let g:dein#enable_notification = 1
 let g:dein#install_progress_type = 'title'
 let g:dein#install_log_filename = '~/.tmp/dein.log'
 
+
 " Constants
 let s:is_sudo = $SUDO_USER !=# '' && $USER !=# $SUDO_USER
 

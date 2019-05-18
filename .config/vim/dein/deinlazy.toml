@@ -14,25 +14,6 @@ hook_add = '''
 '''
 
 [[plugins]]
-repo = 'iamcco/markdown-preview.vim'
-on_ft = ['markdown']
-hook_add = 'source ~/.config/nvim/plugins/md-prews.vim'
-
-[[plugins]]
-repo = 'tpope/vim-markdown'
-on_ft = 'markdown'
-hook_add = '''
-let g:markdown_fenced_languages = [
-      \ 'html',
-      \ 'bash=sh',
-      \ 'css',
-      \ 'javascript',
-      \ 'js=javascript',
-      \ 'go',
-      \]
-'''
-
-[[plugins]]
 repo = 'luochen1990/rainbow'
 on_ft = ['python','js','jsx','html','css','go','vim','toml']
 hook_source = 'let g:rainbow_active = 1'
@@ -41,8 +22,8 @@ hook_source = 'let g:rainbow_active = 1'
 repo = 'jiangmiao/auto-pairs'
 hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
 
-[[plugins]]
-repo = 'iamcco/markdown-preview.vim'
+# [[plugins]]
+# repo = 'iamcco/markdown-preview.vim'
 
 [[plugins]]
 repo = 'scrooloose/nerdcommenter'
@@ -83,6 +64,7 @@ endfunction
 [[plugins]]
 repo = 'majutsushi/tagbar'
 on_cmd = ['TagbarToggle']
+on_ft = ['rust','java', 'go', 'c', 'python']
 
 [[plugins]]
 repo = 'xuhdev/SingleCompile'
@@ -99,7 +81,7 @@ on_cmd = ['./install.sh']
 [[plugins]]
 repo = 'voldikss/vim-translate-me'
 hook_add = 'source ~/.config/nvim/plugins/translate.vim'
-
+on_ft = ['python', 'vim', 'toml', 'markdown', 'c', 'cc', 'cpp', 'rust']
 
 [[plugins]]
 repo = 'tenfyzhong/CompleteParameter.vim'
@@ -111,5 +93,23 @@ repo = 'liuchengxu/vista.vim'
 
 [[plugins]]
 repo = 'Yggdroot/indentLine'
-on_ft = ['python','html','css','vim','javascript','javascript.jsx','vue', 'c', 'go', 'rust']
-hook_add = 'source ~/.config/nvim/plugins/indentline.vim'
+on_ft = ['python', 'c', 'go', 'rust','html','css','vim','javascript','javascript.jsx']
+hook_add = 'source ~/.config/nvim/plugins/indentLine.vim'
+
+[[plugins]]
+repo = 'iamcco/markdown-preview.nvim'
+on_ft = ['markdown', 'pandoc.markdown', 'rmd']
+build = 'cd app & yarn install'
+
+[[plugins]]
+repo = 'Shougo/defx.nvim'
+on_cmd = 'Defx'
+hook_source = 'source ~/.config/nvim/plugins/defx.vim'
+
+[[plugins]]
+repo = 'kristijanhusak/defx-icons'
+on_source = 'defx.nvim'
+
+[[plugins]]
+repo = 'dag/vim-fish'
+on_ft = ['fish']

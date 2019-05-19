@@ -16,7 +16,7 @@
 *.color14: #8ec07c
 *.color15: #ebdbb2
 !! Transparency (0-255):
-*.alpha: 210
+*.alpha: 0.63
 !! Set a default font and font size as below:
 ! *.font: Monaco-14;
 

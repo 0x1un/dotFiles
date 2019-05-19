@@ -56,6 +56,7 @@ call s:source_rc('init/init-tabsize.vim')
 call s:source_rc('init/init-basic.vim')
 call s:source_rc('init/init-style.vim')
 call s:source_rc('init/keymaps.vim')
+call s:source_rc('init/auto-run.vim')
 
 
 let g:loaded_2html_plugin      = 1

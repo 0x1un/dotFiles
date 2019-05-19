@@ -201,21 +201,27 @@ bar {
 	strip_workspace_numbers no
 	position top
 	status_command i3blocks
-	# the -t flag is transparent mode 
-    	i3bar_command i3bar -t
-    	# i3bar_command i3bar
+	# the -t flag is transparent mode
+	i3bar_command i3bar -t
 	# font pango: SauceCodePro Nerd Font Black 10
-    	font pango: Monaco 14, Icons 14
+	mode hide
+	# hidden_state hide
+	modifier Mod4
+	font pango: Monaco 10, Icons 12
 	colors
 	{
-             	# Border	   # Background	        # Text
+				 # Border	   # Background	        # Text
 		focused_workspace   $silver0  $silver0  $elegant
 		active_workspace    $elegant  $elegant  $orange
 		inactive_workspace  $elegant  $elegant 	$cyan0
 		urgent_workspace    $acqua    $acqua    $silver0
 		background          $elegant
-    	}
+		}
 }
+
+
+
+
 # bindingkeys with rofi luncher
 bindsym $mod+d exec --no-startup-id rofi -show drun
 bindsym $mod+Tab exec --no-startup-id rofi -show window

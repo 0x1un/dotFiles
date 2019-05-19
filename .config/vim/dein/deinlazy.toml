@@ -28,7 +28,7 @@ hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
 [[plugins]]
 repo = 'scrooloose/nerdcommenter'
 hook_add = 'source ~/.config/nvim/plugins/nerdcommenter.vim'
-on_ft =['vim','json','go','html','js','jsx','py','css','less','tmpl','toml','xml','sql']
+on_ft =['vim','json','go','html','js','jsx','py','css','less','tmpl','toml','xml','sql', 'i3']
 
 [[plugins]]
 repo = 'w0rp/ale'
@@ -113,3 +113,7 @@ on_source = 'defx.nvim'
 [[plugins]]
 repo = 'dag/vim-fish'
 on_ft = ['fish']
+
+[[plugins]]
+repo = 'kovetskiy/sxhkd-vim'
+on_ft = ['sxhkd']

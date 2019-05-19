@@ -195,8 +195,10 @@ client.focused_inactive     $acqua           $acqua     $silver     $acqua
 client.urgent               $magenta         $magenta   $silver     $magenta
 client.placeholder          $magenta         $magenta   $silver     $magenta
 
-bar
-{
+bar {
+	tray_output none
+	workspace_buttons yes
+	strip_workspace_numbers no
 	position top
 	status_command i3blocks
 	# the -t flag is transparent mode 

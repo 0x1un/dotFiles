@@ -8,8 +8,8 @@
     "suggest.echodocSupport": true,
     "coc.preferences.formatOnType": true,
     "diagnostic.signOffset": 9999999,
-    "diagnostic.errorSign": "●",
-    "diagnostic.warningSign": "●",
+    "diagnostic.errorSign": "\u25cf",
+    "diagnostic.warningSign": "\u25cf",
     "diagnostic.displayByAle": true,
     "diagnostic.refreshOnInsertMode": true,
     "tslint.autoFixOnSave": true,
@@ -33,6 +33,20 @@
             "command": "lua-lsp",
             "filetypes": [
                 "lua"
+            ]
+        },
+        "vimls": {
+            "command": "vim-language-server",
+            "args": [
+                "--stdio"
+            ],
+            "initializationOptions": {
+                "iskeyword": "vim iskeyword option",
+                "vimruntime": "path/to/$VIMRUNTIME",
+                "runtimepath": "vim/runtime/path"
+            },
+            "filetypes": [
+                "vim"
             ]
         },
         "golang": {

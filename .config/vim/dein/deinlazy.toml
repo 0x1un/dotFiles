@@ -28,7 +28,7 @@ hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
 [[plugins]]
 repo = 'scrooloose/nerdcommenter'
 hook_add = 'source ~/.config/nvim/plugins/nerdcommenter.vim'
-on_ft =['vim','json','go','html','js','jsx','py','css','less','tmpl','toml','xml','sql', 'i3']
+on_ft =['vim','json','go','html','js','jsx','py','css','less','tmpl','toml','xml','sql', 'i3', 'yaml']
 
 [[plugins]]
 repo = 'w0rp/ale'

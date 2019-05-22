@@ -20,11 +20,10 @@ hook_source = '''
 [[plugins]]
 repo = 'mengelbrecht/lightline-bufferline'
 
-[[plugins]]
-repo = 'joshdick/onedark.vim'
 
-[[plugins]]
-repo = 'wsdjeg/dein-ui.vim'
+# [[plugins]]
+# repo = 'wsdjeg/dein-ui.vim'
 
-[[plugins]]
-repo = 'yuttie/comfortable-motion.vim'
+# [[plugins]]
+# repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
+

@@ -63,7 +63,7 @@ endfunction
 '''
 [[plugins]]
 repo = 'majutsushi/tagbar'
-on_cmd = ['TagbarToggle']
+# on_cmd = ['TagbarToggle']
 on_ft = ['rust','java', 'go', 'c', 'python']
 
 [[plugins]]
@@ -117,3 +117,24 @@ on_ft = ['fish']
 [[plugins]]
 repo = 'kovetskiy/sxhkd-vim'
 on_ft = ['sxhkd']
+
+[[plugins]]
+repo = 'yuttie/comfortable-motion.vim'
+on_func ='comfortable_motion#flick'
+hook_add = '''
+let g:comfortable_motion_no_default_key_mappings = 1
+let g:comfortable_motion_impulse_multiplier = 1
+'''
+
+[[plugins]]
+repo = 'joshdick/onedark.vim'
+hook_add = '''
+if (has("autocmd") && !has("gui_running"))
+  augroup colorset
+    autocmd!
+    let s:white = { "gui": "#ABB2BF", "cterm": "145", "cterm16" : "7" }
+    autocmd ColorScheme * call onedark#set_highlight("Normal", { "fg": s:white }) " `bg` will not be styled since there is no `bg` setting
+  augroup END
+endif
+'''
+

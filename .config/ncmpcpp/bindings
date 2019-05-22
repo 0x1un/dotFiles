@@ -1,0 +1,14 @@
+def_key "j"
+    scroll_down
+
+def_key "k"
+    scroll_up
+
+def_key "r"
+    toggle_repeat
+
+def_key "z"
+    toggle_random
+
+def_key "y"
+    toggle_single

@@ -6,6 +6,7 @@
 # A battery indicator blocklet script for i3blocks
 
 import re
+import os
 from subprocess import check_output
 
 status = check_output(['acpi'], universal_newlines=True)
@@ -77,6 +78,8 @@ else:
             return "#FF3300"
         if percent < 30:
             return "#FF6600"
+        if percent < 34:
+            return "#FF6600"
         if percent < 40:
             return "#FF9900"
         if percent < 50:
@@ -88,12 +91,21 @@ else:
         if percent < 80:
             return "#FFFF66"
         return "#FFFFFF"
+    if percentleft < 35 and state not in ['Discharging', 'Unknow', 'Full']:
+        check_output(['notify-send', '🔥 Battery is low!! Please charging.'], universal_newlines=True)
+
+
 
     form = '<span color="{}">{}%</span>'
     fulltext += form.format(color(percentleft), percentleft)
     fulltext += timeleft
 
+
+
 print(fulltext)
 print(fulltext)
+
+# status = check_output(['acpi'], universal_newlines=True)
+
 if percentleft < 10:
     exit(33)

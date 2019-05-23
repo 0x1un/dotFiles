@@ -1,8 +1,8 @@
 [[plugins]]
 repo = 'Shougo/dein.vim'
 
-[[plugins]]
-repo = 'taigacute/spaceline.vim'
+# [[plugins]]
+# repo = 'taigacute/spaceline.vim'
 
 [[plugins]]
 repo = 'itchyny/lightline.vim'
@@ -17,13 +17,14 @@ hook_add = 'source ~/.config/nvim/plugins/coc-config.vim'
 hook_source = '''
 '''
 
+
 [[plugins]]
-repo = 'mengelbrecht/lightline-bufferline'
+repo = 'wsdjeg/dein-ui.vim'
+
+[[plugins]]
+repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
 
 
-# [[plugins]]
-# repo = 'wsdjeg/dein-ui.vim'
-
-# [[plugins]]
-# repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
+[[plugins]]
+repo = 'joshdick/onedark.vim'
 

@@ -22,9 +22,6 @@ hook_source = 'let g:rainbow_active = 1'
 repo = 'jiangmiao/auto-pairs'
 hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
 
-# [[plugins]]
-# repo = 'iamcco/markdown-preview.vim'
-
 [[plugins]]
 repo = 'scrooloose/nerdcommenter'
 hook_add = 'source ~/.config/nvim/plugins/nerdcommenter.vim'
@@ -127,14 +124,7 @@ let g:comfortable_motion_impulse_multiplier = 1
 '''
 
 [[plugins]]
-repo = 'joshdick/onedark.vim'
-hook_add = '''
-if (has("autocmd") && !has("gui_running"))
-  augroup colorset
-    autocmd!
-    let s:white = { "gui": "#ABB2BF", "cterm": "145", "cterm16" : "7" }
-    autocmd ColorScheme * call onedark#set_highlight("Normal", { "fg": s:white }) " `bg` will not be styled since there is no `bg` setting
-  augroup END
-endif
-'''
+repo = 'mengelbrecht/lightline-bufferline'
+hook_add='source ~/.config/nvim/plugins/lightline.vim'
+
 

@@ -40,7 +40,7 @@ set background=dark
 set t_Co=256
 
 " 设置颜色主题，会在所有 runtimepaths 的 colors 目录寻找同名配置
-color onedark
+colorscheme onedark
 let t:is_transparent = 0
 hi Normal guibg=NONE ctermbg=NONE
 hi Visual term=reverse cterm=reverse guibg=Grey

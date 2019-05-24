@@ -91,7 +91,8 @@ else:
         if percent < 80:
             return "#FFFF66"
         return "#FFFFFF"
-    if percentleft < 35 and state not in ['Discharging', 'Unknow', 'Full']:
+    if percentleft < 35 and state in ['Discharging', 'Unknow', 'Full']:
+        check_output(['play', '--no-show-progress', '--null', '--channels', '1', 'synth', '0.1', 'sine', '240'], universal_newlines=True)
         check_output(['notify-send', '🔥 Battery is low!! Please charging.'], universal_newlines=True)
 
 

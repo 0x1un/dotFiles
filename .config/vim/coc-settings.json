@@ -20,7 +20,7 @@
         "vue-html": "html",
         "javascript": "javascriptreact"
     },
-    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.addBrackets": false,
     "eslint.filetypes": [
         "javascript",
         "javascript.jsx",

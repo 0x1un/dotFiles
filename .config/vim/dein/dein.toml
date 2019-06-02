@@ -28,3 +28,5 @@ repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
 [[plugins]]
 repo = 'joshdick/onedark.vim'
 
+
+

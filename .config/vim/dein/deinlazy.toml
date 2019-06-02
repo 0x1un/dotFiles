@@ -18,6 +18,7 @@ repo = 'luochen1990/rainbow'
 on_ft = ['python','js','jsx','html','css','go','vim','toml']
 hook_source = 'let g:rainbow_active = 1'
 
+
 [[plugins]]
 repo = 'jiangmiao/auto-pairs'
 hook_ad = 'source ~/.config/nvim/plugins/auto-pairs.vim'
@@ -81,10 +82,6 @@ repo = 'voldikss/vim-translate-me'
 hook_add = 'source ~/.config/nvim/plugins/translate.vim'
 on_ft = ['python', 'vim', 'toml', 'markdown', 'c', 'cc', 'cpp', 'rust']
 
-[[plugins]]
-repo = 'tenfyzhong/CompleteParameter.vim'
-on_ft = ['golang', 'c', 'cpp', 'python', 'rust']
-hook_add = 'source ~/.config/nvim/plugins/completeParameter.vim'
 
 [[plugins]]
 repo = 'liuchengxu/vista.vim'
@@ -128,4 +125,8 @@ let g:comfortable_motion_impulse_multiplier = 1
 repo = 'mengelbrecht/lightline-bufferline'
 hook_add='source ~/.config/nvim/plugins/lightline.vim'
 
+[[plugins]]
+repo = 'tenfyzhong/CompleteParameter.vim'
+hook_add = 'source ~/.config/nvim/plugins/completeParameter.vim'
+on_ft = ['markdown', 'python', 'c', 'cpp', 'cc', 'rust']
 

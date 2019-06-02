@@ -95,7 +95,7 @@ color=#21b089
 
 [battery2]
 command=~/.config/i3/i3scripts/battery2
-interval=10
+interval=5
 color=#E88939
 # label=⚡
 #BAT_NUMBER=0

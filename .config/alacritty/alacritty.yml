@@ -6,7 +6,7 @@
 # env:
 env:
   TERM: xterm-256color
-  WINIT_HIDPI_FACTOR: 1
+  # WINIT_HIDPI_FACTOR: 1
 
 window:
   dimensions:
@@ -21,7 +21,7 @@ window:
 
   decorations: full
 
-  start_maximized: false
+  # start_maximized: false
 
 scrolling:
   history: 2500
@@ -44,7 +44,7 @@ font:
     family: Monaco
     style: Italic
 
-  size: 14.0
+  size: 10.0
 
   # Offset is the extra space around each character. offset.y can be thought of
   # as modifying the linespacing, and offset.x as modifying the letter spacing.
@@ -70,7 +70,8 @@ font:
   # false.
   use_thin_strokes: true
 
-render_timer: false
+debug:
+    render_timer: false
 
 # Colors (Turing)
 # colors:

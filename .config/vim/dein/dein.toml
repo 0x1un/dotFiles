@@ -17,16 +17,19 @@ hook_add = 'source ~/.config/nvim/plugins/coc-config.vim'
 hook_source = '''
 '''
 
-
 [[plugins]]
 repo = 'wsdjeg/dein-ui.vim'
 
-[[plugins]]
-repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
-
+# [[plugins]]
+# repo = 'yuttie/comfortable-motion.vim' # 平滑滚动
 
 [[plugins]]
 repo = 'joshdick/onedark.vim'
 
-
-
+# [[plugins]]
+# repo = 'morhetz/gruvbox'
+#
+# [[plugins]]
+# repo = 'sainnhe/vim-color-forest-night'
+[[plugins]]
+repo = 'taigacute/gruvbox9'

@@ -200,7 +200,7 @@ bar {
 	position top
 	status_command i3blocks
 	# the -t flag is transparent mode
-	i3bar_command i3bar -t
+	i3bar_command i3bar 
 	# font pango: SauceCodePro Nerd Font Black 10
 	mode hide
 	# hidden_state hide
@@ -291,7 +291,7 @@ exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/astrology-astronomy-constellation-2098427.jpg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/nature-3082832.jpg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
 bindsym $mod+x exec --no-startup-id killall -9 conky

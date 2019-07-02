@@ -2,7 +2,7 @@
 repo = 'scrooloose/nerdtree'
 on_map = { n ='<Plug>'}
 depends = ['vim-devicons','vim-nerdtree-syntax-highlight']
-hook_source = 'source ~/.config/nvim/plugins/nerdtree.vim'
+hook_source = 'source ~/.config/nvim/plugins/nerdTree.vim'
 
 [[plugins]]
 repo = 'tiagofumo/vim-nerdtree-syntax-highlight'
@@ -15,7 +15,7 @@ hook_add = '''
 
 [[plugins]]
 repo = 'luochen1990/rainbow'
-on_ft = ['python','js','jsx','html','css','go','vim','toml']
+on_ft = ['python','js','jsx','html','css','go','vim','toml', 'c', 'cpp']
 hook_source = 'let g:rainbow_active = 1'
 
 
@@ -60,6 +60,7 @@ function! StartifyEntryFormat()
     return 'WebDevIconsGetFileTypeSymbol(absolute_path) ." ". entry_path'
 endfunction
 '''
+
 [[plugins]]
 repo = 'majutsushi/tagbar'
 # on_cmd = ['TagbarToggle']
@@ -95,15 +96,16 @@ hook_add = 'source ~/.config/nvim/plugins/indentLine.vim'
 repo = 'iamcco/markdown-preview.nvim'
 on_ft = ['markdown', 'pandoc.markdown', 'rmd']
 build = 'cd app & yarn install'
+hook_post_source = 'autocmd TextChanged,TextChangedI <buffer> silent write'
 
-[[plugins]]
-repo = 'Shougo/defx.nvim'
-on_cmd = 'Defx'
-hook_source = 'source ~/.config/nvim/plugins/defx.vim'
-
-[[plugins]]
-repo = 'kristijanhusak/defx-icons'
-on_source = 'defx.nvim'
+# [[plugins]]
+# repo = 'Shougo/defx.nvim'
+# on_cmd = 'Defx'
+# hook_source = 'source ~/.config/nvim/plugins/defx.vim'
+#
+# [[plugins]]
+# repo = 'kristijanhusak/defx-icons'
+# on_source = 'defx.nvim'
 
 [[plugins]]
 repo = 'dag/vim-fish'
@@ -128,5 +130,6 @@ hook_add='source ~/.config/nvim/plugins/lightline.vim'
 [[plugins]]
 repo = 'tenfyzhong/CompleteParameter.vim'
 hook_add = 'source ~/.config/nvim/plugins/completeParameter.vim'
-on_ft = ['markdown', 'python', 'c', 'cpp', 'cc', 'rust']
+on_ft = ['markdown', 'python', 'c', 'cpp', 'cc', 'rust', 'go']
+
 

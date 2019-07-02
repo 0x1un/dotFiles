@@ -3,3 +3,4 @@
 
 autocmd BufWritePost *xbindkeysrc !killall xbindkeys; xbindkeys --poll-rc
 autocmd BufWritePost *sxhkdrc !killall sxhkd; setsid sxhkd &
+

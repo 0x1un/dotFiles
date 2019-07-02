@@ -6,7 +6,6 @@ else
 endif
 
 
-
 let $CONFIG = expand('~/.dotfiles/data/vimdata/bundle')
 if !isdirectory(expand($CONFIG))
 	call mkdir(expand($CONFIG), 'p')
@@ -54,7 +53,6 @@ endfunction
 
 call s:source_rc('dein/deinrc.vim')
 
-
 let g:loaded_2html_plugin      = 1
 let g:loaded_logiPat           = 1
 let g:loaded_getscriptPlugin   = 1
@@ -72,9 +70,6 @@ let g:loaded_tarPlugin         = 1
 let g:loaded_tutor_mode_plugin = 1
 let g:loaded_vimballPlugin     = 1
 let g:loaded_zipPlugin         = 1
-
-
-
 
 
 "----------------------------------------------------------------------

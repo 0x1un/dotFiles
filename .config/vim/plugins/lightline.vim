@@ -1,5 +1,5 @@
 let g:lightline = {
-      \ 'colorscheme': 'gruvbox9',
+      \ 'colorscheme': 'forest_night',
       \ 'active': {
       \   'left': [ ['homemode'],
       \             ['gitinfo'],['filename_active'],['cocstatus']],
@@ -44,7 +44,7 @@ function! s:lightline_is_lean() abort
 endfunction
 
 function! s:lightline_is_plain() abort
-  return &buftype ==? 'terminal' || &filetype =~? '\v^help|denite|defx|vista_kind|tagbar$'
+  return &buftype ==? 'terminal' || &filetype =~? '\v^help|denite|defx|vista_kind|vista|tagbar$'
 endfunction
 
 
@@ -54,9 +54,10 @@ function! LightlineLineinfo() abort
   \      &filetype ==? 'denite'           ? ' ' :
   \      &filetype ==? 'tagbar'           ? ' ' :
   \      &filetype ==? 'vista_kind'       ? ' ' :
+  \      &filetype ==? 'vista'            ? ' ' :
   \      &filetype =~? '\v^mundo(diff)?$' ? ' ' :
   \      s:lightline_is_lean() || s:lightline_is_plain() ? ' '  :
-  \      printf('%d:%d ☰ %d%%', line('.'), col('.'), 100*line('.')/line('$'))
+  \      printf('☰ %d:%d %d%%', line('.'), col('.'), 100*line('.')/line('$'))
 endfunction
 
 function! LightlineMode() abort
@@ -102,6 +103,9 @@ function! LightlineFilenameActive() abort
     return get(g:lightline, 'fname', '')
   endif
   if &filetype ==? 'vista_kind'
+    return get(g:lightline, 'VISTA', '')
+  endif
+  if &filetype ==? 'vista'
     return get(g:lightline, 'VISTA', '')
   endif
   if empty(expand('%:t'))
@@ -160,6 +164,12 @@ function! CocStatusBar() abort
     "return join(statusbar," ")
     let s = join(statusbar," ")
     if empty(s)
+        return ""
+    endif
+    if &filetype ==? 'defx'
+        return ""
+    endif
+    if &filetype ==? 'vista'
         return ""
     endif
      return join(['❖',s])
@@ -273,3 +283,5 @@ nmap <Leader>7 <Plug>lightline#bufferline#go(7)
 nmap <Leader>8 <Plug>lightline#bufferline#go(8)
 nmap <Leader>9 <Plug>lightline#bufferline#go(9)
 nmap <Leader>0 <Plug>lightline#bufferline#go(10)
+
+let g:spaceline_seperate_style= 'none'

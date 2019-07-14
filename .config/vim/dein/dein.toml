@@ -1,8 +1,8 @@
 [[plugins]]
 repo = 'Shougo/dein.vim'
 
-# [[plugins]]
-# repo = 'taigacute/spaceline.vim'
+[[plugins]]
+repo = 'taigacute/spaceline.vim'
 
 [[plugins]]
 repo = 'itchyny/lightline.vim'
@@ -31,5 +31,11 @@ repo = 'joshdick/onedark.vim'
 #
 # [[plugins]]
 # repo = 'sainnhe/vim-color-forest-night'
+
 [[plugins]]
 repo = 'taigacute/gruvbox9'
+
+[[plugins]]
+repo = 'mengelbrecht/lightline-bufferline'
+hook_add='source ~/.config/nvim/plugins/lightline.vim'
+on_ft = ['python', 'json', 'toml', 'yaml', 'c', 'cpp', 'golang', 'rust', 'shell']

@@ -1,5 +1,5 @@
 let g:lightline = {
-      \ 'colorscheme': 'forest_night',
+      \ 'colorscheme': 'gruvbox9',
       \ 'active': {
       \   'left': [ ['homemode'],
       \             ['gitinfo'],['filename_active'],['cocstatus']],

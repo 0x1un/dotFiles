@@ -65,7 +65,7 @@ color=#E88939
 
 # CPU usage
 [cpu_usage]
-command=printf "" && ~/.config/i3/i3scripts/cpu_usage
+command=~/.config/i3/i3scripts/cpu_usage
 interval=2
 color=#589df6
 
@@ -116,7 +116,11 @@ color=#21b089
 
 # Date
 [date]
-command=printf "\\uf073 " && date '+%F %A  ' 
-interval=60
+command=printf "\\uf073 " && date '+%F %A' 
+interval=3600
 color=#f9555f
 
+[weather]
+command=curl -Ss 'https://wttr.in?0&T&Q' | cut -c 16- | head -2 | xargs echo
+interval=3600
+color=#A4C2F4

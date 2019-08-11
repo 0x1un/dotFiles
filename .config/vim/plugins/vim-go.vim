@@ -11,6 +11,8 @@ let g:go_highlight_extra_types = 1
 let g:go_highlight_build_constraints = 1
 let g:go_highlight_generate_tags = 1
 let g:go_textobj_include_function_doc = 1
+let g:go_def_mode='gopls'
+let g:go_info_mode='gopls'
 
 au FileType go nmap <Leader>s <Plug>(go-implements)
 au FileType go nmap <Leader>i <Plug>(go-info)

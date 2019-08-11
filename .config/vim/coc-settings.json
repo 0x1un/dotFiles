@@ -16,6 +16,33 @@
     "prettier.eslintIntegration": true,
     "prettier.tslintIntegration": true,
     "prettier.stylelintIntegration": true,
+    "suggest.completionItemKindLabels": {
+        "keyword": "\uf1de",
+        "variable": "\ue79b",
+        "value": "\uf89f",
+        "operator": "\u03a8",
+        "function": "\u2a15",
+        "reference": "\ufa46",
+        "constant": "\uf8fe",
+        "method": "\uf09a",
+        "struct": "\ufb44",
+        "class": "\uf0e8",
+        "interface": "\uf417",
+        "text": "\u2663",
+        "enum": "\uf435",
+        "enumMember": "\uf02b",
+        "module": "\uf530",
+        "color": "\ue22b",
+        "property": "\ue624",
+        "field": "\uf6a6",
+        "unit": "\uf475",
+        "event": "\ufacd",
+        "file": "\uf723",
+        "folder": "\uf114",
+        "snippet": "\ue60b",
+        "typeParameter": "\uf728",
+        "default": "\uf29c"
+    },
     "emmet.includeLanguages": {
         "vue-html": "html",
         "javascript": "javascriptreact"
@@ -28,6 +55,21 @@
     ],
     "eslint.autoFix": true,
     "eslint.autoFixOnSave": true,
+    "git.enableGutters": true,
+    "git.branchCharacter": "\uf408",
+    "git.addGlameToBufferVar": true,
+    "git.addGlameToVirtualText": true,
+    "git.virtualTextPrefix": " \u276f\u276f\u276f ",
+    "git.addedSign.hlGroup": "GitGutterAdd",
+    "git.changedSign.hlGroup": "GitGutterChange",
+    "git.removedSign.hlGroup": "GitGutterDelete",
+    "git.topRemovedSign.hlGroup": "GitGutterDelete",
+    "git.changeRemovedSign.hlGroup": "GitGutterChangeDelete",
+    "git.addedSign.text": "\u258e",
+    "git.changedSign.text": "\u258e",
+    "git.removedSign.text": "\u258f",
+    "git.topRemovedSign.text": "\u2594",
+    "git.changeRemovedSign.text": "\u258b",
     "languageserver": {
         "lua": {
             "command": "lua-lsp",
@@ -36,15 +78,16 @@
             ]
         },
         "golang": {
-            "command": "go-langserver",
+            "command": "gopls",
+            "rootPatterns": [
+                "go.mod",
+                ".vim/",
+                ".git/",
+                ".hg/"
+            ],
             "filetypes": [
                 "go"
-            ],
-            "initializationOptions": {
-                "gocodeCompletionEnabled": true,
-                "diagnosticsEnabled": true,
-                "lintTool": "golint"
-            }
+            ]
         },
         "ccls": {
             "command": "ccls",

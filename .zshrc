@@ -83,3 +83,4 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 # }
 
 
+export GOPROXY=https://athens.azurefd.net/

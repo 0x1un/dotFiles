@@ -34,17 +34,9 @@
         "**/node_modules": true,
         "**/yarn.lock": true
     },
-    "files.useExperimentalFileWatcher": true,
     "git.autofetch": true,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
-    "gitlens.advanced.telemetry.enabled": false,
-    "gitlens.codeLens.authors.enabled": false,
-    "gitlens.codeLens.enabled": false,
-    "gitlens.codeLens.recentChange.enabled": false,
-    "gitlens.currentLine.enabled": false,
-    "jest.enableInlineErrorMessages": false,
-    "jest.restartJestOnSnapshotUpdate": true,
     "markdown.preview.fontSize": 16,
     "php.suggest.basic": false,
     "search.exclude": {
@@ -56,8 +48,6 @@
     "telemetry.enableTelemetry": false,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.fontSize": 12,
-    "tslint.alwaysShowStatus": true,
-    "tslint.autoFixOnSave": true,
     "typescript.updateImportsOnFileMove.enabled": "always",
     "vim.foldfix": true,
     "vim.leader": ",",
@@ -108,26 +98,11 @@
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
     "workbench.colorTheme": "Solarized Dark",
-    "materialTheme.accent": "Cyan",
-    "workbench.iconTheme": "material-icon-theme",
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "editor.gotoLocation.multiple": "goto",
     "references.preferredLocation": "view",
     "emmet.showExpandedAbbreviation": "never",
-    "[go]": {
-        "editor.snippetSuggestions": "none",
-        "editor.formatOnSave": true,
-        "editor.codeActionsOnSave": {
-            "source.organizeImports": true
-        }
-    },
-    "gopls": {
-        "usePlaceholders": true,
-        "wantCompletionDocumentation": true
-    },
-    "files.eol": "\n",
+    "window.titleBarStyle": "custom",
+    "go.formatTool": "goimports",
+    "go.lintTool": "golangci-lint",
     "go.useLanguageServer": true,
-    "window.titleBarStyle": "custom"
 }

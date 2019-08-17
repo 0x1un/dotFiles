@@ -194,7 +194,7 @@ client.urgent               $magenta         $magenta   $silver     $magenta
 client.placeholder          $magenta         $magenta   $silver     $magenta
 
 bar {
-	tray_output none
+	# tray_output none
 	workspace_buttons yes
 	strip_workspace_numbers no
 	position top
@@ -263,10 +263,10 @@ for_window [class="mpv"] floating disabled
 # background yes
 
 # 启动i3时执行,重启i3时不执行
-exec --no-startup-id fcitx
+exec --no-startup-id fcitx5
 bindsym $mod+Shift+w exec --no-startup-id chromium
 # 无论何时都执行
-exec_always --no-startup-id fcitx
+exec_always --no-startup-id fcitx5
 
 #===power manager===
 set $mode_system select: lock(L) exit(E) reboot(R) poweroff(O) cancel(Esc)

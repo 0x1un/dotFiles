@@ -2,7 +2,7 @@
 CONFIG_SRC=$(wildcard .config/*)
 TO=${HOME}
 DOTCONFIG=$(TO)/.config
-SOME_DOT_FILES:=.zshrc .profile .pylintrc # 需要安装的dot配置文件
+SOME_DOT_FILES:=.zshrc .profile .pylintrc .xinitrc # 需要安装的dot配置文件
 VSCODE_CONFIG=$(TO)/.config/Code/User
 VSCODE_CONFIG_DEST=$(VSCODE_CONFIG)/settings.json
 

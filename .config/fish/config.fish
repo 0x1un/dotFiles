@@ -19,7 +19,7 @@ set -x -g PATH ~/bin ~/.local/bin $PATH /usr/local/sbin
 # Composer
 set -x -g PATH ~/.composer/vendor/bin $PATH
 
-source ~/.config/fish/functions/fzf.fish
+# source ~/.config/fish/functions/fzf.fish
 source ~/.config/fish/aliases.fish
 source ~/.config/fish/envs.fish
 # source ~/.config/fish/envs.fish

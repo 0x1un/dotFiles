@@ -85,3 +85,5 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 export GOPROXY=https://goproxy.io
 export GO111MODULE=on
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

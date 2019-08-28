@@ -37,7 +37,7 @@
     "diagnostic.signOffset": 9999999,
 	"diagnostic.errorSign": "●",
 	"diagnostic.warningSign": "●",
-    "diagnostic.displayByAle": false,
+    "diagnostic.displayByAle": true,
     "diagnostic.refreshOnInsertMode": true,
     //git
     "git.enableGutters": true,

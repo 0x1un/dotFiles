@@ -118,7 +118,6 @@
 
 - repo: kristijanhusak/defx-icons
   on_source: defx.nvim
-
 # }}}
 
 # Search Plugins{{{

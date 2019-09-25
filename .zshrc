@@ -75,7 +75,6 @@ zplugin load zdharma/history-search-multi-word # search history
 zplugin light zsh-users/zsh-autosuggestions # completion
 zplugin ice pick"async.zsh" src"pure.zsh" # what? I don't know..
 zplugin light sindresorhus/pure # theme
-zplugin load gretzky/auto-color-ls # ls color scheme
 
 # ignore case
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'

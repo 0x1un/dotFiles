@@ -202,7 +202,7 @@ dynamic_title: true
 live_config_reload: true
 
 shell:
-  program: /bin/fish
+  program: /bin/zsh
 
 key_bindings:
   - { key: J,        mods: Alt,           action: DecreaseFontSize       }

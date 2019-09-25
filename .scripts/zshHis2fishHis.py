@@ -27,5 +27,25 @@ def convert_to_fish_history_file(file: str):
                 continue
             f.write(f"- cmd: {p.group(2)}\n  when: {p.group(1)}\n")
 
+def parse_fish_history(file: str):
+    with open(file, 'rb+') as f:
+        history = f.readlines()
+        pattern_cmd = re.compile(r"- cmd: (.*)")
+        pattern_time = re.compile(r"  when: (\d+)")
+        rets = {}
+        for his in history:
+            try:
+                if his.startswith(b"- cmd:"):
+                    rets["cmd"] = pattern_cmd.match(his.decode('utf8')).group(1),
+                if his.startswith(b"  when:"):
+                    rets["timestamp"] = pattern_time.match(his.decode('utf8')).group(1)
+                yield rets
+            except UnicodeDecodeError:
+                continue
 
-convert_to_fish_history_file("./history")
+
+# convert_to_fish_history_file("./history")
+
+ret = parse_fish_history("/home/aumujun/.local/share/fish/fish_history")
+for r in ret:
+    print(r)

@@ -1,89 +1,91 @@
-export ZSH="/home/aumujun/.oh-my-zsh"
+# Enable colors and change prompt:
+autoload -U colors && colors
+# PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
 
-ZSH_THEME="lambda-mod"
-# ZSH_THEME="example"
-plugins=(
-  git
-  zsh-autosuggestions
-  # zsh-syntax-highlighting
-  fast-syntax-highlighting 
-)
+# History in cache directory:
+HISTSIZE=10000
+SAVEHIST=10000
+HISTFILE=~/.cache/zsh/history
 
-source $ZSH/oh-my-zsh.sh
+# Basic auto/tab complete:
+autoload -U compinit
+zstyle ':completion:*' menu select
+zmodload zsh/complist
+compinit
+_comp_options+=(globdots)		# Include hidden files.
 
-autoload -U compinit && compinit -u
+# vi mode
+bindkey -v
+export KEYTIMEOUT=1
 
-source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting-filetypes/zsh-syntax-highlighting-filetypes.zsh
+# Use vim keys in tab complete menu:
+bindkey -M menuselect 'h' vi-backward-char
+bindkey -M menuselect 'k' vi-up-line-or-history
+bindkey -M menuselect 'l' vi-forward-char
+bindkey -M menuselect 'j' vi-down-line-or-history
+bindkey -v '^?' backward-delete-char
 
-# source ~/SoftWare/zsh-autosuggestions/zsh-autosuggestions.zsh
-alias pc="proxychains4"
-v2rayPath="~/SoftW/v2ray-v2.42-linux-32"
-alias v2ray="$v2rayPath/v2ray -config $v2rayPath/vpoint_socks_vmess.json"
-alias v2="v2ray > ~/Log/v2ray.log 2>&1 &"
-alias c="clear"
-alias wget="wget -c"
-alias untar="tar -zxvf"
+# Change cursor shape for different vi modes.
+function zle-keymap-select {
+  if [[ ${KEYMAP} == vicmd ]] ||
+     [[ $1 = 'block' ]]; then
+    echo -ne '\e[1 q'
+  elif [[ ${KEYMAP} == main ]] ||
+       [[ ${KEYMAP} == viins ]] ||
+       [[ ${KEYMAP} = '' ]] ||
+       [[ $1 = 'beam' ]]; then
+    echo -ne '\e[5 q'
+  fi
+}
+zle -N zle-keymap-select
+zle-line-init() {
+    zle -K viins # initiate `vi insert` as keymap (can be removed if `bindkey -V` has been set elsewhere)
+    echo -ne "\e[5 q"
+}
+zle -N zle-line-init
+echo -ne '\e[5 q' # Use beam shape cursor on startup.
+preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
-#######Python虚拟环境#########
-export WORKON_HOME=$HOME/.virtualenvs
-export PROJECT_HOME=$HOME/workspace
-export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python
-source /usr/bin/virtualenvwrapper.sh
-#######Python虚拟环境结束#####
+# Use lf to switch directories and bind it to ctrl-o
+lfcd () {
+    tmp="$(mktemp)"
+    lf -last-dir-path="$tmp" "$@"
+    if [ -f "$tmp" ]; then
+        dir="$(cat "$tmp")"
+        rm -f "$tmp"
+        [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
+    fi
+}
+bindkey -s '^o' 'lfcd\n'
 
-#######Java8配置##########
-export JAVA_HOME=/opt/Java/Java8 
-export JRE_HOME=${JAVA_HOME}/jre
-export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
-export PATH=${JAVA_HOME}/bin:$PATH
-######Java8 end....######
-alias LinuxBackup="tar -zcvf ArchLinuxBackup.tar.gz --exclude-from=/home/aumujun/excl /"
-alias sudo="sudo "
-alias archBackup="rsync -aAXv --exclude-from=/home/aumujun/excl --delete / /run/media/aumujun/DATA/BackUp/Arch-Backup"
-alias backpkg="rsync -aAXv --progress --delete /var/cache/pacman/pkg/* /run/media/aumujun/DATA/PacmanCache/pkg"
-alias ungz="tar zxvf"
-alias top="htop"
+# Edit line in vim with ctrl-e:
+autoload edit-command-line; zle -N edit-command-line
+bindkey '^e' edit-command-line
 
+# Load aliases and shortcuts if existent.
+[ -f "$HOME/.config/shortcutrc" ] && source "$HOME/.config/shortcutrc"
+[ -f "$HOME/.config/aliasrc" ] && source "$HOME/.config/aliasrc"
 
-# export PROJECT_GO=$HOME/Project/Go
-# export GOROOT=/usr/lib/go
-export GOPATH=$HOME/GoP
-export PATH=$PATH:$GOPATH/bin
-# z.lua路径跳转工具
-eval "$(lua ~/.dotfiles/data/z.lua/z.lua --init zsh)"
-eval "$(lua ~/.dotfiles/data/z.lua/z.lua  --init zsh once enhanced)"    # ZSH 初始化
-alias zf="z -I"
-alias zb="z -b"
-alias godns="echo -e 'nameserver 114.114.114.114\nnameserver 114.114.115.115'"
-alias zreboot="sync && sleep 3 && reboot"
-alias zshutdown="sync && sleep 3 && shutdown -h now"
-alias kc="killall -q conky"
-alias i3config="vim ~/.config/i3/config"
-alias data="ranger /run/media/aumujun/DATA/"
-alias ref="exec $SHELL"
-alias vim="nvim"
-alias v="nvim"
-alias nv="nvim"
-alias vi="nvim"
-alias res="fg %1"
-alias ar="aria2c "
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
-# alias rm=trash
-# alias r=trash
-# alias rl='ls ~/.local/share/Trash/files/'
-# alias ur=recoverfile
-# recoverfile()
-# {
-	# mv -i ~/.local/share/Trash/files/$@ ./
-# }
-#
-# trash()
-# {
-	# mv $@ ~/.local/share/Trash/files/
-# }
+CASE_SENSITIVE="false"
+
+# Plugins loading
+source /usr/share/zsh/plugin-managers/zplugin/zplugin.zsh # manager of the plugins
+zplugin light zdharma/fast-syntax-highlighting # syntax highlighting
+zplugin load zdharma/history-search-multi-word # search history
+zplugin light zsh-users/zsh-autosuggestions # completion
+zplugin ice pick"async.zsh" src"pure.zsh" # what? I don't know..
+zplugin light sindresorhus/pure # theme
+zplugin load gretzky/auto-color-ls # ls color scheme
+
+# ignore case
+zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
+zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
 
 
-export GOPROXY=https://goproxy.io
-export GO111MODULE=on
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# aliases
+alias ..='cd ..'
+alias ...='cd ..&& cd ..'
+alias ....='cd ..&& cd .. && cd ..'
+alias ls='colorls'
+alias lc='colorls -lA --sd'

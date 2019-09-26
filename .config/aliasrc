@@ -1,0 +1,11 @@
+# Basic alias
+alias ..='cd ..'
+alias ...='cd ..&& cd ..'
+alias ....='cd ..&& cd .. && cd ..'
+alias ls='ls --color=auto'
+alias lc='colorls -lA --sd'
+alias vim='nvim'
+alias ping='prettyping'
+alias bcat='bat'
+alias du='ncdu --color dark -rr -x'
+alias grep='rg'

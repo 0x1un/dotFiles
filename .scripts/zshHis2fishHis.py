@@ -42,10 +42,3 @@ def parse_fish_history(file: str):
                 yield rets
             except UnicodeDecodeError:
                 continue
-
-
-# convert_to_fish_history_file("./history")
-
-ret = parse_fish_history("/home/aumujun/.local/share/fish/fish_history")
-for r in ret:
-    print(r)

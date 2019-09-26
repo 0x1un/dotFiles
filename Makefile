@@ -12,7 +12,7 @@ install:
 	@$(foreach var,$(SOME_DOT_FILES),ln -sf ${PWD}/$(var) $(TO)/$(var);)
 	@$(foreach var,$(CONFIG_SRC),ln -sf ${PWD}/$(var) $(TO)/$(var);)
 	@echo Copied config files into $(DOTCONFIG)
-	
+
 clean:
 	@$(foreach var,$(notdir $(CONFIG_SRC)),rm -rf $(DOTCONFIG)/$(var);)
 	@$(foreach var,$(SOME_DOT_FILES),unlink $(TO)/$(var);)

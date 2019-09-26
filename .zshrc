@@ -3,9 +3,10 @@ autoload -U colors && colors
 # PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
 
 # History in cache directory:
+HISTFILE=~/.zsh_history
 HISTSIZE=10000
-SAVEHIST=10000
-HISTFILE=~/.cache/zsh/history
+SAVEHIST=1000
+setopt SHARE_HISTORY
 
 # Basic auto/tab complete:
 autoload -U compinit
@@ -73,6 +74,7 @@ source /usr/share/zsh/plugin-managers/zplugin/zplugin.zsh # manager of the plugi
 zplugin light zdharma/fast-syntax-highlighting # syntax highlighting
 zplugin load zdharma/history-search-multi-word # search history
 zplugin light zsh-users/zsh-autosuggestions # completion
+zplugin light pkulev/zsh-rustup-completion # rustup completion
 zplugin ice pick"async.zsh" src"pure.zsh" # what? I don't know..
 zplugin light sindresorhus/pure # theme
 
@@ -80,11 +82,3 @@ zplugin light sindresorhus/pure # theme
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
-
-
-# aliases
-alias ..='cd ..'
-alias ...='cd ..&& cd ..'
-alias ....='cd ..&& cd .. && cd ..'
-alias ls='colorls'
-alias lc='colorls -lA --sd'

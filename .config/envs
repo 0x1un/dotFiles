@@ -1,0 +1,5 @@
+export GOPATH=$HOME/GoP
+export PATH=$PATH:$GOPATH/bin
+export RUSTUP_DIST_SERVER=http://mirrors.ustc.edu.cn/rust-static
+export RUSTUP_UPDATE_ROOT=http://mirrors.ustc.edu.cn/rust-static/rustup
+export GOPROXY=https://goproxy.cn

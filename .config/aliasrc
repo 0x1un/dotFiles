@@ -9,3 +9,6 @@ alias ping='prettyping'
 alias bcat='bat'
 alias du='ncdu --color dark -rr -x'
 alias grep='rg'
+
+# proxy
+alias v2='nohup v2ray >> ~/Log/v2ray.log 2>&1 &; echo "v2ray running in background."'

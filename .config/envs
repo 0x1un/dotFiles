@@ -1,6 +1,13 @@
+# Golang
 export GOPATH=$HOME/GoP
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN:$GOPATH
+export GOPROXY=https://goproxy.cn,direct
+
+# Rustup
 export RUSTUP_DIST_SERVER=http://mirrors.ustc.edu.cn/rust-static
 export RUSTUP_UPDATE_ROOT=http://mirrors.ustc.edu.cn/rust-static/rustup
-export GOPROXY=https://goproxy.cn
+
+# Misc
+export LOCALPATH=$HOME/.local
+export PATH=$PATH:$LOCALPATH/bin

@@ -305,6 +305,6 @@ bindsym $mod+Shift+period exec --no-startup-id mpc volume +5
 bindsym $mod+Shift+u exec --no-startup-id $term -e ranger /run/media/aumujun/DATA/
 
 # dunst notify send a message
-exec_always --no-startup-id echo ~/Rc/.config/i3/config | entr -p notify-send "🍕 Vim Configuration Has Been Updated."
+exec_always --no-startup-id echo ~/Rc/.config/i3/config | entr -p notify-send "🍕 i3wm Configuration Has Been Updated."
 exec_always --no-startup-id pgrep sxhkd || sxhkd &
 

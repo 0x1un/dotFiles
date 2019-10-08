@@ -12,3 +12,10 @@ alias grep='rg'
 
 # proxy
 alias v2='nohup v2ray >> ~/Log/v2ray.log 2>&1 &; echo "v2ray running in background."'
+
+# trash-cli
+alias rm='trash-put'
+alias rmt='trash-empty'
+alias rmm='trash-rm'
+alias rml='trash-list'
+alias rmr='trash-restore'

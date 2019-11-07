@@ -2,24 +2,12 @@
 let g:startify_padding_left = 30
 let s:header = [
       \ '',
-      \ '   __         _    _        _    _      _         _    ',
-      \ '  / /    ___ | |_ ( ) ___  | |_ | |__  (_) _ __  | | __',
-      \ ' / /    / _ \| __||/ / __| | __|| |_ \ | || |_ \ | |/ /',
-      \ '/ /___ |  __/| |_    \__ \ | |_ | | | || || | | ||   < ',
-      \ '\____/  \___| \__|   |___/  \__||_| |_||_||_| |_||_|\_\',
-      \ '                                                       ',
-      \ '             [ ThinkVim   Author:taigacute ]           ',
+      \ 'Let it go!',
       \ '',
       \ ]
 
 let s:footer = [
-      \ '+-------------------------------------------+',
-      \ '|            ThinkVim ^_^                   |',
-      \ '|    Talk is cheap Show me the code         |',
-      \ '|                                           |',
-      \ '|            GitHub:taigacute               |',
-      \ '+-------------------------------------------+',
-      \ ]
+     \ ]
 
 function! s:center(lines) abort
   let longest_line   = max(map(copy(a:lines), 'strwidth(v:val)'))

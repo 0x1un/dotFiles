@@ -16,7 +16,7 @@ let g:gruvbox_filetype_hi_groups = 1
 let g:gruvbox_plugin_hi_groups = 1
 " let g:gruvbox_transp_bg = 1
 let g:gruvbox_italicize_strings = 0
-colorscheme  gruvbox9_hard
+colorscheme space_vim_theme
 " colorscheme  solarized8_flat
 
 " let g:space_vim_transp_bg = 1

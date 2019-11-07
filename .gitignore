@@ -1,0 +1,14 @@
+playlists/*
+mpv/watch_later/*
+.config/mpd/database
+.config/mpd/log
+.config/mpd/pid
+.config/mpd/state
+.config/mpd/sticker.sql
+.config/mpd/playlists/*
+.trash
+.cache
+node_modules
+yarn.lock
+.config/fish/functions/list/
+.netrwhist

@@ -1,6 +1,6 @@
 {
     "suggest.triggerAfterInsertEnter": false,
-    "suggest.timeout": 500,
+    "suggest.timeout": 1000,
     "suggest.noselect": false,
     "suggest.detailField":"preview",
     "suggest.snippetIndicator": "🌟",

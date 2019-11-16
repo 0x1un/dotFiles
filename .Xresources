@@ -1,3 +1,10 @@
+Xft.dpi: 121
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
 !! The default colors are "Gruvbox":
 *.color0: #1d2021
 *.color1: #cc241d

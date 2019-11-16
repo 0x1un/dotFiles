@@ -6,7 +6,7 @@
 # env:
 env:
   TERM: xterm-256color
-  # WINIT_HIDPI_FACTOR: 1
+  WINIT_HIDPI_FACTOR: "1.0 alacritty"
 
 window:
   dimensions:
@@ -36,14 +36,6 @@ font:
     family: Monaco
     style: Regular
 
-  bold:
-    family: Monaco
-    style: Bold
-
-  italic:
-    family: Monaco
-    style: Italic
-
   size: 8.0
 
   # Offset is the extra space around each character. offset.y can be thought of
@@ -59,6 +51,7 @@ font:
     x: 0
     y: 0
 
+  scale_with_dpi: true
   # Scale the font size based on the monitor's DPI. This will lead to bigger text on HiDPI
   # screens and make reading text a little easier.
   # On X11 it is possible to change the DPI for each instance of alacritty by using
@@ -68,7 +61,7 @@ font:
   # OS X only: use thin stroke font rendering. Thin strokes are suitable
   # for retina displays, but for non-retina you probably want this set to
   # false.
-  use_thin_strokes: true
+  # use_thin_strokes: true
 
 debug:
     render_timer: false

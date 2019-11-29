@@ -71,7 +71,8 @@ bindkey '^e' edit-command-line
 CASE_SENSITIVE="false"
 
 # Plugins loading
-source /usr/share/zsh/plugin-managers/zplugin/zplugin.zsh # manager of the plugins
+# source /usr/share/zsh/plugin-managers/zplugin/zplugin.zsh # manager of the plugins
+source ~/.zplugin/bin/zplugin.zsh
 zplugin light zdharma/fast-syntax-highlighting # syntax highlighting
 zplugin load zdharma/history-search-multi-word # search history
 zplugin light zsh-users/zsh-autosuggestions # completion
@@ -86,3 +87,4 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 'l:|=* r:|=*'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# export LANG="en_US.UTF-8"

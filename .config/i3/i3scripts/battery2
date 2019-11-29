@@ -57,7 +57,7 @@ else:
     FA_BATTERY = "<span font='FontAwesome'>\uf240</span>"
 
     # stands for unknown status of battery
-    FA_QUESTION = "<span font='FontAwesome'>\uf128</span>"
+    FA_QUESTION = "<span font='FontAwesome'></span>"
 
     if state == "Discharging":
         fulltext = FA_BATTERY + " "

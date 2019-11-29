@@ -24,7 +24,7 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec --no-startup-id $term
-bindsym $mod+Shift+Return exec --no-startup-id termite
+bindsym $mod+Shift+Return exec --no-startup-id st
 bindsym $mod+Shift+m exec --no-startup-id alacritty --title="alacritty"
 
 # kill focused window
@@ -164,7 +164,7 @@ assign [class="Firefox"]            → $ws9
 assign [class="goland"]             → $ws2
 assign [class="pycharm"]            → $ws2
 assign [class="mpv"]                → $ws6
-assign [class="^Chromium$"]         → $ws3
+assign [class="Chromium"]         → $ws3
 assign [class="Telegram"]           → $ws8
 assign [class="Wireshark"]          → $ws9
 assign [class="electronic-wechat"]  → $ws8
@@ -285,13 +285,14 @@ bindsym $mod+Shift+a exec --no-startup-id flameshot gui
 # exec --no-startup-id xset dpms 365 1357
 # compton transparent
 
-exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' -o 0.7 --config ~/.config/compton/compton.conf
+# exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' -o 0.7 --config ~/.config/compton/compton.conf
+exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 -o 0.7 --config ~/.config/compton/compton.conf
 
 exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco"
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/nature-3082832.jpg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/big-tree.jpeg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
 bindsym $mod+x exec --no-startup-id killall -9 conky

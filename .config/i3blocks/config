@@ -21,7 +21,12 @@ markup=pango
 # command=~/.config/i3/i3scripts/fun.py
 # interval=120
 # color=#589df6
+#
 
+[vpn]
+command=printf "\\uf084 " && ~/Rc/.config/i3/i3scripts/vpn
+interval=120
+color=#589df6
 
 # Display current song
 [mediaplayer]
@@ -37,13 +42,6 @@ color=#E88939
 # interval=3600
 # color=#1793D1
 
-
-#OpenVPN
-[openvpn]
-command=printf "\uf084 " && ~/.config/i3/i3scripts/vpn.py
-interval=5
-color=#589df6
-
 # Free space of /home/
 # [home]
 # command=printf "\\uf015 " && ~/.config/i3/i3scripts/disk
@@ -53,7 +51,8 @@ color=#589df6
 
 # Free space of /
 [root]
-command=printf "\\uf292 " && ~/.config/i3/i3scripts/disk
+# command=printf "\\uf292 " && ~/.config/i3/i3scripts/disk
+command=printf "\\uf1c0 " && ~/.config/i3/i3scripts/disk
 instance=/
 interval=3600
 color=#f9555f
@@ -71,7 +70,8 @@ color=#589df6
 
 # Free RAM
 [memory]
-command=printf "\\uf013 " && ~/.config/i3/i3scripts/memory
+# command=printf "\\uf013 " && ~/.config/i3/i3scripts/memory
+command=printf " " && ~/.config/i3/i3scripts/memory
 interval=2
 color=#21b089
 
@@ -120,7 +120,7 @@ command=printf "\\uf073 " && date '+%F %A'
 interval=3600
 color=#f9555f
 
-# [weather]
-# command=curl -Ss 'https://wttr.in?0&T&Q' | cut -c 16- | head -2 | xargs echo
-# interval=3600
-# color=#A4C2F4
+[weather]
+command=printf " " && curl -Ss 'https://wttr.in?0&T&Q' | cut -c 16- | head -2 | xargs echo
+interval=3600
+color=#A4C2F4

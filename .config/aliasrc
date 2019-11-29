@@ -11,7 +11,8 @@ alias du='ncdu --color dark -rr -x'
 alias grep='rg'
 
 # proxy
-alias v2='nohup v2ray >> ~/Log/v2ray.log 2>&1 &; echo "v2ray running in background."'
+# alias v2='nohup v2ray >> ~/Log/v2ray.log 2>&1 &; echo "v2ray running in background."'
+alias v2='nohup ~/SoftW/v2ray-v2.42-linux-32/v2ray -config ~/SoftW/v2ray-v2.42-linux-32/vpoint_socks_vmess.json >> ~/Log/v2ray.log 2>&1 &; echo "v2ray running in background."'
 
 # trash-cli
 alias rm='trash-put'

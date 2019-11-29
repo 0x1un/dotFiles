@@ -1,4 +1,5 @@
-#!/home/aumujun/.virtualenvs/Monitor/bin/python
+#!/home/aumujun/.pyenv/shims/python3
+
 import psutil
 
 def get_v2ray_status() -> bool:

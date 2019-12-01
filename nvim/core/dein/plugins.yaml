@@ -277,6 +277,8 @@
   on_map: { ox: <Plug> }
   hook_add:  let g:textobj_multiblock_no_default_key_mappings = 1
 
+- repo: PotatoesMaster/i3-vim-syntax
+
 # }}}
 
 # CommentPLuins too old, or find much better plugins{{{

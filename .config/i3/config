@@ -272,7 +272,8 @@ exec_always --no-startup-id fcitx5
 set $mode_system select: lock(L) exit(E) reboot(R) poweroff(O) cancel(Esc)
 bindsym $mod+Shift+i mode "$mode_system"
 mode "$mode_system" {
-    bindsym l exec --no-startup-id i3lock-fancy -gpf Monaco, mode "default"
+    # bindsym l exec --no-startup-id i3lock-fancy -gpf Monaco, mode "default"
+    bindsym l exec --no-startup-id ~/.local/bin/i3lock-fancy-rapid 5 3, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
     bindsym r exec --no-startup-id systemctl reboot, mode "default"
     bindsym o exec --no-startup-id systemctl poweroff, mode "default"
@@ -288,7 +289,8 @@ bindsym $mod+Shift+a exec --no-startup-id flameshot gui
 # exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 --shadow-exclude 'bounding_shaped' -o 0.7 --config ~/.config/compton/compton.conf
 exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 -o 0.7 --config ~/.config/compton/compton.conf
 
-exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco"
+# exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco"
+exec_always --no-startup-id xautolock -time 15 -locker "~/.local/bin/i3lock-fancy-rapid 5 3"
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg

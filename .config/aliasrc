@@ -20,3 +20,6 @@ alias rmt='trash-empty'
 alias rmm='trash-rm'
 alias rml='trash-list'
 alias rmr='trash-restore'
+
+# editor
+alias code='/usr/bin/visual-studio-code'

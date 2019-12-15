@@ -202,7 +202,7 @@ bar {
 	# the -t flag is transparent mode
 	i3bar_command i3bar 
 	# font pango: SauceCodePro Nerd Font Black 10
-	mode hide
+	# mode hide
 	# hidden_state hide
 	modifier Mod4
 	font pango: Monaco 10, Icons 12
@@ -253,9 +253,9 @@ bindsym $mod+b border toggle
 new_window none
 for_window [class="^.*"] border pixel 0 
 for_window [class="Chromium"] floating disabled
-for_window [class="Firefox"] floating enable
+for_window [class="Firefox"] floating disabled
 for_window [class="Thunar"] floating enable
-for_window [class="mpv"] floating disabled 
+for_window [class="mpv"] floating disabled
 # copy the code to conky config
 # own_window yes
 # own_window_class Conky

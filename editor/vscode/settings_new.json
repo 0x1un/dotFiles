@@ -1,0 +1,83 @@
+{
+    // Editor
+    "editor.minimap.enabled": true,
+    "editor.detectIndentation": false,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "none",
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "editor.renderLineHighlight": "all",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    // Workbench
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    // Window
+    "window.titleBarStyle": "custom",
+    // 面包屑导航
+    "breadcrumbs.enabled": true,
+    // Markdown
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.renderWhitespace": "all",
+        "editor.quickSuggestions": {
+            "others": true,
+            "comments": true,
+            "strings": true
+        },
+        "editor.acceptSuggestionOnEnter": "on"
+    },
+
+    // Search
+    "search.showLineNumbers": true,
+    // Update
+    "update.enableWindowsBackgroundUpdates": false,
+    // Code Runner
+    "code-runner.runInTerminal": true,
+    // Go
+    "go.gopath": "/home/aumujun/GoP",
+    "go.inferGopath": true, // 使用 Go Modules 时无需 inferGopath
+    "go.useLanguageServer": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.gotoSymbol.includeImports": false,
+    "go.gotoSymbol.includeGoroot": false,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.lintOnSave": "file",
+    "go.buildOnSave": "off",
+    "go.formatTool": "goimports",
+    "go.testFlags": [
+        "-v"
+    ],
+    // gopls
+    "gopls": {
+        "completeUnimported": true,
+        "usePlaceholders": true,
+        "completionDocumentation": true,
+        "hoverKind": "SynopsisDocumentation" // No/Synopsis/Full, default Synopsis
+    },
+    // Terminal
+    "terminal.integrated.setLocaleVariables": false,
+    // 代理
+    "http.proxyStrictSSL": false,
+    // 网易云音乐
+    "NeteaseMusic.CDN.redirect": false,
+    // Git
+    "git.ignoreLegacyWarning": true,
+    // 字体
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    // 1.40.0+，自定义 activeBar 颜色
+    "workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#007AC7",
+        "activityBar.activeBackground": "#294A5B",
+    },
+    "workbench.colorTheme": "AS Roma Dark",
+    "editor.fontSize": 18,
+}

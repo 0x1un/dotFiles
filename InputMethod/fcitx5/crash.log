@@ -1,0 +1,18 @@
+=========================
+Fcitx 4.99.0 -- Get Signal No.: 11
+Date: try "date -d @1576330785" if you are using GNU date ***
+ProcessID: 1879
+fcitx5(+0xa235)[0x560130982235]
+/lib64/libc.so.6(+0x3a280)[0x7fea24d31280]
+/usr/lib64/libdbus-1.so.3(dbus_connection_set_watch_functions+0x20)[0x7fea24c4a0d0]
+/usr/lib64/libFcitx5Utils.so.1(_ZN5fcitx4dbus3Bus15attachEventLoopEPNS_9EventLoopE+0x76)[0x7fea251d4186]
+/usr/lib64/fcitx5/dbus.so(+0x882b)[0x7fea2401082b]
+/usr/lib64/fcitx5/dbus.so(+0x150ea)[0x7fea2401d0ea]
+/usr/lib64/libFcitx5Core.so.5(+0x60a36)[0x7fea252c1a36]
+/usr/lib64/libFcitx5Core.so.5(+0x62fa2)[0x7fea252c3fa2]
+/usr/lib64/libFcitx5Core.so.5(_ZN5fcitx12AddonManager4loadERKSt13unordered_setINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt4hashIS7_ESt8equal_toIS7_ESaIS7_EESF_+0x40f)[0x7fea252c34ff]
+/usr/lib64/libFcitx5Core.so.5(_ZN5fcitx8Instance10initializeEv+0x69f)[0x7fea252a469f]
+/usr/lib64/libFcitx5Core.so.5(_ZN5fcitx8Instance4execEv+0x1e)[0x7fea252a483e]
+fcitx5(+0x8d0a)[0x560130980d0a]
+/lib64/libc.so.6(__libc_start_main+0xeb)[0x7fea24d1ae8b]
+fcitx5(+0x93fa)[0x5601309813fa]

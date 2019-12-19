@@ -88,3 +88,7 @@ zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 # export LANG="en_US.UTF-8"
+#
+
+# Python virutal env
+fpath+=~/.config/zsh/zfunc

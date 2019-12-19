@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =9
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/aumujun/Project/Fisher/fisher'
+let g:netrw_dirhist_0='/home/aumujun/Rc/InputMethod/fcitx5/conf'
 let g:netrw_dirhist_9='/home/aumujun/.tmp/dotFiles/InputMethod/fcitx5/conf'
 let g:netrw_dirhist_8='/home/aumujun/Rc/.config/fcitx5/fcitx5'
 let g:netrw_dirhist_7='/etc/portage/make.profile'
@@ -8,4 +10,3 @@ let g:netrw_dirhist_5='/home/aumujun/.config/fcitx/conf'
 let g:netrw_dirhist_4='/home/aumujun/Project/peeka/cmd/screenshot/chatbot'
 let g:netrw_dirhist_3='/home/aumujun/SyncBak/Blog/.git'
 let g:netrw_dirhist_2='/home/aumujun/Rc/.config/sxhkd/sxhkd'
-let g:netrw_dirhist_1='/home/aumujun/Rc/.config/fish/fish'

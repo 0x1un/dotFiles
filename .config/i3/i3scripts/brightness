@@ -1,10 +1,20 @@
-#!/usr/bin/env lua
+#!/home/aumujun/.pyenv/shims/python
 
-function get_brightness()
-    return io.popen('xbacklight'):read("*all");
-end
+PATH = "/sys/class/backlight/intel_backlight/"
 
-local bn = get_brightness()
-local bn = string.format("%0.1f", bn)
-print(string.format(" %s%%", bn))
-os.exit()
+
+def get_current_light() -> int:
+    with open(PATH + "brightness") as f:
+        return int(f.read().strip())
+
+
+def get_max_light() -> int:
+    with open(PATH + "max_brightness") as f:
+        return int(f.read().strip())
+        
+
+if __name__ == "__main__":
+    current_light = get_current_light()
+    max_light = get_max_light()
+    percent = round(float(current_light / max_light) * 100)
+    print(" {}%".format(percent))

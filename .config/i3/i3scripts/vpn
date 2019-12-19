@@ -1,4 +1,4 @@
-#!/home/aumujun/.pyenv/shims/python3
+#!/usr/bin/env python
 
 import psutil
 

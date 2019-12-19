@@ -1,12 +1,13 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 #
-# Copyright (C) 2016 James Murphy
+# Copyright (C) 2018 0x1un
 # Licensed under the GPL version 2 only
 #
 # A battery indicator blocklet script for i3blocks
 
+# deps: sox to play sounds
+
 import re
-import os
 from subprocess import check_output
 
 status = check_output(['acpi'], universal_newlines=True)

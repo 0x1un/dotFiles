@@ -228,12 +228,17 @@ bindsym $mod+Tab exec --no-startup-id rofi -show window
 # bindsym XF86AudioRaiseVolume exec --no-startup-id amixer set Master 5%+ #increase sound volume
 # bindsym XF86AudioLowerVolume exec --no-startup-id amixer set Master 5%- #decrease sound volume
 # bindsym XF86AudioMute exec --no-startup-id amixer set Master 0 # mute sound
-bindsym XF86AudioMute		exec --no-startup-id lmc mute
-bindsym XF86AudioLowerVolume	exec --no-startup-id lmc down 5
-bindsym XF86AudioRaiseVolume	exec --no-startup-id lmc up 5
+bindsym XF86AudioMute		exec --no-startup-id ~/Rc/.scripts/lmc mute
+bindsym XF86AudioLowerVolume	exec --no-startup-id ~/Rc/.scripts/lmc down 5
+bindsym XF86AudioRaiseVolume	exec --no-startup-id ~/Rc/.scripts/lmc up 5
+
+
 # Sreen brightness controls
-bindsym XF86MonBrightnessUp exec xbacklight -inc 5 # increase screen brightness
-bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightness
+# bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 5 # increase screen brightness
+# bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightness
+
+bindsym XF86MonBrightnessUp exec --no-startup-id sudo ~/Rc/.scripts/bc.py inc 10 # increase screen brightness
+bindsym XF86MonBrightnessDown exec --no-startup-id sudo ~/Rc/.scripts/bc.py dec 10 # decrease screen brightness
 
 # 隐藏窗口和展开窗口
 bindsym $mod+minus move scratchpad

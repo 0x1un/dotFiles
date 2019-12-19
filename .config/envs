@@ -25,3 +25,6 @@ eval "$(pyenv virtualenv-init -)"
 # ccache
 export PATH="/usr/lib/ccache/bin${PATH:+:}$PATH"
 export CCACHE_DIR="/var/cache/ccache"
+
+# custom scripts
+export PATH=$PATH:$HOME/Rc/.scripts

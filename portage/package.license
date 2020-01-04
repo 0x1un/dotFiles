@@ -1,0 +1,14 @@
+# required by sys-kernel/genkernel-4.0.0_beta20::gentoo[firmware]
+# required by genkernel (argument)
+=sys-kernel/linux-firmware-20191108 linux-fw-redistributable no-source-code
+# required by x11-base/xorg-drivers-1.20-r1::gentoo[video_cards_nvidia]
+# required by x11-base/xorg-server-1.20.5::gentoo[xorg]
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+>=x11-drivers/nvidia-drivers-440.31 NVIDIA-r2
+# required by www-client/google-chrome (argument)
+>=www-client/google-chrome-78.0.3904.87 google-chrome
+# required by sys-firmware/intel-microcode (argument)
+>=sys-firmware/intel-microcode-20191115_p20191110 intel-ucode
+# required by fping (argument)
+>=net-analyzer/fping-4.2 fping
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code

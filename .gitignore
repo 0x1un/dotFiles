@@ -12,3 +12,4 @@ node_modules
 yarn.lock
 .config/fish/functions/list/
 .netrwhist
+crash.log

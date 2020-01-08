@@ -1,4 +1,4 @@
-#!/home/aumujun/.pyenv/shims/python
+#!/usr/bin/python
 
 PATH = "/sys/class/backlight/intel_backlight/"
 

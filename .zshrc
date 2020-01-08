@@ -1,3 +1,5 @@
+# export HTTPS_PROXY=socks5://127.0.0.1:1081
+# export HTTP_PROXY=socks5://127.0.0.1:1081
 # Enable colors and change prompt:
 autoload -U colors && colors
 # PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "

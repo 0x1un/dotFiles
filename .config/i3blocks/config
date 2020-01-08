@@ -24,7 +24,7 @@ markup=pango
 #
 
 [vpn]
-command=printf "\\uf084 " && ~/Rc/.config/i3/i3scripts/vpn
+command=printf "\\uf084 " && ~/.config/i3/i3scripts/vpn
 interval=120
 color=#589df6
 

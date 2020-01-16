@@ -11,12 +11,14 @@
 
 mpd_host = "127.0.0.1"
 mpd_port = "6600"
-mpd_music_dir = "/run/media/aumujun/DATA/CloudMusic"
+mpd_music_dir = "/media/disk/CloudMusic"
 
 ## Selected tracks ##
 selected_item_prefix = "* "
 discard_colors_if_item_is_selected = "no"
 
+# notification
+execute_on_song_change = notify-send "Now Playing ♫" "$(mpc current)"
 # Colors
 color1 = "magenta"
 color2 = "cyan" 

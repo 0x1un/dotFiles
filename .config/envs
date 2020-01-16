@@ -2,7 +2,8 @@
 export GOPATH=$HOME/GoP
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN:$GOPATH
-export GOPROXY=https://goproxy.cn,direct
+export GOPROXY=https://goproxy.cn
+export GO111MODULE=on
 
 # Rustup
 export RUSTUP_DIST_SERVER=http://mirrors.ustc.edu.cn/rust-static
@@ -15,12 +16,12 @@ export LOCALPATH=$HOME/.local
 export PATH=$PATH:$LOCALPATH/bin
 
 # pyenv
-export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$PATH"
-if command -v pyenv 1>/dev/null 2>&1; then
-    eval "$(pyenv init -)"
-fi
-eval "$(pyenv virtualenv-init -)"
+# export PYENV_ROOT="$HOME/.pyenv"
+# export PATH="$PYENV_ROOT/bin:$PATH"
+# if command -v pyenv 1>/dev/null 2>&1; then
+#     eval "$(pyenv init -)"
+# fi
+# eval "$(pyenv virtualenv-init -)"
 
 # ccache
 export PATH="/usr/lib/ccache/bin${PATH:+:}$PATH"

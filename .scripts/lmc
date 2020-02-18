@@ -4,10 +4,10 @@
 [ -z "$2" ] && num="2" || num="$2"
 
 case "$1" in
-	u*) ~/Rc/.scripts/pulsemixer --change-volume +"$num" ;;
-	d*) ~/Rc/.scripts/pulsemixer --change-volume -"$num" ;;
-	m*) ~/Rc/.scripts/pulsemixer --toggle-mute ;;
-	truemute) ~/Rc/.scripts/pulsemixer --mute ;;
+	u*) ~/RC/.scripts/pulsemixer --change-volume +"$num" ;;
+	d*) ~/RC/.scripts/pulsemixer --change-volume -"$num" ;;
+	m*) ~/RC/.scripts/pulsemixer --toggle-mute ;;
+	truemute) ~/RC/.scripts/pulsemixer --mute ;;
 	play) mpc play ;;
 	n*) mpc next ;;
 	prev) mpc prev ;;

@@ -295,11 +295,11 @@ bindsym $mod+Shift+a exec --no-startup-id flameshot gui
 exec --no-startup-id compton -D1 -l -24 -t -24 -r 16 -o 0.7 --config ~/.config/compton/compton.conf
 
 # exec_always --no-startup-id xautolock -time 10 -locker "i3lock-fancy -gpf Monaco"
-exec_always --no-startup-id xautolock -time 15 -locker "~/.local/bin/i3lock-fancy-rapid 5 3"
+exec_always --no-startup-id xautolock -time 60 -locker "~/.local/bin/i3lock-fancy-rapid 5 3"
 
 # set wallpaper
 # exec_always --no-startup-id feh --bg-scale ~/.wallpapers/night-of-mountain.jpeg
-exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/big-tree.jpeg
+exec_always --no-startup-id xwallpaper --zoom ~/.wallpapers/148467-download-santa-wallpaper-2560x1600-windows-7.jpg
 # run conky 
 bindsym $mod+c exec --no-startup-id conky -d
 bindsym $mod+x exec --no-startup-id killall -9 conky

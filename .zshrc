@@ -6,8 +6,8 @@ autoload -U colors && colors
 
 # History in cache directory:
 HISTFILE=~/.zsh_history
-HISTSIZE=10000
-SAVEHIST=1000
+HISTSIZE=1000000
+SAVEHIST=1000000
 setopt SHARE_HISTORY
 
 # Basic auto/tab complete:

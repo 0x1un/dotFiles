@@ -8,8 +8,10 @@ export GO111MODULE=on
 # Rustup
 export RUSTUP_DIST_SERVER=http://mirrors.ustc.edu.cn/rust-static
 export RUSTUP_UPDATE_ROOT=http://mirrors.ustc.edu.cn/rust-static/rustup
-export RUSTUP_BIN=$HOME/.cargo/bin
-export PATH=$PATH:$RUSTUP_BIN
+# export RUSTUP_BIN=$HOME/.local/bin
+# export RUSTUP_HOME=$HOME/.local/share/rustup
+# export CARGO_HOME=$HOME/.local/share/cargo
+# export PATH=$PATH:$CARGO_HOME/bin
 
 # Misc
 export LOCALPATH=$HOME/.local
@@ -29,3 +31,11 @@ export CCACHE_DIR="/var/cache/ccache"
 
 # custom scripts
 export PATH=$PATH:$HOME/Rc/.scripts
+
+# dingtalk
+export APP_AGENT_ID=341387440
+export APPKEY=dingkimljpj2mycouknv
+export APPSECRET=31eyI8v57QWhd5ub4L2-xw3m4z4SpI5OWyN0KhGdQqYpCqyw_DUeR2gP2FEQ66fP
+export APROVID=RPOC-DF144E91-AC5E-4938-A351-22338FF3B7D9
+export USERID=2749481918775803
+export DEPID=105372678

@@ -58,7 +58,6 @@
     //Snippet
     "coc.preferences.snippetStatusText": "Ⓢ ",
     //tslint
-    "tslint.autoFixOnSave": true,
     //prettier
     "coc.preferences.formatOnSaveFiletypes": ["css","markdown"],
     "prettier.statusItemText": "ⓟ ",
@@ -79,11 +78,6 @@
       "rootPatterns": ["go.mod"],
       "filetypes": ["go"]
         }
-    },
-   "rust": {
-      "command": "ra_lsp_server",
-      "filetypes": ["rust"],
-      "rootPatterns": ["Cargo.toml"]
     }
 }
 

@@ -3,8 +3,6 @@
 
 # StartUp Plugins{{{
 - repo: Shougo/dein.vim
-- repo: honza/vim-snippets
-- repo: taigacute/spaceline.vim
 
 #}}}
 
@@ -153,7 +151,6 @@
 # Language{{{
 
 - { repo: honza/dockerfile.vim, on_ft: Dockerfile }
-- { repo: junegunn/vim-emoji, on_ft: [markdown,vim] }
 
 - { repo: Vimjas/vim-python-pep8-indent, on_ft: python }
 - { repo: tmhedberg/SimpylFold, on_ft: python }
@@ -175,18 +172,6 @@
 - repo: fatih/vim-go
   on_ft: go
   hook_source: source  $VIM_PATH/core/plugins/vim-go.vim
-
-- repo: tpope/vim-markdown
-  on_ft: markdown
-  hook_add: |
-        let g:markdown_fenced_languages = [
-          \ 'html',
-          \ 'bash=sh',
-          \ 'css',
-          \ 'javascript',
-          \ 'js=javascript',
-          \ 'go',
-          \]
 
 # }}}
 
@@ -281,7 +266,3 @@
 
 # }}}
 
-# CommentPLuins too old, or find much better plugins{{{
-# - repo: rhysd/vim-operator-surround
-#   depends: [vim-operator-user, vim-textobj-multiblock]
-#   on_map:  { vnx : <Plug> }

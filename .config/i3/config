@@ -205,7 +205,7 @@ bar {
 	# mode hide
 	# hidden_state hide
 	modifier Mod4
-	font pango: FontAwesome 10, Icons 12, Monaco 10
+	font pango: FontAwesome 10, Icons 12, Noto 10
 	colors
 	{
 				 # Border	   # Background	        # Text
@@ -310,8 +310,8 @@ bindsym $mod+period exec --no-startup-id mpc next
 bindsym $mod+p exec --no-startup-id mpc toggle
 bindsym $mod+Shift+comma exec --no-startup-id mpc volume -5
 bindsym $mod+Shift+period exec --no-startup-id mpc volume +5
-bindsym $mod+Shift+u exec --no-startup-id $term -e ranger /run/media/aumujun/DATA/
+# bindsym $mod+Shift+u exec --no-startup-id $term -e ranger /run/media/aumujun/DATA/
 
 # dunst notify send a message
-exec_always --no-startup-id echo ~/Rc/.config/i3/config | entr -p notify-send "🍕 i3wm Configuration Has Been Updated."
+exec_always --no-startup-id echo ~/.config/i3/config | entr -p notify-send "i3wm Configuration Has Been Updated."
 exec_always --no-startup-id pgrep sxhkd || sxhkd &

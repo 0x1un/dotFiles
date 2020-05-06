@@ -14,8 +14,8 @@ window:
     lines: 24
 
   padding:
-    x: 10
-    y: 10
+    x: 0
+    y: 0
 
   dynamic_padding: false
 
@@ -24,7 +24,7 @@ window:
   # start_maximized: false
 
 scrolling:
-  history: 2500
+  history: 100000
   multiplier: 3
   # faux_multiplier: 3
   auto_scroll: false
@@ -66,113 +66,13 @@ font:
 debug:
     render_timer: false
 
-# Colors (Turing)
-# colors:
-  # primary:
-    # background: '0x263647'
-    # foreground: '0xeaeaea'
-    # bright_foreground: '0xffffff'
-#
-  # cursor:
-    # text: '0x000000'
-    # cursor: '0xffffff'
-#
-  # normal:
-    # black:   '0x000000'
-    # red:     '0xf9555f'
-    # green:   '0x21b089'
-    # yellow:  '0xfef02a'
-    # blue:    '0x589df6'
-    # magenta: '0x944d95'
-    # cyan:    '0x1f9ee7'
-    # white:   '0xdddddd'
-#
-  # bright:
-    # black:   '0x555555'
-    # red:     '0xfa8c8f'
-    # green:   '0x35bb9a'
-    # yellow:  '0xffff55'
-    # blue:    '0x589df6'
-    # magenta: '0xe75699'
-    # cyan:    '0x3979bc'
-    # white:   '0xffffff'
-#
-  # dim:
-    # black:   '0x333333'
-    # red:     '0xf2777a'
-    # green:   '0x99cc99'
-    # yellow:  '0xffcc66'
-    # blue:    '0x6699cc'
-    # magenta: '0xcc99cc'
-    # cyan:    '0x66cccc'
-    # white:   '0xdddddd'
-
-
-# Colors (Nord)
-# colors:
-   # # Default colors
-   # primary:
-     # background: '0x2E3440'
-     # foreground: '0xD8DEE9'
-#
-   # # Normal colors
-   # normal:
-     # black:   '0x3B4252'
-     # red:     '0xBF616A'
-     # green:   '0xA3BE8C'
-     # yellow:  '0xEBCB8B'
-     # blue:    '0x81A1C1'
-     # magenta: '0xB48EAD'
-     # cyan:    '0x88C0D0'
-     # white:   '0xE5E9F0'
-#
-   # # Bright colors
-   # bright:
-     # black:   '0x4C566A'
-     # red:     '0xBF616A'
-     # green:   '0xA3BE8C'
-     # yellow:  '0xEBCB8B'
-     # blue:    '0x81A1C1'
-     # magenta: '0xB48EAD'
-     # cyan:    '0x8FBCBB'
-     # white:   '0xECEFF4'
-
-# Colors (Ayu Dark)
-colors:
-  # Default colors
-  primary:
-    background: '0x0A0E14'
-    foreground: '0xB3B1AD'
-
-  # Normal colors
-  normal:
-    black: '0x01060E'
-    red: '0xEA6C73'
-    green: '0x91B362'
-    yellow: '0xF9AF4F'
-    blue: '0x53BDFA'
-    magenta: '0xFAE994'
-    cyan: '0x90E1C6'
-    white: '0xC7C7C7'
-
-  # Bright colors
-  bright:
-    black: '0x686868'
-    red: '0xF07178'
-    green: '0xC2D94C'
-    yellow: '0xFFB454'
-    blue: '0x59C2FF'
-    magenta: '0xFFEE99'
-    cyan: '0x95E6CB'
-    white: '0xFFFFFF'
-
 
 
 visual_bell:
   animation: EaseOutExpo
   duration: 0
 
-background_opacity: 0.7
+background_opacity: .9
 
 mouse_bindings:
   - { mouse: Middle, action: PasteSelection }
@@ -183,6 +83,35 @@ mouse:
   faux_scrolling_lines: 1
   hide_when_typing: false
 
+colors:
+  primary:
+    background: '#1d2021'
+    foreground: '#ebdbb2'
+
+  normal:
+    black:   '#282828'
+    red:     '#cc241d'
+    green:   '#98971a'
+    yellow:  '#d79921'
+    blue:    '#458588'
+    magenta: '#b16286'
+    cyan:    '#689d6a'
+    white:   '#a89984'
+
+  bright:
+    black:   '#928374'
+    red:     '#fb4934'
+    green:   '#b8bb26'
+    yellow:  '#fabd2f'
+    blue:    '#83a598'
+    magenta: '#d3869b'
+    cyan:    '#8ec07c'
+    white:   '#ebdbb2'
+
+  selection:
+    text: '0xffffff'
+    background: '0xdc3232'
+    white:   '0xffffff'
 cursor:
   style: Block
   unfocused_hollow: true

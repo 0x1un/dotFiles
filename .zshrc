@@ -94,3 +94,5 @@ zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*' 
 
 # Python virutal env
 fpath+=~/.config/zsh/zfunc
+
+source $HOME/.secret

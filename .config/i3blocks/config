@@ -28,6 +28,9 @@ command=printf "\\uf13d " && curl ip.sb
 interval=120
 color=#ffff00
 
+[netraffic]
+interval=2
+
 [vpn]
 command=printf "\\uf084 " && ~/.config/i3/i3scripts/vpn
 interval=120

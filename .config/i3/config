@@ -16,7 +16,8 @@ font pango: Monaco 8
 gaps inner 15
 gaps outer 15
 # smart_gaps on
-set $mod Mod4
+# set $mod Mod4 # win
+set $mod Mod1
 set $term --no-startup-id $TERMINAL
 
 # Use Mouse+$mod to drag floating windows to their wanted position
@@ -182,6 +183,7 @@ assign [class="Telegram"]           → $ws8
 assign [class="Wireshark"]          → $ws9
 assign [class="electronic-wechat"]  → $ws8
 assign [class="netease-cloud-music"] → $ws10
+assign [class="xfreerdp"] → $ws4
 
 # Defining colors
 
@@ -273,6 +275,7 @@ for_window [class="Chromium"] floating disabled
 for_window [class="Firefox"] floating disabled
 for_window [class="Thunar"] floating enable
 for_window [class="mpv"] floating disabled
+for_window [class="xfreerdp"] floating disabled
 # copy the code to conky config
 # own_window yes
 # own_window_class Conky
